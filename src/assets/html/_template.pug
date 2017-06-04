@@ -1,0 +1,52 @@
+- var websiteTitle = 'Brad Baris - Design/Creative & Web Engineer'
+- var metadataURL = 'https://bradbaris.com/'
+- var metadataImage = 'https://bradbaris.com/assets/img/og-thumbnail.jpg'
+- var metadataDescription = 'Designer by trade and hobby, Developer by nature and lifelong interest. Now a tech generalist, spanning full-stack web development and software engineering.'
+- var twitterName = '@bradbaris'
+
+block pageSpecificVars
+
+doctype
+html(lang='en')
+  head
+    title #{websiteTitle}#{pageTitle ? ' - ' + pageTitle : ''}
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible'  content='IE=Edge')
+    meta(name='author'                 content='Brad Baris')
+    meta(name='description'            content=metadataDescription)
+    meta(name='viewport'               content='width=device-width, initial-scale=1')
+    meta(itemprop='name'               content=websiteTitle)
+    meta(itemprop='description'        content=metadataDescription)
+    meta(property='og:title'           content=websiteTitle)
+    meta(property='og:site_name'       content=websiteTitle)
+    meta(property='og:type'            content='website')
+    meta(property='og:url'             content=metadataURL)
+    meta(property='og:description'     content=metadataDescription)
+    meta(property='og:image'           content=metadataImage)
+    meta(property='og:image:width'     content='1200')
+    meta(property='og:image:height'    content='650')
+    meta(name='twitter:card'           content='summary_large_image')
+    meta(name='twitter:site'           content=twitterName)
+    meta(name='twitter:title'          content=websiteTitle)
+    meta(name='twitter:description'    content=metadataDescription)
+    meta(name='twitter:creator'        content=twitterName)
+    meta(name='twitter:image'          content=metadataImage)    
+    include _favicons.pug
+    link(rel='stylesheet', type='text/css', href='assets/css/master.css')
+  body
+
+    // TODO: NAVIGATION
+
+    block content
+
+    // TODO: FOOTER
+
+    script(src='assets/js/main.js')
+    script.
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-24679984-1', 'auto');
+      ga('send', 'pageview');
