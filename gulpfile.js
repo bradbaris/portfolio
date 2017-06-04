@@ -113,11 +113,8 @@ gulp.task('css', ['html'], () => {
         lost,
         postcss_reporter
         ];
-                    // order-specific
-  return gulp.src([ `${paths.src.css}/webfonts.css`,
-                    `${paths.src.css}/reeeset.css`,
-                    `${paths.src.css}/**/*.css` 
-                  ])
+
+  return gulp.src(`${paths.src.css}/main.css`)
     .pipe(gulp_sourcemaps.init())
     .pipe(gulp_postcss(processors))
     .pipe(argv.production ? gulp_uncss({ 
@@ -227,11 +224,11 @@ gulp.task('browsersync', ['build'], () => {
     port: 8080,
     ui: { port: 3000 },
     files: [
-      `${paths.build.html  }/*.*`,
-      `${paths.build.js    }/*.*`,
-      `${paths.build.fonts }/*.*`,
-      `${paths.build.css   }/*.*`,
-      `${paths.build.images}/*.*`
+      `${paths.build.html  }/**/*.*`,
+      `${paths.build.js    }/**/*.*`,
+      `${paths.build.fonts }/**/*.*`,
+      `${paths.build.css   }/**/*.*`,
+      `${paths.build.images}/**/*.*`
       ],
     injectChanges: true,
     watchOptions: { ignoreInitial: true },
