@@ -1,3 +1,8 @@
-html {
-  color: inherit; /*placeholder*/
-}
+$solid-black      : #000000;
+$solid-white      : #ffffff;
+$solid-blue       : #003049;
+$solid-red        : #D62828;
+$solid-orange     : #F77F00;
+$solid-yellow     : #FCBF49;
+$solid-beige      : #EAE2B7;
+$solid-turquoise  : #52d1dc;

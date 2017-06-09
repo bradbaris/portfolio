@@ -35,12 +35,11 @@ html(lang='en')
     link(rel='stylesheet', type='text/css', href='assets/css/master.css')
   body
 
-    // TODO: NAVIGATION
-
     block content
+    #gridfolio--container
+    include _footer.pug
 
-    // TODO: FOOTER
-
+    script(src='assets/js/vendor/gridfolio.js')
     script(src='assets/js/main.js')
     script.
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

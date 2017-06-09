@@ -32,8 +32,8 @@ const fs                       = require('fs'),
       nlf                      = require('nlf'),
       argv                     = require('minimist')(process.argv),
       postcss_easy_import      = require('postcss-easy-import'),
+      postcss_nested           = require('postcss-nested'),
       postcss_reporter         = require('postcss-reporter'),
-      postcss_responsive_type  = require('postcss-responsive-type'),
       postcss_simple_vars      = require('postcss-simple-vars'),
       vinyl_buffer             = require('vinyl-buffer'),
       vinyl_source             = require('vinyl-source-stream');
@@ -109,7 +109,7 @@ gulp.task('css', ['html'], () => {
   const processors = [
         postcss_easy_import,
         postcss_simple_vars,
-        postcss_responsive_type,
+        postcss_nested,
         lost,
         postcss_reporter
         ];
@@ -132,6 +132,10 @@ gulp.task('fonts', () => {
 });
 
 gulp.task('js', () => {
+
+  gulp.src(`${paths.src.js}/vendor/*.js`)
+    .pipe(gulp.dest(paths.build.js+'/vendor'));
+
   return browserify(`${paths.src.js}/main.js`)
     .transform(babelify)
     .bundle()

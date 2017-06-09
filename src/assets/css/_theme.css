@@ -1,0 +1,135 @@
+/*
+  Fonts Reference
+  -----
+  Note: For some reason, the Black & Ultra font-weights are swapped.
+
+  Uniform 300 (Light  )
+  Uniform 400 (Regular)
+  Uniform 500 (Medium )
+  Uniform 600 (Bold   )
+  Uniform 900 (Black  )
+  Uniform 800 (Ultra  )
+  Uniform Condensed 300 (Light  )
+  Uniform Condensed 400 (Regular)
+  Uniform Condensed 500 (Medium )
+  Uniform Condensed 600 (Bold   )
+  Uniform Condensed 900 (Black  )
+  Uniform Condensed 800 (Ultra  )
+  Uniform Extra Condensed 300 (Light  )
+  Uniform Extra Condensed 400 (Regular)
+  Uniform Extra Condensed 500 (Medium )
+  Uniform Extra Condensed 600 (Bold   )
+  Uniform Extra Condensed 900 (Black  )
+  Uniform Extra Condensed 800 (Ultra  )
+*/
+
+.gridfolio--block .gridfolio--block-content {
+  background-size: cover;
+}
+
+.gridfolio--block.dark-bg .gridfolio--block-content {
+  color: $solid-white;
+}
+
+.gridfolio--block.dark-bg .gridfolio--block-tags span {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* SOLID COLORS */
+
+.gridfolio--block.solid-black .gridfolio--block-content {
+  background-color: $solid-black;
+  color: $solid-white;
+}
+
+.gridfolio--block.solid-white .gridfolio--block-content {
+  background-color: $solid-white;
+}
+
+.gridfolio--block.solid-blue .gridfolio--block-content {
+  background-color: $solid-blue;
+}
+
+.gridfolio--block.solid-red .gridfolio--block-content {
+  background-color: $solid-red;
+}
+
+.gridfolio--block.solid-orange .gridfolio--block-content {
+  background-color: $solid-orange;
+}
+
+.gridfolio--block.solid-yellow .gridfolio--block-content {
+  background-color: $solid-yellow;
+}
+
+.gridfolio--block.solid-beige .gridfolio--block-content {
+  background-color: $solid-beige;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-content {
+  padding: 30px;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-title {
+  font-family: UniformMedium-Regular;
+  color: $solid-white;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 60px;
+  word-wrap: break-word;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-content:hover .gridfolio--block-title {
+  color: $solid-turquoise;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-description-wrapper {
+  font-size: 16px;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-description {
+  font-weight: 100;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-tags-wrapper {
+  font-size: 7px;
+  letter-spacing: 0.2em;
+  text-align: right;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-tags span {
+  font-weight: 600;
+  background-color: transparent;
+  /*border-bottom: 2px solid #fff;*/
+}
+
+.gridfolio[data-theme="baris"] .headline .gridfolio--block-content {
+  & .gridfolio--block-title {
+    color: $solid-black;
+  }
+  color: #000;
+}
+
+.baseline-icon {
+  position: relative;
+  top: 4px;
+}
+
+@media (min-width: 500px) {
+  .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 900px) {
+  .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
+    font-size: 30px;
+  }
+}

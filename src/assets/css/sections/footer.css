@@ -1,0 +1,71 @@
+footer {
+  lost-utility: clearfix;
+  font-family: UniformMedium-Regular;
+  color: #000;
+  font-weight: 800;
+  font-style: normal;
+  padding: 40px 40px 200px;
+  background-image: url('../img/asanoha-400px.jpg');
+}
+
+.footer__contact:hover {
+  color: $solid-yellow;
+}
+
+footer div {
+  lost-column: 1/2;
+}
+
+.footer__social-media {
+  lost-align: top-right;
+}
+
+.footer__copyright {
+  height: 60px;
+  lost-column: 1;
+  lost-align: left;
+  font-size: 10px;
+  color: #bbb;
+}
+
+ul.social-media__list li.social-media__item {
+  display: inline-block;
+  margin-right: 5vw;
+  width: 30px;
+  height: 30px;
+}
+
+ul.social-media__list li.social-media__item svg:hover {
+  fill: $solid-yellow;
+}
+
+ul.social-media__list li.social-media__item:last-of-type {
+  margin-right: 0;
+}
+
+@media (max-width: 600px) {
+
+  .footer__contact {
+    height: 200px;
+    lost-center: 600px;
+    lost-column: 1;
+    lost-align: center;
+    text-align: center;
+  }
+
+  .footer__social-media {
+    height: 100px;
+    lost-center: 600px;
+    lost-column: 1;
+    lost-align: center;
+    text-align: center;
+  }
+
+  .footer__copyright {
+    lost-center: 600px;
+    lost-column: 1;
+    lost-align: center;
+    text-align: center;
+  }
+}
+

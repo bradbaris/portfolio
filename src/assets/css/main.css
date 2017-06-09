@@ -1,9 +1,10 @@
 @import './vendor/webfonts.css';
 @import './vendor/reeeset.css';
-@import './vendor/*.css';
+@import './vendor/**/*';
 
 @import '_variables.css';
-@import '_structure.css';
+@import '_theme.css';
 @import '_animations.css';
 
-@import 'components/**/*.css';
+@import 'components/**/*';
+@import 'sections/**/*';
