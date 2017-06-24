@@ -11,20 +11,20 @@ module.exports =
     title: 'Emails for Chaminade',
     description: 'Cross-platform email designs done for inaugural constituent campaigns at Chaminade University',
     tags: ['email', 'ui', 'data', 'html'],
-    url: 'https://bradbaris.com/design/chaminade.html',
+    url: 'chaminade.html',
     classname: 'blue chaminade-email'
   },
   {
     title: 'Natural Science Posters',
     description: 'Designed large subject posters for each of the Natural Science departments.',
     tags: ['design', 'print'],
-    url: 'https://bradbaris.com/design/natsci-posters.html',
+    url: 'natsci-posters.html',
     classname: 'yellow natsci-poster'
   },
   {
     title: 'CNS Annual Reports',
     description: 'Assembled and designed annual reports for the College of Natural Sciences.',
-    url: 'https://bradbaris.com/design/natsci-reports.html',
+    url: 'natsci-reports.html',
     tags: ['catalog', 'design', 'print'],
     classname: 'orange natsci-report'
   },
@@ -32,27 +32,27 @@ module.exports =
     title: 'Astronomy & Astrophysics',
     description: 'Designed multipage mailers for the Institute for Astronomy, promoting space studies.',
     tags: ['design', 'print'],
-    url: 'https://bradbaris.com/design/astronomy.html',
+    url: 'astronomy.html',
     classname: 'yellow astronomy'
   },
   {
     title: 'Navy Ombudsman',
     description: 'Designed comprehensive collateral for Navy Ombudsman event, including event signage and branding and challenge coins.',
     tags: ['design', 'print', 'branding'],
-    url: 'https://bradbaris.com/design/ombudsman.html',
+    url: 'ombudsman.html',
     classname: 'beige ombudsman'
   },
   {
     title: 'Aloha Street Magazine',
     description: 'Helmed the migration and production of Aloha Street Magazine, refactoring workflows and overhauling the magazine&lsquo;s internal workflow.',
     tags: ['production', 'design', 'catalog', 'print'],
-    url: 'https://bradbaris.com/design/aloha-street.html',
+    url: 'aloha-street.html',
     classname: 'black aloha-street'
   },
   {
     title: 'Great Life Hawaii Magazine Ads',
     description: 'A curated set from the hundreds of multiformat ads created for Great Life Hawaii magazine.',
-    url: 'https://bradbaris.com/design/mwr.html',
+    url: 'mwr.html',
     tags: ['design', 'print', 'misc'],
     classname: 'red mwr'
   },
@@ -60,13 +60,13 @@ module.exports =
     title: 'Ilikai 50th Anniversary',
     description: 'Collateral design for a special event for Ilikai Hotel, including signage and stationery.',
     tags: ['design', 'print', 'branding', 'misc'],
-    url: 'https://bradbaris.com/design/ilikai.html',
+    url: 'ilikai.html',
     classname: 'orange ilikai'
   },
   {
     title: 'Design for UH Manoa',
     description: 'Miscellaneous design work done for the University of Hawai&lsquo;i at M&amacr;noa, at the College of Natural Sciences and the UH Honors Program.',
-    url: 'https://bradbaris.com/design/honors.html',
+    url: 'honors.html',
     tags: ['design', 'print', 'branding', 'misc'],
     classname: 'yellow honors'
   },
@@ -74,14 +74,14 @@ module.exports =
     title: 'Followgraphic',
     description: 'An ancient entry into 10K Apart, creating a web app in under 10kb. Followgraphic is a simple dataviz of Twitter followers as pixels.',
     tags: ['html', 'css', 'javascript'],
-    url: 'https://bradbaris.com/design/followgraphic.html',
+    url: 'followgraphic.html',
     classname: 'beige followgraphic'
   },
   {
     title: 'Ancient Artifacts',
     description: 'Old logos and miscellaneous work from over the years, including college design work.',
     tags: ['design', 'branding', 'misc'],
-    url: 'https://bradbaris.com/design/oldwork.html',
+    url: 'oldwork.html',
     classname: 'blue oldwork'
   }
 ]

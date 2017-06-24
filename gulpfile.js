@@ -200,23 +200,6 @@ gulp.task('watch', ['browsersync'], () => {
   gulp.watch(`${paths.src.favicons}/**/*.{jpg,png,svg}`, ['favicons']);
 });
 
-// In hindsight, this is actually kinda stupid and pointless
-/*
-gulp.task('watch:gulp', ['watch', 'browsersync'], () => {
-  gulp.watch('gulpfile.js', () => {
-    if (gulp_process) { gulp_process.kill(); }
-    browser_sync.pause();
-    gulp_process = spawn('gulp', ['build'], { stdio: 'inherit' });
-    gulp_util.log(gulp_util.colors.cyan(`${gulp_process.pid} SPAWN (CHILD)`));
-    (argv.production) ? gulp_util.log(gulp_util.colors.green(`INHERITED ENV ARG ${process.argv[2]}`)) : gulp_util.noop();
-    gulp_process.on('exit', () => {
-      gulp_util.log(gulp_util.colors.cyan(`${gulp_process.pid} KILL (CHILD)`));
-      browser_sync.resume();
-    });
-  });
-});
-*/
-
 /////////////////////////////////////////////////////////////////////
 // BROWSERSYNC SERVER ///////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////
@@ -251,7 +234,7 @@ gulp.task('browsersync', ['build'], () => {
 // gulp deploy --production   // rsync push to production
 
 gulp.task('deploy', () => {
-  const rsync_paths = paths.base.build + '/';
+  const rsync_paths = `${paths.base.build}/`;
   const rsync_conf = {
           progress        : true,
           incremental     : true,
@@ -259,7 +242,10 @@ gulp.task('deploy', () => {
           emptyDirectories: true,
           recursive       : true,
           clean           : true,
-          exclude         : []
+          archive         : true,
+          compress        : true,
+          silent          : false,
+          exclude         : ['.DS_Store']
         };
   
   if (argv.staging) {
