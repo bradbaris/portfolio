@@ -50,8 +50,8 @@ module.exports =
     classname: 'black aloha-street'
   },
   {
-    title: 'Great Life Hawaii Magazine Ads',
-    description: 'A curated set from the hundreds of multiformat ads created for Great Life Hawaii magazine.',
+    title: 'Great Life Hawai&lsquo;i Magazine',
+    description: 'A curated set from the hundreds of multiformat ads created for Great Life Hawai&lsquo;i magazine.',
     url: 'mwr.html',
     tags: ['design', 'print', 'misc'],
     classname: 'red mwr'
@@ -64,7 +64,7 @@ module.exports =
     classname: 'orange ilikai'
   },
   {
-    title: 'Design for UH Manoa',
+    title: 'Design for UH M&amacr;noa',
     description: 'Miscellaneous design work done for the University of Hawai&lsquo;i at M&amacr;noa, at the College of Natural Sciences and the UH Honors Program.',
     url: 'honors.html',
     tags: ['design', 'print', 'branding', 'misc'],
