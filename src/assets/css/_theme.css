@@ -171,15 +171,18 @@
 }
 
 .project--images {
+  overflow: hidden;
   background-color: #eee;
   width: calc(100% / 3 * 2);
 }
 
 .project--images img {
   filter: drop-shadow(2px 4px 3px #333);
+  width: 100%;
   max-width: 1000px;
-  position: fixed;
-  bottom: 0;
+  position: relative;
+  top: 10%;
+  margin: 0 auto;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content {
@@ -264,7 +267,8 @@
   }
   .project--images img {
     position: relative;
-    width: 90vw;
+    width: 70vw;
+    height: auto;
   }
   .project--writeup h1 {
     font-size: calc(3rem + 2vw);

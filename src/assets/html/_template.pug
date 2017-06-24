@@ -1,5 +1,5 @@
 - var websiteTitle = 'Brad Baris - Design/Creative & Web Engineer'
-- var metadataURL = 'https://bradbaris.com/'
+- var metadataURL = 'https://bradbaris.com/design'
 - var metadataImage = 'https://bradbaris.com/design/assets/img/og_thumbnail.jpg'
 - var metadataDescription = 'Designer by trade and hobby, Developer by nature and lifelong interest. Now a tech generalist, spanning full-stack web development and software engineering.'
 - var twitterName = '@bradbaris'
@@ -11,28 +11,28 @@ html(lang='en')
   head
     title #{websiteTitle}#{pageTitle ? ' - ' + pageTitle : ''}
     meta(charset='utf-8')
-    meta(http-equiv='X-UA-Compatible'  content='IE=Edge')
-    meta(name='author'                 content='Brad Baris')
-    meta(name='description'            content=metadataDescription)
-    meta(name='viewport'               content='width=device-width, initial-scale=1')
-    meta(itemprop='name'               content=websiteTitle)
-    meta(itemprop='description'        content=metadataDescription)
-    meta(property='og:title'           content=websiteTitle)
-    meta(property='og:site_name'       content=websiteTitle)
-    meta(property='og:type'            content='website')
-    meta(property='og:url'             content=metadataURL)
-    meta(property='og:description'     content=metadataDescription)
-    meta(property='og:image'           content=metadataImage)
-    meta(property='og:image:width'     content='1200')
-    meta(property='og:image:height'    content='650')
-    meta(name='twitter:card'           content='summary_large_image')
-    meta(name='twitter:site'           content=twitterName)
-    meta(name='twitter:title'          content=websiteTitle)
-    meta(name='twitter:description'    content=metadataDescription)
-    meta(name='twitter:creator'        content=twitterName)
-    meta(name='twitter:image'          content=metadataImage)    
+    meta(http-equiv='X-UA-Compatible'   content='IE=Edge')
+    meta(name='author'                  content='Brad Baris')
+    meta(name='description'             content=metadataDescription)
+    meta(name='viewport'                content='width=device-width, initial-scale=1')
+    meta(itemprop='name'                content=websiteTitle)
+    meta(itemprop='description'         content=metadataDescription)
+    meta(property='og:title'            content=websiteTitle)
+    meta(property='og:site_name'        content=websiteTitle)
+    meta(property='og:type'             content='website')
+    meta(property='og:url'              content=metadataURL)
+    meta(property='og:description'      content=metadataDescription)
+    meta(property='og:image:secure_url' content=metadataImage)
+    meta(property='og:image:width'      content='1200')
+    meta(property='og:image:height'     content='650')
+    meta(name='twitter:card'            content='summary_large_image')
+    meta(name='twitter:site'            content=twitterName)
+    meta(name='twitter:title'           content=websiteTitle)
+    meta(name='twitter:description'     content=metadataDescription)
+    meta(name='twitter:creator'         content=twitterName)
+    meta(name='twitter:image'           content=metadataImage)    
     include _favicons.pug
-    link(rel='canonical' href='https://bradbaris.com/design')
+    link(rel='canonical' href=metadataURL)
     link(rel='stylesheet', type='text/css', href='assets/css/master.css')
   body
 

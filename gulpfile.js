@@ -251,7 +251,7 @@ gulp.task('browsersync', ['build'], () => {
 // gulp deploy --production   // rsync push to production
 
 gulp.task('deploy', () => {
-  const rsync_paths = paths.base.build;
+  const rsync_paths = paths.base.build + '/';
   const rsync_conf = {
           progress        : true,
           incremental     : true,
