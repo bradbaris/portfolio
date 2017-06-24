@@ -1,8 +1,27 @@
-$solid-black      : #000000;
-$solid-white      : #ffffff;
-$solid-blue       : #003049;
-$solid-red        : #D62828;
-$solid-orange     : #F77F00;
-$solid-yellow     : #FCBF49;
-$solid-beige      : #EAE2B7;
-$solid-turquoise  : #52d1dc;
+$header-serif     : 'Abril Fatface', Georgia, Times, serif;
+$uniform-sans     : UniformMedium-Regular, Arial, sans-serif;
+$uniform-condsans : UniformCondensedMedium-Regular, Arial, sans-serif;
+$arial-sans       : Arial, sans-serif;
+
+/* https://coolors.co/003049-d62828-f77f00-fcbf49-eae2b7 */
+$black           : #000000;
+$white           : #FFFFFF;
+$turquoise       : #52D1DC;
+$blue            : rgba(0, 48, 73, 1);      /* #003049 */
+$red             : rgba(214, 40, 40, 1);    /* #D62828 */
+$orange          : rgba(247, 127, 0, 1);    /* #F77F00 */
+$yellow          : rgba(252, 191, 73, 1);   /* #FCBF49 */
+$beige           : rgba(234, 226, 183, 1);  /* #EAE2B7 */
+$cham-blue       : #003399;
+
+.text-black      { color: $black;    }
+.text-white      { color: $white;    }
+.text-turquoise  { color: $turquoise;}
+.text-blue       { color: $blue;     }
+.text-red        { color: $red;      }
+.text-orange     { color: $orange;   }
+.text-yellow     { color: $yellow;   }
+.text-beige      { color: $beige;    }
+.text-cham-blue  { color: $cham-blue;}
+.text-uniform    { font-family: $uniform-sans;}
+.text-uniformcnd { font-family: $uniform-condsans;}

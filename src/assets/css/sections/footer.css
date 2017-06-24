@@ -1,6 +1,6 @@
 footer {
   lost-utility: clearfix;
-  font-family: UniformMedium-Regular;
+  font-family: $uniform-sans;
   color: #000;
   font-weight: 800;
   font-style: normal;
@@ -9,7 +9,7 @@ footer {
 }
 
 .footer__contact:hover {
-  color: $solid-yellow;
+  color: $yellow;
 }
 
 footer div {
@@ -36,7 +36,7 @@ ul.social-media__list li.social-media__item {
 }
 
 ul.social-media__list li.social-media__item svg:hover {
-  fill: $solid-yellow;
+  fill: $yellow;
 }
 
 ul.social-media__list li.social-media__item:last-of-type {

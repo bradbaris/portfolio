@@ -25,45 +25,161 @@
 
 .gridfolio--block .gridfolio--block-content {
   background-size: cover;
+  overflow: hidden;
 }
 
-.gridfolio--block.dark-bg .gridfolio--block-content {
-  color: $solid-white;
+.gridfolio--block.black .gridfolio--block-content {
+  background-color: $black;
+  color: $white;
 }
 
-.gridfolio--block.dark-bg .gridfolio--block-tags span {
-  background-color: rgba(0,0,0,0.8);
+.gridfolio--block.white .gridfolio--block-content {
+  background-color: $white;
+  color: $black;
+
+  & .gridfolio--block-title {
+    color: $black;
+  }
 }
 
-/* SOLID COLORS */
-
-.gridfolio--block.solid-black .gridfolio--block-content {
-  background-color: $solid-black;
-  color: $solid-white;
+.gridfolio--block.chaminade-email .gridfolio--block-content {
+  background-image: url("../img/work/chaminade.png");
 }
 
-.gridfolio--block.solid-white .gridfolio--block-content {
-  background-color: $solid-white;
+.gridfolio--block.natsci-poster .gridfolio--block-content {
+  background-image: url("../img/work/natsci_poster.png");
 }
 
-.gridfolio--block.solid-blue .gridfolio--block-content {
-  background-color: $solid-blue;
+.gridfolio--block.natsci-report .gridfolio--block-content {
+  background-image: url("../img/work/natsci_report.png");
 }
 
-.gridfolio--block.solid-red .gridfolio--block-content {
-  background-color: $solid-red;
+.gridfolio--block.astronomy .gridfolio--block-content {
+  background-image: url("../img/work/astronomy.png");
 }
 
-.gridfolio--block.solid-orange .gridfolio--block-content {
-  background-color: $solid-orange;
+.gridfolio--block.ombudsman .gridfolio--block-content {
+  background-image: url("../img/work/ombudsman.png");
 }
 
-.gridfolio--block.solid-yellow .gridfolio--block-content {
-  background-color: $solid-yellow;
+.gridfolio--block.aloha-street .gridfolio--block-content {
+  background-image: url("../img/work/alohastreet.png");
 }
 
-.gridfolio--block.solid-beige .gridfolio--block-content {
-  background-color: $solid-beige;
+.gridfolio--block.mwr .gridfolio--block-content {
+  background-image: url("../img/work/mwr.png");
+}
+
+.gridfolio--block.ilikai .gridfolio--block-content {
+  background-image: url("../img/work/ilikai.png");
+}
+
+.gridfolio--block.honors .gridfolio--block-content {
+  background-image: url("../img/work/honors.png");
+}
+
+.gridfolio--block.followgraphic .gridfolio--block-content {
+  background-image: url("../img/work/followgraphic.png");
+}
+
+.gridfolio--block.oldwork .gridfolio--block-content {
+  background-image: url("../img/work/oldwork.png");
+}
+
+.gridfolio--block.blue .gridfolio--block-content {
+  background-color: $blue;
+  color: $turquoise;
+}
+
+.gridfolio--block.red .gridfolio--block-content {
+  background-color: $red;
+  color: $beige;
+}
+
+.gridfolio--block.orange .gridfolio--block-content {
+  background-color: $orange;
+  color: $black;
+}
+
+.gridfolio--block.yellow .gridfolio--block-content {
+  background-color: $yellow;
+  color: $black;
+}
+
+.gridfolio--block.beige .gridfolio--block-content {
+  background-color: $beige;
+  color: $black;
+}
+
+.project--content {
+  display: flex;
+  height: 100vh;
+}
+
+.project--writeup, .project--images {
+  display: flex;
+  flex-direction: column;
+}
+
+.project--writeup {
+  padding: 60px;
+  text-align: left;
+  width: calc(100% / 3 * 1);
+
+  & p {
+    font-family: $arial-sans;
+    line-height: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+  }
+
+  & h1,h2,h3,h4,h5 {
+    font-family: $header-serif;
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+    line-height: 1.5rem;
+    font-weight: 400;
+  }
+  & h1 {
+    font-size: calc(1rem + 3vw);
+    line-height: calc(1rem + 3vw);
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+  & h2 {
+    font-size: 2.828rem;
+    line-height: 3rem;
+    margin-top: 3rem;
+  }
+  & h3 {
+    font-size: 1.414rem;
+  }
+  & h4 {
+    font-size: 0.707rem;
+  }
+  & h5 {
+    font-size: 0.6rem;
+  }
+  & h6 {
+    font-family: UniformMedium-Regular, Arial, sans-serif;
+    font-weight: 800;
+    font-size: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    line-height: 1.25rem;
+  }
+}
+
+.project--images {
+  background-color: #eee;
+  width: calc(100% / 3 * 2);
+}
+
+.project--images img {
+  filter: drop-shadow(2px 4px 3px #333);
+  max-width: 1000px;
+  position: fixed;
+  bottom: 0;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content {
@@ -71,21 +187,24 @@
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
-  font-size: 45px;
+  font-size: 20px;
   margin-bottom: 20px;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title {
-  font-family: UniformMedium-Regular;
-  color: $solid-white;
-  font-weight: 800;
+  font-family: $header-serif;
+  color: $white;
+  font-weight: 400;
   font-style: normal;
-  font-size: 60px;
   word-wrap: break-word;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content:hover .gridfolio--block-title {
-  color: $solid-turquoise;
+  color: $turquoise;
+}
+
+.gridfolio[data-theme="baris"] .headline .gridfolio--block-content:hover .gridfolio--block-title {
+  color: inherit;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-description-wrapper {
@@ -93,9 +212,10 @@
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-description {
-  font-weight: 100;
+  font-weight: 400;
+  font-family: UniformCondensedLight-Regular;
   letter-spacing: 0.03em;
-  line-height: 1.6;
+  line-height: 1.5;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-tags-wrapper {
@@ -110,26 +230,44 @@
   /*border-bottom: 2px solid #fff;*/
 }
 
-.gridfolio[data-theme="baris"] .headline .gridfolio--block-content {
-  & .gridfolio--block-title {
-    color: $solid-black;
-  }
-  color: #000;
-}
-
 .baseline-icon {
   position: relative;
-  top: 4px;
+  top: 3px;
+  height: 1em;
 }
 
 @media (min-width: 500px) {
   .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
-    font-size: 20px;
+    font-size: 30px;
   }
 }
 
 @media (min-width: 900px) {
   .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
-    font-size: 30px;
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .project--content {
+    display: block;
+  }
+  .project--writeup {
+    display: block;
+    width: 100vw;
+  }
+  .project--images {
+    display: block;
+    padding: 90px 20px;
+    width: 100vw;
+    text-align: center;
+  }
+  .project--images img {
+    position: relative;
+    width: 90vw;
+  }
+  .project--writeup h1 {
+    font-size: calc(3rem + 2vw);
+    line-height: calc(3rem + 2vw);
   }
 }
