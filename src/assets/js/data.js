@@ -10,21 +10,21 @@ module.exports =
   {
     title: 'Emails for Chaminade',
     description: 'Cross-platform email designs done for inaugural constituent campaigns at Chaminade University',
-    tags: ['email', 'ui', 'data', 'html'],
+    tags: ['email', 'ui', 'data', 'html', 'photo'],
     url: 'chaminade.html',
     classname: 'blue chaminade-email'
   },
   {
     title: 'Ambient',
     description: 'Collateral contributions to the Ambient brand, under &lsquo;Ike Hawaii&rsquo;s family of companies.',
-    tags: ['design', 'print', 'branding'],
+    tags: ['design', 'print', 'branding', 'css'],
     url: 'ambient.html',
     classname: 'orange ambient'
   },
   {
     title: 'TEDxHonolulu',
     description: 'Worked on an Angular event app for TEDxHonolulu, made possible by DevLeague.',
-    tags: ['angular', 'js', 'html', 'css', 'event'],
+    tags: ['angular', 'ui', 'javascript', 'html', 'css', 'event'],
     url: 'tedx.html',
     classname: 'red tedx'
   },
@@ -59,7 +59,7 @@ module.exports =
   {
     title: 'アロハ ストリート Magazine',
     description: 'Helmed the migration and production of Aloha Street Magazine, overhauling their workflow.',
-    tags: ['production', 'design', 'catalog', 'print'],
+    tags: ['production', 'design', 'catalog', 'print', 'photo', 'html'],
     url: 'aloha-street.html',
     classname: 'black aloha-street'
   },
@@ -67,7 +67,7 @@ module.exports =
     title: 'Great Life Hawai&lsquo;i Magazine',
     description: 'A curated set from the hundreds of multiformat ads created for Great Life Hawai&lsquo;i magazine.',
     url: 'mwr.html',
-    tags: ['production', 'design', 'print', 'event'],
+    tags: ['production', 'design', 'print', 'photo', 'event'],
     classname: 'red mwr'
   },
   {
@@ -81,14 +81,14 @@ module.exports =
     title: 'Design for UH M&amacr;noa, Part 1',
     description: 'Miscellaneous design work done for the University of Hawai&lsquo;i at M&amacr;noa, at the College of Natural Sciences and the UH Honors Program.',
     url: 'honors.html',
-    tags: ['design', 'print', 'branding', 'event'],
+    tags: ['design', 'print', 'branding', 'photo', 'event', 'html', 'css'],
     classname: 'yellow honors'
   },
   {
     title: 'Design for UH M&amacr;noa, Part 2',
     description: 'Miscellaneous design work done for the University of Hawai&lsquo;i at M&amacr;noa, at the College of Natural Sciences and the UH Honors Program.',
     url: 'honors_deux.html',
-    tags: ['design', 'print', 'branding'],
+    tags: ['design', 'print', 'branding', 'photo'],
     classname: 'orange honors'
   },
   {
@@ -102,7 +102,7 @@ module.exports =
     title: 'Hawaii Business Magazine',
     description: 'As contract Associate Art Director, I worked on several issues of Hawaii Business magazine.',
     url: 'hawaiibiz.html',
-    tags: ['production', 'design', 'print'],
+    tags: ['production', 'design', 'print', 'photo'],
     classname: 'red hawaiibiz'
   },
   {
