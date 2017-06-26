@@ -82,8 +82,20 @@
   background-image: url("../img/work/followgraphic.png");
 }
 
-.gridfolio--block.oldwork .gridfolio--block-content {
-  background-image: url("../img/work/oldwork.png");
+.gridfolio--block.logos .gridfolio--block-content {
+  background-image: url("../img/work/logos.png");
+}
+
+.gridfolio--block.ambient .gridfolio--block-content {
+  background-image: url("../img/work/ambient.png");
+}
+
+.gridfolio--block.tedx .gridfolio--block-content {
+  background-image: url("../img/work/tedx.png");
+}
+
+.gridfolio--block.hawaiibiz .gridfolio--block-content {
+  background-image: url("../img/work/hawaiibiz.png");
 }
 
 .gridfolio--block.blue .gridfolio--block-content {
@@ -109,6 +121,10 @@
 .gridfolio--block.beige .gridfolio--block-content {
   background-color: $beige;
   color: $black;
+
+  & .gridfolio--block-title {
+    color: $darkgrey;
+  }
 }
 
 .project--content {
@@ -134,6 +150,7 @@
   }
 
   & h1,h2,h3,h4,h5 {
+    word-break: keep-all;
     font-family: $header-serif;
     margin-top: 1.5rem;
     margin-bottom: 0;
@@ -179,7 +196,6 @@
 .project--images img {
   filter: drop-shadow(2px 4px 3px #333);
   width: 100%;
-  max-width: 1000px;
   position: relative;
   top: 10%;
   margin: 0 auto;
@@ -190,16 +206,21 @@
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
-  font-size: 20px;
   margin-bottom: 20px;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title {
-  font-family: $header-serif;
   color: $white;
+  font-size: 20px;
+  font-family: $header-serif;
   font-weight: 400;
   font-style: normal;
   word-wrap: break-word;
+  word-break: keep-all;
+}
+
+.gridfolio[data-theme="baris"] .gridfolio--block-title .condensed {
+  font-size: 16px;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content:hover .gridfolio--block-title {
@@ -237,6 +258,10 @@
   position: relative;
   top: 3px;
   height: 1em;
+}
+
+p.condensed {
+  font-size: 75%;
 }
 
 @media (min-width: 500px) {

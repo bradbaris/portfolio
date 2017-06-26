@@ -15,6 +15,20 @@ module.exports =
     classname: 'blue chaminade-email'
   },
   {
+    title: 'Ambient',
+    description: 'Collateral contributions to the Ambient brand, under &lsquo;Ike Hawaii&rsquo;s family of companies.',
+    tags: ['design', 'print', 'branding'],
+    url: 'ambient.html',
+    classname: 'orange ambient'
+  },
+  {
+    title: 'TEDxHonolulu',
+    description: 'Worked on an Angular event app for TEDxHonolulu, made possible by DevLeague.',
+    tags: ['angular', 'js', 'html', 'css', 'event'],
+    url: 'tedx.html',
+    classname: 'red tedx'
+  },
+  {
     title: 'Natural Science Posters',
     description: 'Designed large subject posters for each of the Natural Science departments.',
     tags: ['design', 'print'],
@@ -23,28 +37,28 @@ module.exports =
   },
   {
     title: 'CNS Annual Reports',
-    description: 'Assembled and designed annual reports for the College of Natural Sciences.',
+    description: 'Assembled and designed annual reports for the Dean of the College of Natural Sciences.',
     url: 'natsci-reports.html',
     tags: ['catalog', 'design', 'print'],
-    classname: 'orange natsci-report'
+    classname: 'beige natsci-report'
   },
   {
     title: 'Astronomy & Astrophysics',
     description: 'Designed multipage mailers for the Institute for Astronomy, promoting space studies.',
     tags: ['design', 'print'],
     url: 'astronomy.html',
-    classname: 'yellow astronomy'
+    classname: 'black astronomy'
   },
   {
     title: 'Navy Ombudsman',
-    description: 'Designed comprehensive collateral for Navy Ombudsman event, including event signage and branding and challenge coins.',
-    tags: ['design', 'print', 'branding'],
+    description: 'Designed comprehensive collateral for the annual Navy Ombudsman appreciation event, including event signage and challenge coins.',
+    tags: ['design', 'print', 'branding', 'event'],
     url: 'ombudsman.html',
-    classname: 'beige ombudsman'
+    classname: 'blue ombudsman'
   },
   {
-    title: 'Aloha Street Magazine',
-    description: 'Helmed the migration and production of Aloha Street Magazine, refactoring workflows and overhauling the magazine&lsquo;s internal workflow.',
+    title: 'アロハ ストリート Magazine',
+    description: 'Helmed the migration and production of Aloha Street Magazine, overhauling their workflow.',
     tags: ['production', 'design', 'catalog', 'print'],
     url: 'aloha-street.html',
     classname: 'black aloha-street'
@@ -53,22 +67,29 @@ module.exports =
     title: 'Great Life Hawai&lsquo;i Magazine',
     description: 'A curated set from the hundreds of multiformat ads created for Great Life Hawai&lsquo;i magazine.',
     url: 'mwr.html',
-    tags: ['design', 'print', 'misc'],
+    tags: ['production', 'design', 'print', 'event'],
     classname: 'red mwr'
   },
   {
     title: 'Ilikai 50th Anniversary',
     description: 'Collateral design for a special event for Ilikai Hotel, including signage and stationery.',
-    tags: ['design', 'print', 'branding', 'misc'],
+    tags: ['design', 'print', 'branding', 'event'],
     url: 'ilikai.html',
     classname: 'orange ilikai'
   },
   {
-    title: 'Design for UH M&amacr;noa',
+    title: 'Design for UH M&amacr;noa, Part 1',
     description: 'Miscellaneous design work done for the University of Hawai&lsquo;i at M&amacr;noa, at the College of Natural Sciences and the UH Honors Program.',
     url: 'honors.html',
-    tags: ['design', 'print', 'branding', 'misc'],
+    tags: ['design', 'print', 'branding', 'event'],
     classname: 'yellow honors'
+  },
+  {
+    title: 'Design for UH M&amacr;noa, Part 2',
+    description: 'Miscellaneous design work done for the University of Hawai&lsquo;i at M&amacr;noa, at the College of Natural Sciences and the UH Honors Program.',
+    url: 'honors_deux.html',
+    tags: ['design', 'print', 'branding'],
+    classname: 'orange honors'
   },
   {
     title: 'Followgraphic',
@@ -78,10 +99,17 @@ module.exports =
     classname: 'beige followgraphic'
   },
   {
-    title: 'Ancient Artifacts',
-    description: 'Old logos and miscellaneous work from over the years, including college design work.',
+    title: 'Hawaii Business Magazine',
+    description: 'As contract Associate Art Director, I worked on several issues of Hawaii Business magazine.',
+    url: 'hawaiibiz.html',
+    tags: ['production', 'design', 'print'],
+    classname: 'red hawaiibiz'
+  },
+  {
+    title: 'Logos and &#x03BB;&#x03CC;&#x03B3;&#x03BF;&#x03C2;',
+    description: 'Curated logo work from branding projects, including concepts and delivered ideas.',
     tags: ['design', 'branding', 'misc'],
-    url: 'oldwork.html',
-    classname: 'blue oldwork'
+    url: 'logos.html',
+    classname: 'blue logos'
   }
 ]

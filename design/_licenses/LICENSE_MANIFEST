@@ -1,0 +1,7906 @@
+{
+  "@gulp-sourcemaps/identity-map@1.0.1": {
+    "Resource-URL": "https://github.com/gulp-sourcemaps/identity-map",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "@gulp-sourcemaps/map-sources@1.0.0": {
+    "Resource-URL": "https://github.com/gulp-sourcemaps/map-sources",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "JSONStream@1.3.1": {
+    "Resource-URL": "http://github.com/dominictarr/JSONStream",
+    "License": {
+      "license": "(MIT OR Apache-2.0)",
+      "url": "(none)"
+    }
+  },
+  "Portfolio@1.0.0": {
+    "Resource-URL": "https://github.com/bradbaris/portfolio",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "abbrev@1.1.0": {
+    "Resource-URL": "ssh://git@github.com/isaacs/abbrev-js",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "accepts@1.3.3": {
+    "Resource-URL": "https://github.com/jshttp/accepts",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "acorn@3.3.0": {
+    "Resource-URL": "https://github.com/ternjs/acorn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "acorn@4.0.13": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "acorn@5.0.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "acorn-globals@3.1.0": {
+    "Resource-URL": "https://github.com/ForbesLindesay/acorn-globals",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "acorn-jsx@3.0.1": {
+    "Resource-URL": "https://github.com/RReverser/acorn-jsx",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "acorn-object-spread@1.0.0": {
+    "Resource-URL": "https://github.com/UXtemple/acorn-object-spread",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "after@0.8.1": {
+    "Resource-URL": "http://github.com/Raynos/after"
+  },
+  "align-text@0.1.4": {
+    "Resource-URL": "http://github.com/jonschlinkert/align-text",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "alphanum-sort@1.0.2": {
+    "Resource-URL": "https://github.com/TrySound/alphanum-sort",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "amdefine@1.0.1": {
+    "Resource-URL": "https://github.com/jrburke/amdefine",
+    "License": {
+      "license": "BSD-3-Clause OR MIT",
+      "url": "(none)"
+    }
+  },
+  "ansi-escapes@1.4.0": {
+    "Resource-URL": "https://github.com/sindresorhus/ansi-escapes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ansi-regex@2.1.1": {
+    "Resource-URL": "https://github.com/chalk/ansi-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ansi-styles@2.2.1": {
+    "Resource-URL": "https://github.com/chalk/ansi-styles",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ansicolors@0.3.2": {
+    "Resource-URL": "http://github.com/thlorenz/ansicolors",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "any-promise@0.1.0": {
+    "Resource-URL": "https://github.com/kevinbeaty/any-promise",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "anymatch@1.3.0": {
+    "Resource-URL": "https://github.com/es128/anymatch",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "aos@2.1.1": {
+    "Resource-URL": "https://github.com/michalsnik/aos",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "aproba@1.1.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "archive-type@3.2.0": {
+    "Resource-URL": "https://github.com/kevva/archive-type",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "archy@1.0.0": {
+    "Resource-URL": "ssh://git@github.com/substack/node-archy",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "are-we-there-yet@1.1.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "argparse@1.0.9": {
+    "Resource-URL": "https://github.com/nodeca/argparse",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "arr-diff@2.0.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/arr-diff",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "arr-flatten@1.0.3": {
+    "Resource-URL": "https://github.com/jonschlinkert/arr-flatten",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-differ@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/array-differ",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-filter@0.0.1": {
+    "Resource-URL": "http://github.com/juliangruber/array-filter",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-find-index@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/array-find-index",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-map@0.0.0": {
+    "Resource-URL": "http://github.com/substack/array-map",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-reduce@0.0.0": {
+    "Resource-URL": "http://github.com/substack/array-reduce",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-union@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/array-union",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-uniq@1.0.3": {
+    "Resource-URL": "https://github.com/sindresorhus/array-uniq",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "array-unique@0.2.1": {
+    "Resource-URL": "http://github.com/jonschlinkert/array-unique",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "arraybuffer.slice@0.0.6": {
+    "Resource-URL": "ssh://git@github.com/rase-/arraybuffer.slice"
+  },
+  "arrify@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/arrify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "asap@2.0.5": {
+    "Resource-URL": "https://github.com/kriskowal/asap",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "asn1@0.2.3": {
+    "Resource-URL": "http://github.com/mcavage/node-asn1",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "asn1.js@4.9.1": {
+    "Resource-URL": "ssh://git@github.com/indutny/asn1.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "assert@1.4.1": {
+    "Resource-URL": "http://github.com/defunctzombie/commonjs-assert",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "assert-plus@0.2.0": {
+    "Resource-URL": "https://github.com/mcavage/node-assert-plus",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "assert-plus@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "astw@2.2.0": {
+    "Resource-URL": "http://github.com/substack/astw",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "async@1.5.2": {
+    "Resource-URL": "https://github.com/caolan/async",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "async@2.4.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "async-each@1.0.1": {
+    "Resource-URL": "http://github.com/paulmillr/async-each",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "async-each-series@0.1.1": {
+    "Resource-URL": "ssh://git@github.com/jb55/async-each-series",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "async-each-series@1.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "asynckit@0.4.0": {
+    "Resource-URL": "https://github.com/alexindigo/asynckit",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "atob@1.1.3": {
+    "Resource-URL": "http://github.com/coolaj86/node-browser-compat",
+    "License": {
+      "license": "(MIT OR Apache-2.0)",
+      "url": "(none)"
+    }
+  },
+  "autoprefixer@6.7.7": {
+    "Resource-URL": "https://github.com/postcss/autoprefixer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "aws-sign2@0.6.0": {
+    "Resource-URL": "https://github.com/mikeal/aws-sign",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "aws4@1.6.0": {
+    "Resource-URL": "https://github.com/mhart/aws4",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-code-frame@6.22.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-code-frame",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-core@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-core",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-generator@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-generator",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-call-delegate@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-call-delegate",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-define-map@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-define-map",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-function-name@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-function-name",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-get-function-arity@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-hoist-variables@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-hoist-variables",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-optimise-call-expression@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-optimise-call-expression",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-regex@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helper-replace-supers@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helper-replace-supers",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-helpers@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-helpers",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-messages@6.23.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-messages",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-check-es2015-constants@6.22.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-check-es2015-constants",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-arrow-functions@6.22.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-arrow-functions",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-block-scoped-functions@6.22.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoped-functions",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-block-scoping@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-block-scoping",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-classes@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-classes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-computed-properties@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-computed-properties",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-destructuring@6.23.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-destructuring",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-duplicate-keys@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-duplicate-keys",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-for-of@6.23.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-for-of",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-function-name@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-function-name",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-literals@6.22.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-literals",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-modules-amd@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-amd",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-modules-commonjs@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-commonjs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-modules-systemjs@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-systemjs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-modules-umd@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-modules-umd",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-object-super@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-object-super",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-parameters@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-parameters",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-shorthand-properties@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-shorthand-properties",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-spread@6.22.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-spread",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-sticky-regex@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-sticky-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-template-literals@6.22.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-template-literals",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-typeof-symbol@6.23.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-typeof-symbol",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-es2015-unicode-regex@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-es2015-unicode-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-regenerator@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-regenerator",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-plugin-transform-strict-mode@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-strict-mode",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-preset-es2015@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-preset-es2015",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-register@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-register",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-runtime@6.23.0": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-runtime",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-template@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-template",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-traverse@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-traverse",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babel-types@6.24.1": {
+    "Resource-URL": "https://github.com/babel/babel/tree/master/packages/babel-types",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babelify@7.3.0": {
+    "Resource-URL": "https://github.com/babel/babelify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "babylon@6.17.2": {
+    "Resource-URL": "https://github.com/babel/babylon",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "backo2@1.0.2": {
+    "Resource-URL": "https://github.com/mokesmokes/backo",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "balanced-match@0.4.2": {
+    "Resource-URL": "http://github.com/juliangruber/balanced-match",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "base64-arraybuffer@0.1.5": {
+    "Resource-URL": "https://github.com/niklasvh/base64-arraybuffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "base64-js@1.2.0": {
+    "Resource-URL": "http://github.com/beatgammit/base64-js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "base64id@0.1.0": {
+    "Resource-URL": "https://github.com/faeldt/base64id"
+  },
+  "batch@0.5.3": {
+    "Resource-URL": "https://github.com/visionmedia/batch",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bcrypt-pbkdf@1.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "beeper@1.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/beeper",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "better-assert@1.0.2": {
+    "Resource-URL": "https://github.com/visionmedia/better-assert"
+  },
+  "bignumber.js@2.4.0": {
+    "Resource-URL": "https://github.com/MikeMcl/bignumber.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bin-build@2.2.0": {
+    "Resource-URL": "https://github.com/kevva/bin-build",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bin-check@2.0.0": {
+    "Resource-URL": "https://github.com/kevva/bin-check",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bin-version@1.0.4": {
+    "Resource-URL": "https://github.com/sindresorhus/bin-version",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bin-version-check@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/bin-version-check",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bin-wrapper@3.0.2": {
+    "Resource-URL": "https://github.com/kevva/bin-wrapper",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "binary-extensions@1.8.0": {
+    "Resource-URL": "https://github.com/sindresorhus/binary-extensions",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bl@0.9.5": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bl@1.0.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bl@1.2.1": {
+    "Resource-URL": "https://github.com/rvagg/bl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "blob@0.0.4": {
+    "Resource-URL": "ssh://git@github.com/rase-/blob"
+  },
+  "block-stream@0.0.9": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "bluebird@3.1.5": {
+    "Resource-URL": "http://github.com/petkaantonov/bluebird",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bmp-js@0.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bmp-js@0.0.3": {
+    "Resource-URL": "https://github.com/shaozilee/bmp-js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bn.js@4.11.6": {
+    "Resource-URL": "ssh://git@github.com/indutny/bn.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "boolbase@1.0.0": {
+    "Resource-URL": "https://github.com/fb55/boolbase",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "boom@2.10.1": {
+    "Resource-URL": "http://github.com/hapijs/boom",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "boxen@0.3.1": {
+    "Resource-URL": "https://github.com/sindresorhus/boxen",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "brace-expansion@1.1.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "brace-expansion@1.1.7": {
+    "Resource-URL": "http://github.com/juliangruber/brace-expansion",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "braces@1.8.5": {
+    "Resource-URL": "https://github.com/jonschlinkert/braces",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "brorand@1.1.0": {
+    "Resource-URL": "ssh://git@github.com/indutny/brorand",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browser-pack@6.0.2": {
+    "Resource-URL": "http://github.com/substack/browser-pack",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browser-resolve@1.11.2": {
+    "Resource-URL": "http://github.com/shtylman/node-browser-resolve",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browser-sync@2.18.12": {
+    "Resource-URL": "https://github.com/Browsersync/browser-sync",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "browser-sync-client@2.5.1": {
+    "Resource-URL": "http://github.com/shakyshane/browser-sync-client",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browser-sync-ui@0.6.3": {
+    "Resource-URL": "https://github.com/BrowserSync/UI",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "browserify@14.4.0": {
+    "Resource-URL": "ssh://git@github.com/substack/node-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browserify-aes@1.0.6": {
+    "Resource-URL": "http://github.com/crypto-browserify/browserify-aes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browserify-cipher@1.0.0": {
+    "Resource-URL": "ssh://git@github.com/crypto-browserify/browserify-cipher",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browserify-des@1.0.0": {
+    "Resource-URL": "https://github.com/crypto-browserify/browserify-des",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browserify-rsa@4.0.1": {
+    "Resource-URL": "ssh://git@github.com/crypto-browserify/browserify-rsa",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browserify-sign@4.0.4": {
+    "Resource-URL": "https://github.com/crypto-browserify/browserify-sign",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "browserify-zlib@0.1.4": {
+    "Resource-URL": "http://github.com/devongovett/browserify-zlib",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "browserslist@1.7.7": {
+    "Resource-URL": "https://github.com/ai/browserslist",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bs-recipes@1.3.4": {
+    "Resource-URL": "https://github.com/BrowserSync/recipes",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "buble@0.12.5": {
+    "Resource-URL": "https://gitlab.com/Rich-Harris/buble",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bubleify@0.5.1": {
+    "Resource-URL": "http://github.com/garthenweb/bubleify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer@5.0.6": {
+    "Resource-URL": "http://github.com/feross/buffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer-alloc@1.1.0": {
+    "Resource-URL": "https://github.com/LinusU/buffer-alloc",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer-alloc-unsafe@0.1.1": {
+    "Resource-URL": "https://github.com/LinusU/buffer-alloc-unsafe",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer-equal@0.0.1": {
+    "Resource-URL": "http://github.com/substack/node-buffer-equal",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer-fill@0.1.0": {
+    "Resource-URL": "https://github.com/LinusU/buffer-fill",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer-shims@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer-to-vinyl@1.1.0": {
+    "Resource-URL": "https://github.com/kevva/buffer-to-vinyl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "buffer-xor@1.0.3": {
+    "Resource-URL": "https://github.com/crypto-browserify/buffer-xor",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "bufferstreams@1.1.1": {
+    "Resource-URL": "http://github.com/nfroidure/BufferStreams",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "builtin-modules@1.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/builtin-modules",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "builtin-status-codes@3.0.0": {
+    "Resource-URL": "https://github.com/bendrucker/builtin-status-codes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cached-path-relative@1.0.1": {
+    "Resource-URL": "http://github.com/ashaffer/cached-path-relative",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "callsite@1.0.0": {
+    "Resource-URL": "(none)"
+  },
+  "camel-case@3.0.0": {
+    "Resource-URL": "http://github.com/blakeembrey/camel-case",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "camelcase@1.2.1": {
+    "Resource-URL": "https://github.com/sindresorhus/camelcase",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "camelcase@2.1.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "camelcase@3.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "camelcase-keys@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/camelcase-keys",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "caniuse-api@1.6.1": {
+    "Resource-URL": "https://github.com/nyalab/caniuse-api",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "caniuse-db@1.0.30000676": {
+    "Resource-URL": "https://github.com/Fyrd/caniuse",
+    "License": {
+      "license": "CC-BY-4.0",
+      "url": "(none)"
+    }
+  },
+  "capture-stack-trace@1.0.0": {
+    "Resource-URL": "https://github.com/floatdrop/capture-stack-trace",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "caseless@0.11.0": {
+    "Resource-URL": "https://github.com/mikeal/caseless",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "caw@1.2.0": {
+    "Resource-URL": "https://github.com/kevva/caw",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "center-align@0.1.3": {
+    "Resource-URL": "https://github.com/jonschlinkert/center-align",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "chalk@1.1.3": {
+    "Resource-URL": "https://github.com/chalk/chalk",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "character-parser@2.2.0": {
+    "Resource-URL": "https://github.com/ForbesLindesay/character-parser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cheerio@0.19.0": {
+    "Resource-URL": "http://github.com/cheeriojs/cheerio",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "chokidar@1.7.0": {
+    "Resource-URL": "https://github.com/paulmillr/chokidar",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cipher-base@1.0.3": {
+    "Resource-URL": "https://github.com/crypto-browserify/cipher-base",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "clap@1.1.3": {
+    "Resource-URL": "https://github.com/lahmatiy/clap",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "classlist-polyfill@1.2.0": {
+    "Resource-URL": "https://github.com/yola/classlist-polyfill",
+    "License": {
+      "license": "Unlicense",
+      "url": "(none)"
+    }
+  },
+  "clean-css@3.4.26": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "clean-css@4.1.3": {
+    "Resource-URL": "https://github.com/jakubpawlowicz/clean-css",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cli-cursor@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/cli-cursor",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cli-width@1.1.1": {
+    "Resource-URL": "ssh://git@github.com/knownasilya/cli-width",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "clite@0.3.0": {
+    "Resource-URL": "https://github.com/remy/clite",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cliui@2.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "cliui@3.2.0": {
+    "Resource-URL": "ssh://git@github.com/yargs/cliui",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "clone@0.2.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "clone@1.0.2": {
+    "Resource-URL": "http://github.com/pvorb/node-clone",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "clone-buffer@1.0.0": {
+    "Resource-URL": "https://github.com/gulpjs/clone-buffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "clone-stats@0.0.1": {
+    "Resource-URL": "http://github.com/hughsk/clone-stats",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "clone-stats@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cloneable-readable@1.0.0": {
+    "Resource-URL": "https://github.com/mcollina/cloneable-readable",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "co@3.1.0": {
+    "Resource-URL": "https://github.com/visionmedia/co",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "coa@1.0.2": {
+    "Resource-URL": "http://github.com/veged/coa",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "code-point-at@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/code-point-at",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "color@0.11.4": {
+    "Resource-URL": "https://github.com/Qix-/color",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "color-convert@1.9.0": {
+    "Resource-URL": "https://github.com/Qix-/color-convert",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "color-name@1.1.2": {
+    "Resource-URL": "ssh://git@github.com/dfcreative/color-name",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "color-string@0.3.0": {
+    "Resource-URL": "ssh://git@github.com/harthur/color-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "colormin@1.1.2": {
+    "Resource-URL": "https://github.com/ben-eb/colormin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "colors@1.1.2": {
+    "Resource-URL": "ssh://git@github.com/Marak/colors.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "combine-source-map@0.7.2": {
+    "Resource-URL": "http://github.com/thlorenz/combine-source-map",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "combined-stream@1.0.5": {
+    "Resource-URL": "http://github.com/felixge/node-combined-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "commander@2.8.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "commander@2.9.0": {
+    "Resource-URL": "https://github.com/tj/commander.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "compare-versions@3.0.1": {
+    "Resource-URL": "ssh://git@github.com/omichelsen/compare-versions",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "component-bind@1.0.0": {
+    "Resource-URL": "https://github.com/component/bind"
+  },
+  "component-emitter@1.1.2": {
+    "Resource-URL": "https://github.com/component/emitter"
+  },
+  "component-emitter@1.2.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "component-inherit@0.0.3": {
+    "Resource-URL": "https://github.com/component/inherit"
+  },
+  "concat-map@0.0.1": {
+    "Resource-URL": "http://github.com/substack/node-concat-map",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "concat-stream@1.5.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "concat-stream@1.5.2": {
+    "Resource-URL": "ssh://git@github.com/maxogden/concat-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "concat-with-sourcemaps@1.0.4": {
+    "Resource-URL": "http://github.com/floridoo/concat-with-sourcemaps",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "configstore@2.1.0": {
+    "Resource-URL": "https://github.com/yeoman/configstore",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "connect@1.9.2": {
+    "Resource-URL": "(none)"
+  },
+  "connect@3.5.0": {
+    "Resource-URL": "https://github.com/senchalabs/connect",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "connect-history-api-fallback@1.3.0": {
+    "Resource-URL": "ssh://git@github.com/bripkens/connect-history-api-fallback",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "console-browserify@1.1.0": {
+    "Resource-URL": "http://github.com/Raynos/console-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "console-control-strings@1.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "console-stream@0.1.1": {
+    "Resource-URL": "http://github.com/Raynos/console-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "constantinople@3.1.0": {
+    "Resource-URL": "https://github.com/ForbesLindesay/constantinople",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "constants-browserify@1.0.0": {
+    "Resource-URL": "http://github.com/juliangruber/constants-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "convert-source-map@1.1.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "convert-source-map@1.5.0": {
+    "Resource-URL": "http://github.com/thlorenz/convert-source-map",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cookie@0.3.1": {
+    "Resource-URL": "https://github.com/jshttp/cookie",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "core-js@2.4.1": {
+    "Resource-URL": "https://github.com/zloirock/core-js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "core-util-is@1.0.2": {
+    "Resource-URL": "http://github.com/isaacs/core-util-is",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cosmiconfig@2.1.3": {
+    "Resource-URL": "https://github.com/davidtheclark/cosmiconfig",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "create-ecdh@4.0.0": {
+    "Resource-URL": "https://github.com/crypto-browserify/createECDH",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "create-error-class@3.0.2": {
+    "Resource-URL": "https://github.com/floatdrop/create-error-class",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "create-hash@1.1.3": {
+    "Resource-URL": "ssh://git@github.com/crypto-browserify/createHash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "create-hmac@1.1.6": {
+    "Resource-URL": "https://github.com/crypto-browserify/createHmac",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cross-spawn@4.0.2": {
+    "Resource-URL": "http://github.com/IndigoUnited/node-cross-spawn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "cryptiles@2.0.5": {
+    "Resource-URL": "http://github.com/hapijs/cryptiles",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "crypto-browserify@3.11.0": {
+    "Resource-URL": "http://github.com/crypto-browserify/crypto-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "css@2.2.1": {
+    "Resource-URL": "https://github.com/reworkcss/css",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "css-color-names@0.0.4": {
+    "Resource-URL": "http://github.com/bahamas10/css-color-names",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "css-select@1.0.0": {
+    "Resource-URL": "http://github.com/fb55/css-select",
+    "License": {
+      "license": "BSD-like",
+      "url": "(none)"
+    }
+  },
+  "css-what@1.0.0": {
+    "Resource-URL": "https://github.com/fb55/css-what",
+    "License": {
+      "license": "BSD-like",
+      "url": "(none)"
+    }
+  },
+  "cssnano@3.10.0": {
+    "Resource-URL": "https://github.com/ben-eb/cssnano",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "csso@2.3.2": {
+    "Resource-URL": "https://github.com/css/csso",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "currently-unhandled@0.4.1": {
+    "Resource-URL": "https://github.com/jamestalmage/currently-unhandled",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "dashdash@1.14.1": {
+    "Resource-URL": "http://github.com/trentm/node-dashdash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "date-now@0.1.4": {
+    "Resource-URL": "http://github.com/Colingo/date-now",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "dateformat@2.0.0": {
+    "Resource-URL": "https://github.com/felixge/node-dateformat",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "debug@0.7.4": {
+    "Resource-URL": "(none)"
+  },
+  "debug@2.2.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "debug@2.3.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "debug@2.6.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "debug@2.6.8": {
+    "Resource-URL": "http://github.com/visionmedia/debug",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "debug-fabulous@0.1.0": {
+    "Resource-URL": "http://wwwhub.com/nmccready/debug-fabulous",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "decamelize@1.2.0": {
+    "Resource-URL": "https://github.com/sindresorhus/decamelize",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "decompress@3.0.0": {
+    "Resource-URL": "https://github.com/kevva/decompress",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "decompress-tar@3.1.0": {
+    "Resource-URL": "https://github.com/kevva/decompress-tar",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "decompress-tarbz2@3.1.0": {
+    "Resource-URL": "https://github.com/kevva/decompress-tarbz2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "decompress-targz@3.1.0": {
+    "Resource-URL": "https://github.com/kevva/decompress-targz",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "decompress-unzip@3.4.0": {
+    "Resource-URL": "https://github.com/kevva/decompress-unzip",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "deep-extend@0.4.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "deep-extend@0.4.2": {
+    "Resource-URL": "http://github.com/unclechu/node-deep-extend",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "defaults@1.0.3": {
+    "Resource-URL": "http://github.com/tmpvar/defaults",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "defined@1.0.0": {
+    "Resource-URL": "http://github.com/substack/defined",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "del@2.2.2": {
+    "Resource-URL": "https://github.com/sindresorhus/del",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "delayed-stream@1.0.0": {
+    "Resource-URL": "http://github.com/felixge/node-delayed-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "delegates@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "depd@1.1.0": {
+    "Resource-URL": "https://github.com/dougwilson/nodejs-depd",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "deprecated@0.0.1": {
+    "Resource-URL": "http://github.com/wearefractal/deprecated",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "deps-sort@2.0.0": {
+    "Resource-URL": "http://github.com/substack/deps-sort",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "des.js@1.0.0": {
+    "Resource-URL": "ssh://git@github.com/indutny/des.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "destroy@1.0.4": {
+    "Resource-URL": "https://github.com/stream-utils/destroy",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "detect-file@0.1.0": {
+    "Resource-URL": "https://github.com/doowb/detect-file",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "detect-indent@4.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/detect-indent",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "detect-newline@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/detect-newline",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "detective@4.5.0": {
+    "Resource-URL": "http://github.com/substack/node-detective",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "dev-ip@1.0.1": {
+    "Resource-URL": "http://github.com/shakyshane/dev-ip",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "diffie-hellman@5.0.2": {
+    "Resource-URL": "https://github.com/crypto-browserify/diffie-hellman",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "doctypes@1.1.0": {
+    "Resource-URL": "https://github.com/pugjs/doctypes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "dom-serializer@0.1.0": {
+    "Resource-URL": "http://github.com/cheeriojs/dom-renderer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "dom-walk@0.1.1": {
+    "Resource-URL": "http://github.com/Raynos/dom-walk",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "domain-browser@1.1.7": {
+    "Resource-URL": "ssh://git@github.com/bevry/domain-browser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "domelementtype@1.1.3": {
+    "Resource-URL": "(none)"
+  },
+  "domelementtype@1.3.0": {
+    "Resource-URL": "http://github.com/FB55/domelementtype"
+  },
+  "domhandler@2.3.0": {
+    "Resource-URL": "http://github.com/fb55/DomHandler"
+  },
+  "domutils@1.4.3": {
+    "Resource-URL": "http://github.com/FB55/domutils"
+  },
+  "domutils@1.5.1": {
+    "Resource-URL": "(none)"
+  },
+  "dot-prop@3.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/dot-prop",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "download@4.4.3": {
+    "Resource-URL": "https://github.com/kevva/download",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "duplexer@0.1.1": {
+    "Resource-URL": "http://github.com/Raynos/duplexer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "duplexer2@0.0.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "duplexer2@0.1.4": {
+    "Resource-URL": "https://github.com/deoxxa/duplexer2",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "duplexify@3.5.0": {
+    "Resource-URL": "http://github.com/mafintosh/duplexify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "each-async@1.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/each-async",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "easy-extender@2.3.2": {
+    "Resource-URL": "http://github.com/shakyshane/easy-extender",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "eazy-logger@3.0.2": {
+    "Resource-URL": "http://github.com/shakyshane/easy-logger",
+    "License": {
+      "license": "Apache 2.0",
+      "url": "(none)"
+    }
+  },
+  "ecc-jsbn@0.1.1": {
+    "Resource-URL": "https://github.com/quartzjer/ecc-jsbn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ee-first@1.1.1": {
+    "Resource-URL": "https://github.com/jonathanong/ee-first",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "electron-to-chromium@1.3.13": {
+    "Resource-URL": "https://github.com/kilian/electron-to-chromium",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "elliptic@6.4.0": {
+    "Resource-URL": "ssh://git@github.com/indutny/elliptic",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "emitter-steward@1.0.0": {
+    "Resource-URL": "https://github.com/shakyShane/emitter-steward",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "encodeurl@1.0.1": {
+    "Resource-URL": "https://github.com/pillarjs/encodeurl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "end-of-stream@0.1.5": {
+    "Resource-URL": "http://github.com/mafintosh/end-of-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "end-of-stream@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "end-of-stream@1.4.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "engine.io@1.8.0": {
+    "Resource-URL": "ssh://git@github.com/socketio/engine.io",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "engine.io-client@1.8.0": {
+    "Resource-URL": "https://github.com/socketio/engine.io-client",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "engine.io-parser@1.3.1": {
+    "Resource-URL": "ssh://git@github.com/socketio/engine.io-parser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "entities@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-like",
+      "url": "(none)"
+    }
+  },
+  "entities@1.1.1": {
+    "Resource-URL": "http://github.com/fb55/node-entities",
+    "License": {
+      "license": "BSD-like",
+      "url": "(none)"
+    }
+  },
+  "error-ex@1.3.1": {
+    "Resource-URL": "https://github.com/qix-/node-error-ex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "es6-promise@3.3.1": {
+    "Resource-URL": "http://github.com/stefanpenner/es6-promise",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "es6-promise@4.0.5": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "escape-html@1.0.3": {
+    "Resource-URL": "https://github.com/component/escape-html",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "escape-string-regexp@1.0.5": {
+    "Resource-URL": "https://github.com/sindresorhus/escape-string-regexp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "esprima@2.7.3": {
+    "Resource-URL": "https://github.com/jquery/esprima",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "esutils@2.0.2": {
+    "Resource-URL": "ssh://git@github.com/estools/esutils",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "etag@1.8.0": {
+    "Resource-URL": "https://github.com/jshttp/etag",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "event-stream@3.0.20": {
+    "Resource-URL": "http://github.com/dominictarr/event-stream"
+  },
+  "eventemitter3@1.2.0": {
+    "Resource-URL": "http://github.com/primus/eventemitter3",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "events@1.1.1": {
+    "Resource-URL": "http://github.com/Gozala/events",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "evp_bytestokey@1.0.0": {
+    "Resource-URL": "https://github.com/crypto-browserify/EVP_BytesToKey",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "exec-buffer@3.1.0": {
+    "Resource-URL": "https://github.com/kevva/exec-buffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "exec-series@1.0.3": {
+    "Resource-URL": "https://github.com/shinnn/exec-series",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "execa@0.5.1": {
+    "Resource-URL": "https://github.com/sindresorhus/execa",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "executable@1.1.0": {
+    "Resource-URL": "https://github.com/kevva/executable",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "exif-parser@0.1.9": {
+    "Resource-URL": "ssh://git@github.com/bwindels/exif-parser"
+  },
+  "exit-hook@1.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/exit-hook",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "expand-brackets@0.1.5": {
+    "Resource-URL": "https://github.com/jonschlinkert/expand-brackets",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "expand-range@1.8.2": {
+    "Resource-URL": "https://github.com/jonschlinkert/expand-range",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "expand-tilde@1.2.2": {
+    "Resource-URL": "https://github.com/jonschlinkert/expand-tilde",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "express@2.5.11": {
+    "Resource-URL": "http://github.com/visionmedia/express"
+  },
+  "extend@3.0.1": {
+    "Resource-URL": "https://github.com/justmoon/node-extend",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "extend-shallow@2.0.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/extend-shallow",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "extglob@0.3.2": {
+    "Resource-URL": "http://github.com/jonschlinkert/extglob",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "extract-zip@1.5.0": {
+    "Resource-URL": "ssh://git@github.com/maxogden/extract-zip",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "extsprintf@1.0.2": {
+    "Resource-URL": "http://github.com/davepacheco/node-extsprintf"
+  },
+  "fancy-log@1.3.0": {
+    "Resource-URL": "https://github.com/js-cli/fancy-log",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "favicons@4.8.6": {
+    "Resource-URL": "https://github.com/haydenbleasel/favicons",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "fd-slicer@1.0.1": {
+    "Resource-URL": "http://github.com/andrewrk/node-fd-slicer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "figures@1.7.0": {
+    "Resource-URL": "https://github.com/sindresorhus/figures",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "file-type@3.9.0": {
+    "Resource-URL": "https://github.com/sindresorhus/file-type",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "file-type@4.3.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "filename-regex@2.0.1": {
+    "Resource-URL": "https://github.com/regexhq/filename-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "filename-reserved-regex@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/filename-reserved-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "filenamify@1.2.1": {
+    "Resource-URL": "https://github.com/sindresorhus/filenamify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fill-range@2.2.3": {
+    "Resource-URL": "https://github.com/jonschlinkert/fill-range",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "filled-array@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/filled-array",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "finalhandler@0.5.0": {
+    "Resource-URL": "https://github.com/pillarjs/finalhandler",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "find-index@0.1.1": {
+    "Resource-URL": "http://github.com/jsdf/find-index",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "find-up@1.1.2": {
+    "Resource-URL": "https://github.com/sindresorhus/find-up",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "find-versions@1.2.1": {
+    "Resource-URL": "https://github.com/sindresorhus/find-versions",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "findup-sync@0.4.3": {
+    "Resource-URL": "https://github.com/cowboy/node-findup-sync",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fined@1.0.2": {
+    "Resource-URL": "https://github.com/js-cli/fined",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "first-chunk-stream@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/first-chunk-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "flagged-respawn@0.3.2": {
+    "Resource-URL": "http://github.com/js-cli/js-flagged-respawn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "flatten@1.0.2": {
+    "Resource-URL": "http://github.com/jesusabdullah/node-flatten",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "for-each@0.3.2": {
+    "Resource-URL": "http://github.com/Raynos/for-each",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "for-in@1.0.2": {
+    "Resource-URL": "https://github.com/jonschlinkert/for-in",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "for-own@0.1.5": {
+    "Resource-URL": "https://github.com/jonschlinkert/for-own",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "forever-agent@0.6.1": {
+    "Resource-URL": "https://github.com/mikeal/forever-agent",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "fork-stream@0.0.4": {
+    "Resource-URL": "http://github.com/deoxxa/fork-stream",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "form-data@1.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "form-data@2.1.4": {
+    "Resource-URL": "http://github.com/form-data/form-data",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "formidable@1.0.17": {
+    "Resource-URL": "http://github.com/felixge/node-formidable"
+  },
+  "fresh@0.3.0": {
+    "Resource-URL": "https://github.com/jshttp/fresh",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fresh@0.5.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "from@0.1.7": {
+    "Resource-URL": "http://github.com/dominictarr/from",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fs-exists-sync@0.1.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/fs-exists-sync",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fs-extra@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fs-extra@3.0.1": {
+    "Resource-URL": "https://github.com/jprichardson/node-fs-extra",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fs.realpath@1.0.0": {
+    "Resource-URL": "https://github.com/isaacs/fs.realpath",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "fsevents@1.1.1": {
+    "Resource-URL": "https://github.com/strongloop/fsevents",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "fstream@1.0.10": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "fstream-ignore@1.0.5": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "function-bind@1.1.0": {
+    "Resource-URL": "http://github.com/Raynos/function-bind",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gauge@2.7.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "gaze@0.5.2": {
+    "Resource-URL": "http://github.com/shama/gaze",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "generate-function@2.0.0": {
+    "Resource-URL": "https://github.com/mafintosh/generate-function",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "generate-object-property@1.2.0": {
+    "Resource-URL": "https://github.com/mafintosh/generate-object-property",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "get-caller-file@1.0.2": {
+    "Resource-URL": "https://github.com/stefanpenner/get-caller-file",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "get-proxy@1.1.0": {
+    "Resource-URL": "https://github.com/kevva/get-proxy",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "get-stdin@4.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/get-stdin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "get-stream@2.3.1": {
+    "Resource-URL": "https://github.com/sindresorhus/get-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "getpass@0.1.7": {
+    "Resource-URL": "https://github.com/arekinath/node-getpass",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gifsicle@3.0.4": {
+    "Resource-URL": "https://github.com/imagemin/gifsicle-bin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "glob@3.1.21": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "glob@4.5.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "glob@5.0.15": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "glob@6.0.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "glob@7.1.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "glob@7.1.2": {
+    "Resource-URL": "http://github.com/isaacs/node-glob",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "glob-all@3.1.0": {
+    "Resource-URL": "https://github.com/jpillora/node-glob-all",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "glob-base@0.3.0": {
+    "Resource-URL": "http://github.com/jonschlinkert/glob-base",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "glob-parent@2.0.0": {
+    "Resource-URL": "https://github.com/es128/glob-parent",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "glob-parent@3.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "glob-stream@3.1.18": {
+    "Resource-URL": "http://github.com/wearefractal/glob-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "glob-stream@5.3.5": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "glob-watcher@0.0.6": {
+    "Resource-URL": "http://github.com/wearefractal/glob-watcher",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "glob2base@0.0.12": {
+    "Resource-URL": "http://github.com/wearefractal/glob2base",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "global@4.3.2": {
+    "Resource-URL": "http://github.com/Raynos/global",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "global-modules@0.2.3": {
+    "Resource-URL": "https://github.com/jonschlinkert/global-modules",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "global-prefix@0.1.5": {
+    "Resource-URL": "https://github.com/jonschlinkert/global-prefix",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "globals@9.17.0": {
+    "Resource-URL": "https://github.com/sindresorhus/globals",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "globby@5.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/globby",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "globby@6.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "globule@0.1.0": {
+    "Resource-URL": "http://github.com/cowboy/node-globule",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "glogg@1.0.0": {
+    "Resource-URL": "https://github.com/undertakerjs/glogg",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "got@5.7.1": {
+    "Resource-URL": "https://github.com/sindresorhus/got",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "graceful-fs@1.2.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "graceful-fs@3.0.11": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "graceful-fs@4.1.11": {
+    "Resource-URL": "https://github.com/isaacs/node-graceful-fs",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "graceful-readlink@1.0.1": {
+    "Resource-URL": "http://github.com/zhiyelee/graceful-readlink",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gridfolio@2.0.2": {
+    "Resource-URL": "https://github.com/christinecha/gridfolio",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp@3.9.1": {
+    "Resource-URL": "https://github.com/gulpjs/gulp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-concat@2.6.1": {
+    "Resource-URL": "https://github.com/contra/gulp-concat",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-cssnano@2.1.2": {
+    "Resource-URL": "https://github.com/ben-eb/gulp-cssnano",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-decompress@1.2.0": {
+    "Resource-URL": "https://github.com/kevva/gulp-decompress",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-favicons@2.2.7": {
+    "Resource-URL": "https://github.com/haydenbleasel/favicons#gulp",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "gulp-filter@5.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/gulp-filter",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-htmlmin@3.0.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/gulp-htmlmin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-if@2.0.2": {
+    "Resource-URL": "http://github.com/robrich/gulp-if",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-imagemin@3.3.0": {
+    "Resource-URL": "https://github.com/sindresorhus/gulp-imagemin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-match@1.0.3": {
+    "Resource-URL": "http://github.com/robrich/gulp-match",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-plumber@1.1.0": {
+    "Resource-URL": "http://github.com/floatdrop/gulp-plumber",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-postcss@7.0.0": {
+    "Resource-URL": "https://github.com/postcss/gulp-postcss",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-prompt@0.2.0": {
+    "Resource-URL": "http://github.com/Freyskeyd/gulp-prompt",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-pug@3.3.0": {
+    "Resource-URL": "https://github.com/pugjs/gulp-pug",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-rename@1.2.2": {
+    "Resource-URL": "http://github.com/hparra/gulp-rename",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-rsync@0.0.8": {
+    "Resource-URL": "http://github.com/jerrysu/gulp-rsync",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-sourcemaps@1.6.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "gulp-sourcemaps@2.6.0": {
+    "Resource-URL": "http://github.com/gulp-sourcemaps/gulp-sourcemaps",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "gulp-uglify@3.0.0": {
+    "Resource-URL": "https://github.com/terinjokes/gulp-uglify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-uncss@1.0.6": {
+    "Resource-URL": "https://github.com/ben-eb/gulp-uncss",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulp-util@3.0.8": {
+    "Resource-URL": "https://github.com/gulpjs/gulp-util",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "gulplog@1.0.0": {
+    "Resource-URL": "https://github.com/gulpjs/gulplog",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "har-validator@2.0.6": {
+    "Resource-URL": "https://github.com/ahmadnassri/har-validator",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "harmony-reflect@1.5.1": {
+    "Resource-URL": "https://tvcutsem@github.com/tvcutsem/harmony-reflect",
+    "License": {
+      "license": "(Apache-2.0 OR MPL-1.1)",
+      "url": "(none)"
+    }
+  },
+  "has@1.0.1": {
+    "Resource-URL": "http://github.com/tarruda/has",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "has-ansi@2.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/has-ansi",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "has-binary@0.1.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "has-binary@0.1.7": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "has-cors@1.1.0": {
+    "Resource-URL": "http://github.com/component/has-cors",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "has-flag@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/has-flag",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "has-gulplog@0.1.0": {
+    "Resource-URL": "https://github.com/gulpjs/has-gulplog",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "has-unicode@2.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "hash-base@2.0.2": {
+    "Resource-URL": "https://github.com/crypto-browserify/hash-base",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "hash.js@1.0.3": {
+    "Resource-URL": "ssh://git@github.com/indutny/hash.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "hasha@2.2.0": {
+    "Resource-URL": "https://github.com/sindresorhus/hasha",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "hawk@3.1.3": {
+    "Resource-URL": "http://github.com/hueniverse/hawk",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "he@1.1.1": {
+    "Resource-URL": "https://github.com/mathiasbynens/he",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "hmac-drbg@1.0.1": {
+    "Resource-URL": "ssh://git@github.com/indutny/hmac-drbg",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "hoek@2.16.3": {
+    "Resource-URL": "http://github.com/hapijs/hoek",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "home-or-tmp@2.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/home-or-tmp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "homedir-polyfill@1.0.1": {
+    "Resource-URL": "https://github.com/doowb/homedir-polyfill",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "hosted-git-info@2.4.2": {
+    "Resource-URL": "https://github.com/npm/hosted-git-info",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "html-comment-regex@1.1.1": {
+    "Resource-URL": "https://github.com/stevemao/html-comment-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "html-minifier@3.5.2": {
+    "Resource-URL": "https://github.com/kangax/html-minifier",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "html-tags@1.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/html-tags",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "htmlescape@1.1.1": {
+    "Resource-URL": "http://github.com/zertosh/htmlescape",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "htmlparser2@3.8.3": {
+    "Resource-URL": "http://github.com/fb55/htmlparser2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "http-errors@1.5.1": {
+    "Resource-URL": "https://github.com/jshttp/http-errors",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "http-errors@1.6.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "http-proxy@1.15.2": {
+    "Resource-URL": "https://github.com/nodejitsu/node-http-proxy",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "http-signature@1.1.1": {
+    "Resource-URL": "http://github.com/joyent/node-http-signature",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "https-browserify@1.0.0": {
+    "Resource-URL": "http://github.com/substack/https-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ieee754@1.1.8": {
+    "Resource-URL": "http://github.com/feross/ieee754",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "image-size@0.4.0": {
+    "Resource-URL": "https://github.com/image-size/image-size",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "image-size@0.5.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "imagemin@5.3.1": {
+    "Resource-URL": "https://github.com/imagemin/imagemin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "imagemin-gifsicle@5.1.0": {
+    "Resource-URL": "https://github.com/imagemin/imagemin-gifsicle",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "imagemin-jpegtran@5.0.2": {
+    "Resource-URL": "https://github.com/imagemin/imagemin-jpegtran",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "imagemin-optipng@5.2.1": {
+    "Resource-URL": "https://github.com/imagemin/imagemin-optipng",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "imagemin-svgo@5.2.2": {
+    "Resource-URL": "https://github.com/imagemin/imagemin-svgo",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "immutable@3.8.1": {
+    "Resource-URL": "http://github.com/facebook/immutable-js",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "imurmurhash@0.1.4": {
+    "Resource-URL": "https://github.com/jensyt/imurmurhash-js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "indent-string@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/indent-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "indexes-of@1.0.1": {
+    "Resource-URL": "http://github.com/dominictarr/indexes-of",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "indexof@0.0.1": {
+    "Resource-URL": "(none)"
+  },
+  "inflight@1.0.6": {
+    "Resource-URL": "https://github.com/npm/inflight",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "inherits@1.0.2": {
+    "Resource-URL": "(none)"
+  },
+  "inherits@2.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "inherits@2.0.3": {
+    "Resource-URL": "http://github.com/isaacs/inherits",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "ini@1.3.4": {
+    "Resource-URL": "http://github.com/isaacs/ini",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "inline-source-map@0.6.2": {
+    "Resource-URL": "http://github.com/thlorenz/inline-source-map",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "inquirer@0.10.1": {
+    "Resource-URL": "https://github.com/SBoudrias/Inquirer.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "insert-module-globals@7.0.1": {
+    "Resource-URL": "http://github.com/substack/insert-module-globals",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "interpret@1.0.3": {
+    "Resource-URL": "http://github.com/tkellen/node-interpret",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "invariant@2.2.2": {
+    "Resource-URL": "https://github.com/zertosh/invariant",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "invert-kv@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/invert-kv",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ip-regex@1.0.3": {
+    "Resource-URL": "https://github.com/sindresorhus/ip-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "irregular-plurals@1.2.0": {
+    "Resource-URL": "https://github.com/sindresorhus/irregular-plurals",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-absolute@0.1.7": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-absolute@0.2.6": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-absolute",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-absolute-url@2.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-absolute-url@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-absolute-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-arrayish@0.2.1": {
+    "Resource-URL": "https://github.com/qix-/node-is-arrayish",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-binary-path@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/is-binary-path",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-buffer@1.1.5": {
+    "Resource-URL": "http://github.com/feross/is-buffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-builtin-module@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-builtin-module",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-bzip2@1.0.0": {
+    "Resource-URL": "https://github.com/kevva/is-bzip2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-directory@0.3.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-directory",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-dotfile@1.0.3": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-dotfile",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-equal-shallow@0.1.3": {
+    "Resource-URL": "http://github.com/jonschlinkert/is-equal-shallow",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-expression@2.1.0": {
+    "Resource-URL": "https://github.com/pugjs/is-expression",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-expression@3.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-extendable@0.1.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-extendable",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-extglob@1.0.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-extglob",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-extglob@2.1.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-finite@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/is-finite",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-fullwidth-code-point@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-fullwidth-code-point",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-function@1.0.1": {
+    "Resource-URL": "http://github.com/grncdr/js-is-function",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-gif@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-gif",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-glob@2.0.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-glob",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-glob@3.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-gzip@1.0.0": {
+    "Resource-URL": "https://github.com/kevva/is-gzip",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-html@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-html",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-jpg@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-jpg",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-my-json-valid@2.16.0": {
+    "Resource-URL": "https://github.com/mafintosh/is-my-json-valid",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-natural-number@2.1.1": {
+    "Resource-URL": "https://github.com/shinnn/is-natural-number.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-npm@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-npm",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-number@2.1.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-number",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-number-like@1.0.7": {
+    "Resource-URL": "https://github.com/vigour-io/is-number-like",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "is-obj@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/is-obj",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-path-cwd@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-path-cwd",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-path-in-cwd@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-path-in-cwd",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-path-inside@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-path-inside",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-plain-obj@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-plain-obj",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-png@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-png",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-posix-bracket@0.1.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-posix-bracket",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-primitive@2.0.0": {
+    "Resource-URL": "http://github.com/jonschlinkert/is-primitive",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-promise@2.1.0": {
+    "Resource-URL": "https://github.com/then/is-promise",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-property@1.0.2": {
+    "Resource-URL": "http://github.com/mikolalysenko/is-property",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-redirect@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-redirect",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-regex@1.0.4": {
+    "Resource-URL": "http://github.com/ljharb/is-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-relative@0.1.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-relative@0.2.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-relative",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-retry-allowed@1.1.0": {
+    "Resource-URL": "https://github.com/floatdrop/is-retry-allowed",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-stream@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-svg@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/is-svg",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-tar@1.0.0": {
+    "Resource-URL": "https://github.com/kevva/is-tar",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-typedarray@1.0.0": {
+    "Resource-URL": "http://github.com/hughsk/is-typedarray",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-unc-path@0.1.2": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-unc-path",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-url@1.2.2": {
+    "Resource-URL": "https://github.com/segmentio/is-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-utf8@0.2.1": {
+    "Resource-URL": "https://github.com/wayfind/is-utf8",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-valid-glob@0.3.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-valid-glob",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-windows@0.2.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/is-windows",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "is-zip@1.0.0": {
+    "Resource-URL": "https://github.com/kevva/is-zip",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "isarray@0.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "isarray@1.0.0": {
+    "Resource-URL": "http://github.com/juliangruber/isarray",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "isexe@2.0.0": {
+    "Resource-URL": "https://github.com/isaacs/isexe",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "isobject@2.1.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/isobject",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "isstream@0.1.2": {
+    "Resource-URL": "https://github.com/rvagg/isstream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jimp@0.2.28": {
+    "Resource-URL": "https://github.com/oliver-moran/jimp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jodid25519@1.0.2": {
+    "Resource-URL": "https://github.com/meganz/jodid25519",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jpeg-js@0.1.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "jpeg-js@0.2.0": {
+    "Resource-URL": "https://github.com/eugeneware/jpeg-js",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "jpegtran-bin@3.2.0": {
+    "Resource-URL": "https://github.com/imagemin/jpegtran-bin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "js-base64@2.1.9": {
+    "Resource-URL": "http://github.com/dankogai/js-base64",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "js-stringify@1.0.2": {
+    "Resource-URL": "https://github.com/jadejs/js-stringify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "js-tokens@3.0.1": {
+    "Resource-URL": "https://github.com/lydell/js-tokens",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "js-yaml@3.7.0": {
+    "Resource-URL": "https://github.com/nodeca/js-yaml",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsbn@0.1.1": {
+    "Resource-URL": "https://github.com/andyperlitch/jsbn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsesc@0.5.0": {
+    "Resource-URL": "https://github.com/mathiasbynens/jsesc",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsesc@1.3.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "json-schema@0.2.3": {
+    "Resource-URL": "ssh://git@github.com/kriszyp/json-schema",
+    "License": {
+      "license": "AFLv2.1/BSD",
+      "url": "(none)"
+    }
+  },
+  "json-stable-stringify@0.0.1": {
+    "Resource-URL": "http://github.com/substack/json-stable-stringify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "json-stable-stringify@1.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "json-stringify-safe@5.0.1": {
+    "Resource-URL": "http://github.com/isaacs/json-stringify-safe",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "json3@3.3.2": {
+    "Resource-URL": "http://github.com/bestiejs/json3",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "json5@0.5.1": {
+    "Resource-URL": "https://github.com/aseemk/json5",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsonfile@2.4.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsonfile@3.0.0": {
+    "Resource-URL": "ssh://git@github.com/jprichardson/node-jsonfile",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsonify@0.0.0": {
+    "Resource-URL": "ssh://git@github.com/substack/jsonify",
+    "License": {
+      "license": "Public Domain",
+      "url": "(none)"
+    }
+  },
+  "jsonparse@1.3.1": {
+    "Resource-URL": "ssh://git@github.com/creationix/jsonparse",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsonpointer@4.0.1": {
+    "Resource-URL": "ssh://git@github.com/janl/node-jsonpointer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsontoxml@0.0.11": {
+    "Resource-URL": "http://github.com/soldair/node-jsontoxml",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jsprim@1.4.0": {
+    "Resource-URL": "http://github.com/joyent/node-jsprim",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "jstransformer@1.0.0": {
+    "Resource-URL": "https://github.com/jstransformers/jstransformer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "kew@0.7.0": {
+    "Resource-URL": "https://github.com/Medium/kew",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "kind-of@3.2.2": {
+    "Resource-URL": "https://github.com/jonschlinkert/kind-of",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "klaw@1.3.1": {
+    "Resource-URL": "https://github.com/jprichardson/node-klaw",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "labeled-stream-splicer@2.0.0": {
+    "Resource-URL": "http://github.com/substack/labeled-stream-splicer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "latest-version@2.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/latest-version",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lazy-cache@1.0.4": {
+    "Resource-URL": "https://github.com/jonschlinkert/lazy-cache",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lazy-req@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/lazy-req",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lazystream@1.0.0": {
+    "Resource-URL": "https://github.com/jpommerening/node-lazystream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lcid@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/lcid",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lexical-scope@1.2.0": {
+    "Resource-URL": "http://github.com/substack/lexical-scope",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "liftoff@2.3.0": {
+    "Resource-URL": "http://github.com/js-cli/js-liftoff",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "limiter@1.1.0": {
+    "Resource-URL": "http://github.com/jhurliman/node-rate-limiter",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "linerstream@0.1.4": {
+    "Resource-URL": "http://github.com/nisaacson/linerstream",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "load-bmfont@1.3.0": {
+    "Resource-URL": "http://github.com/Jam3/load-bmfont",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "load-json-file@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/load-json-file",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "localtunnel@1.8.2": {
+    "Resource-URL": "http://github.com/localtunnel/localtunnel",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash@1.0.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash@2.4.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash@3.10.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash@4.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash@4.17.4": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._arraypool@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._basebind@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._basecopy@3.0.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._basecreate@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._basecreatecallback@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._basecreatewrapper@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._baseisequal@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._basetostring@3.0.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._basevalues@3.0.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._createwrapper@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._getarray@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._getnative@3.9.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._isiterateecall@3.0.9": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._isnative@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._maxpoolsize@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._objecttypes@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._reescape@3.0.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._reevaluate@3.0.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._reinterpolate@3.0.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._releasearray@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._root@3.0.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._setbinddata@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._shimkeys@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash._slice@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.assign@4.2.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.assignwith@4.2.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.bind@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.clonedeep@4.5.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.createcallback@2.4.4": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.debounce@4.0.8": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.defaults@4.2.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.defaultsdeep@4.6.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.escape@3.2.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.every@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.forin@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.forown@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.identity@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isarguments@3.1.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isarray@3.0.4": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isempty@4.4.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isequal@4.5.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isfinite@3.3.2": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isfunction@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isobject@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isplainobject@4.0.6": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isstring@2.4.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.isstring@4.0.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.keys@2.4.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.keys@3.1.2": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.mapvalues@4.6.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.memoize@3.0.4": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.memoize@4.1.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.mergewith@4.6.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.noop@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.pick@4.4.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.property@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.restparam@3.6.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.support@2.4.1": {
+    "Resource-URL": "https://github.com/lodash/lodash-cli",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.template@3.6.2": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.templatesettings@3.1.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.throttle@4.1.1": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lodash.uniq@4.5.0": {
+    "Resource-URL": "https://github.com/lodash/lodash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "log-symbols@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/log-symbols",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "logalot@2.1.0": {
+    "Resource-URL": "https://github.com/imagemin/logalot",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "longest@1.0.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/longest",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "loose-envify@1.3.1": {
+    "Resource-URL": "http://github.com/zertosh/loose-envify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lost@8.0.0": {
+    "Resource-URL": "https://github.com/peterramsing/lost",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "loud-rejection@1.6.0": {
+    "Resource-URL": "https://github.com/sindresorhus/loud-rejection",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lower-case@1.1.4": {
+    "Resource-URL": "http://github.com/blakeembrey/lower-case",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lowercase-keys@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/lowercase-keys",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lpad-align@1.1.2": {
+    "Resource-URL": "https://github.com/kevva/lpad-align",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "lru-cache@2.7.3": {
+    "Resource-URL": "http://github.com/isaacs/node-lru-cache",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "lru-cache@4.0.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "macaddress@0.2.8": {
+    "Resource-URL": "https://github.com/scravy/node-macaddress",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "magic-string@0.14.0": {
+    "Resource-URL": "https://github.com/rich-harris/magic-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "make-dir@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/make-dir",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "make-error@1.3.0": {
+    "Resource-URL": "http://github.com/JsCommunity/make-error",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "make-error-cause@1.2.2": {
+    "Resource-URL": "http://github.com/blakeembrey/make-error-cause",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "map-cache@0.2.2": {
+    "Resource-URL": "https://github.com/jonschlinkert/map-cache",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "map-obj@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/map-obj",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "map-stream@0.0.7": {
+    "Resource-URL": "http://github.com/dominictarr/map-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "math-expression-evaluator@1.2.17": {
+    "Resource-URL": "https://github.com/redhivesoftware/math-expression-evaluator#readme",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "meow@3.7.0": {
+    "Resource-URL": "https://github.com/sindresorhus/meow",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "merge-defaults@0.2.1": {
+    "Resource-URL": "http://github.com/mikermcneil/merge-defaults",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "merge-stream@1.0.1": {
+    "Resource-URL": "https://github.com/grncdr/merge-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "micromatch@2.3.11": {
+    "Resource-URL": "https://github.com/jonschlinkert/micromatch",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "miller-rabin@4.0.0": {
+    "Resource-URL": "ssh://git@github.com/indutny/miller-rabin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "mime@1.2.4": {
+    "Resource-URL": "ssh://git@github.com/bentomas/node-mime"
+  },
+  "mime@1.3.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "mime@1.3.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "mime-db@1.27.0": {
+    "Resource-URL": "https://github.com/jshttp/mime-db",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "mime-types@2.1.15": {
+    "Resource-URL": "https://github.com/jshttp/mime-types",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "min-document@2.19.0": {
+    "Resource-URL": "http://github.com/Raynos/min-document",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "minimalistic-assert@1.0.0": {
+    "Resource-URL": "https://github.com/calvinmetcalf/minimalistic-assert",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "minimalistic-crypto-utils@1.0.1": {
+    "Resource-URL": "ssh://git@github.com/indutny/minimalistic-crypto-utils",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "minimatch@0.2.14": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "minimatch@2.0.10": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "minimatch@3.0.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "minimatch@3.0.4": {
+    "Resource-URL": "http://github.com/isaacs/minimatch",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "minimist@0.0.8": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "minimist@0.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "minimist@1.2.0": {
+    "Resource-URL": "http://github.com/substack/minimist",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "mkdirp@0.3.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT/X11",
+      "url": "(none)"
+    }
+  },
+  "mkdirp@0.5.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "mkdirp@0.5.1": {
+    "Resource-URL": "https://github.com/substack/node-mkdirp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "module-deps@4.1.1": {
+    "Resource-URL": "http://github.com/substack/module-deps",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ms@0.7.1": {
+    "Resource-URL": "(none)"
+  },
+  "ms@0.7.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ms@0.7.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ms@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ms@2.0.0": {
+    "Resource-URL": "https://github.com/zeit/ms",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "multimatch@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/multimatch",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "multipipe@0.1.2": {
+    "Resource-URL": "https://github.com/juliangruber/multipipe",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "mute-stream@0.0.5": {
+    "Resource-URL": "http://github.com/isaacs/mute-stream",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "nan@2.6.2": {
+    "Resource-URL": "http://github.com/nodejs/nan",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "natives@1.1.0": {
+    "Resource-URL": "https://github.com/isaacs/natives",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "ncname@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/ncname",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "negotiator@0.6.1": {
+    "Resource-URL": "https://github.com/jshttp/negotiator",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "nlf@2.0.0": {
+    "Resource-URL": "http://github.com/iandotkelly/nlf",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "no-case@2.3.1": {
+    "Resource-URL": "http://github.com/blakeembrey/no-case",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "node-pre-gyp@0.6.33": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "node-rest-client@1.8.0": {
+    "Resource-URL": "https://github.com/aacerox/node-rest-client",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "node-status-codes@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/node-status-codes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "node-uuid@1.4.8": {
+    "Resource-URL": "https://github.com/broofa/node-uuid",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "nopt@3.0.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "normalize-package-data@2.3.8": {
+    "Resource-URL": "http://github.com/npm/normalize-package-data",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "normalize-path@2.1.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/normalize-path",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "normalize-range@0.1.2": {
+    "Resource-URL": "https://github.com/jamestalmage/normalize-range",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "normalize-url@1.9.1": {
+    "Resource-URL": "https://github.com/sindresorhus/normalize-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "npm-run-path@2.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/npm-run-path",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "npmlog@4.0.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "nth-check@1.0.1": {
+    "Resource-URL": "https://github.com/fb55/nth-check",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "num2fraction@1.2.2": {
+    "Resource-URL": "ssh://git@github.com/yisibl/num2fraction",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "number-is-nan@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/number-is-nan",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "oauth-sign@0.8.2": {
+    "Resource-URL": "https://github.com/mikeal/oauth-sign",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "object-assign@2.1.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "object-assign@3.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "object-assign@4.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "object-assign@4.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/object-assign",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "object-component@0.0.3": {
+    "Resource-URL": "(none)"
+  },
+  "object-path@0.9.2": {
+    "Resource-URL": "http://github.com/mariocasciaro/object-path",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "object.omit@2.0.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/object.omit",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "on-finished@2.3.0": {
+    "Resource-URL": "https://github.com/jshttp/on-finished",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "once@1.3.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "once@1.4.0": {
+    "Resource-URL": "http://github.com/isaacs/once",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "onetime@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/onetime",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "openurl@1.1.0": {
+    "Resource-URL": "https://github.com/rauschma/openurl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "opn@4.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/opn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "options@0.0.6": {
+    "Resource-URL": "http://github.com/einaros/options.js"
+  },
+  "optipng-bin@3.1.4": {
+    "Resource-URL": "https://github.com/imagemin/optipng-bin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "orchestrator@0.3.8": {
+    "Resource-URL": "http://github.com/robrich/orchestrator",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ordered-read-streams@0.1.0": {
+    "Resource-URL": "http://github.com/armed/ordered-read-streams",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ordered-read-streams@0.3.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "os-browserify@0.1.2": {
+    "Resource-URL": "ssh://git@github.com/drewyoung1/os-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "os-filter-obj@1.0.3": {
+    "Resource-URL": "https://github.com/kevva/os-filter-obj",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "os-homedir@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/os-homedir",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "os-locale@1.4.0": {
+    "Resource-URL": "https://github.com/sindresorhus/os-locale",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "os-tmpdir@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/os-tmpdir",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "osenv@0.1.4": {
+    "Resource-URL": "https://github.com/npm/osenv",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "p-finally@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/p-finally",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "p-pipe@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/p-pipe",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "package-json@2.4.0": {
+    "Resource-URL": "https://github.com/sindresorhus/package-json",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pako@0.2.9": {
+    "Resource-URL": "https://github.com/nodeca/pako",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "param-case@2.1.1": {
+    "Resource-URL": "http://github.com/blakeembrey/param-case",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parents@1.0.1": {
+    "Resource-URL": "http://github.com/substack/node-parents",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-asn1@5.1.0": {
+    "Resource-URL": "http://github.com/crypto-browserify/parse-asn1",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "parse-bmfont-ascii@1.0.6": {
+    "Resource-URL": "http://github.com/mattdesl/parse-bmfont-ascii",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-bmfont-binary@1.0.6": {
+    "Resource-URL": "http://github.com/Jam3/parse-bmfont-binary",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-bmfont-xml@1.1.3": {
+    "Resource-URL": "http://github.com/mattdesl/parse-bmfont-xml",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-filepath@1.0.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/parse-filepath",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-glob@3.0.4": {
+    "Resource-URL": "https://github.com/jonschlinkert/parse-glob",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-headers@2.0.1": {
+    "Resource-URL": "https://github.com/kesla/parse-headers",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-json@2.2.0": {
+    "Resource-URL": "https://github.com/sindresorhus/parse-json",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-passwd@1.0.0": {
+    "Resource-URL": "https://github.com/doowb/parse-passwd",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parse-png@1.1.2": {
+    "Resource-URL": "https://github.com/kevva/parse-png",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parsejson@0.0.3": {
+    "Resource-URL": "https://github.com/get/parsejson",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parseqs@0.0.5": {
+    "Resource-URL": "https://github.com/get/querystring",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parseuri@0.0.5": {
+    "Resource-URL": "https://github.com/get/parseuri",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "parseurl@1.3.1": {
+    "Resource-URL": "https://github.com/pillarjs/parseurl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-browserify@0.0.0": {
+    "Resource-URL": "http://github.com/substack/path-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-dirname@1.0.2": {
+    "Resource-URL": "https://github.com/es128/path-dirname",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-exists@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/path-exists",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-is-absolute@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/path-is-absolute",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-is-inside@1.0.2": {
+    "Resource-URL": "https://github.com/domenic/path-is-inside",
+    "License": {
+      "license": "(WTFPL OR MIT)",
+      "url": "(none)"
+    }
+  },
+  "path-key@2.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/path-key",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-parse@1.0.5": {
+    "Resource-URL": "https://github.com/jbgutierrez/path-parse",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-platform@0.11.15": {
+    "Resource-URL": "ssh://git@github.com/tjfontaine/node-path-platform",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-root@0.1.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/path-root",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-root-regex@0.1.2": {
+    "Resource-URL": "https://github.com/regexhq/path-root-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "path-type@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/path-type",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pause-stream@0.0.11": {
+    "Resource-URL": "http://github.com/dominictarr/pause-stream",
+    "License": {
+      "license": "MIT/Apache2",
+      "url": "(none)"
+    }
+  },
+  "pbkdf2@3.0.12": {
+    "Resource-URL": "https://github.com/crypto-browserify/pbkdf2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pend@1.2.0": {
+    "Resource-URL": "http://github.com/andrewrk/node-pend",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "phantomjs-prebuilt@2.1.14": {
+    "Resource-URL": "http://github.com/Medium/phantomjs",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "phridge@2.0.0": {
+    "Resource-URL": "https://github.com/peerigon/phridge",
+    "License": {
+      "license": "Unlicense",
+      "url": "(none)"
+    }
+  },
+  "pify@2.3.0": {
+    "Resource-URL": "https://github.com/sindresorhus/pify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pinkie@2.0.4": {
+    "Resource-URL": "https://github.com/floatdrop/pinkie",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pinkie-promise@2.0.1": {
+    "Resource-URL": "https://github.com/floatdrop/pinkie-promise",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pixelmatch@4.0.2": {
+    "Resource-URL": "https://github.com/mapbox/pixelmatch",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "plur@2.1.2": {
+    "Resource-URL": "https://github.com/sindresorhus/plur",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pn@1.0.0": {
+    "Resource-URL": "http://github.com/cscott/node-pn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pngjs@3.2.0": {
+    "Resource-URL": "http://github.com/lukeapage/pngjs2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "portscanner@2.1.1": {
+    "Resource-URL": "http://github.com/baalexander/node-portscanner",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss@5.0.21": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss@5.2.17": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss@6.0.1": {
+    "Resource-URL": "https://github.com/postcss/postcss",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-calc@5.3.1": {
+    "Resource-URL": "https://github.com/postcss/postcss-calc",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-colormin@2.2.2": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-colormin",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-convert-values@2.6.1": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-convert-values",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-discard-comments@2.0.4": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-discard-comments",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-discard-duplicates@2.1.0": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-discard-duplicates",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-discard-empty@2.1.0": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-discard-empty",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-discard-overridden@0.1.1": {
+    "Resource-URL": "https://github.com/Justineo/postcss-discard-overridden",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-discard-unused@2.2.3": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-discard-unused",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-easy-import@2.0.0": {
+    "Resource-URL": "https://github.com/TrySound/postcss-easy-import",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-filter-plugins@2.0.2": {
+    "Resource-URL": "https://github.com/postcss/postcss-filter-plugins",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-import@9.1.0": {
+    "Resource-URL": "https://github.com/postcss/postcss-import",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-load-config@1.2.0": {
+    "Resource-URL": "https://github.com/michael-ciniawsky/postcss-load-config",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-load-options@1.2.0": {
+    "Resource-URL": "https://github.com/michael-ciniawsky/postcss-load-options",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-load-plugins@2.3.0": {
+    "Resource-URL": "https://github.com/michael-ciniawsky/postcss-load-plugins",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-merge-idents@2.1.7": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-merge-idents",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-merge-longhand@2.0.2": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-merge-longhand",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-merge-rules@2.1.2": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-merge-rules",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-message-helpers@2.0.0": {
+    "Resource-URL": "https://github.com/MoOx/postcss-message-helpers",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-minify-font-values@1.0.5": {
+    "Resource-URL": "https://github.com/TrySound/postcss-minify-font-values",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-minify-gradients@1.0.5": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-minify-gradients",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-minify-params@1.2.2": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-minify-params",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-minify-selectors@2.1.1": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-minify-selectors",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-nested@2.0.2": {
+    "Resource-URL": "https://github.com/postcss/postcss-nested",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-normalize-charset@1.1.1": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-charset",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-normalize-url@3.0.8": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-normalize-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-ordered-values@2.2.3": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-ordered-values",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-reduce-idents@2.4.0": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-reduce-idents",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-reduce-initial@1.0.1": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-reduce-initial",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-reduce-transforms@1.0.4": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-reduce-transforms",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-reporter@3.0.0": {
+    "Resource-URL": "https://github.com/postcss/postcss-reporter",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-responsive-type@0.5.1": {
+    "Resource-URL": "https://github.com/seaneking/postcss-responsive-type",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-selector-parser@2.2.3": {
+    "Resource-URL": "https://github.com/postcss/postcss-selector-parser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-simple-vars@4.0.0": {
+    "Resource-URL": "https://github.com/postcss/postcss-simple-vars",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-svgo@2.1.6": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-svgo",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-unique-selectors@2.0.2": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-unique-selectors",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-value-parser@3.3.0": {
+    "Resource-URL": "https://github.com/TrySound/postcss-value-parser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "postcss-zindex@2.2.0": {
+    "Resource-URL": "https://github.com/ben-eb/postcss-zindex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "prepend-http@1.0.4": {
+    "Resource-URL": "https://github.com/sindresorhus/prepend-http",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "preserve@0.2.0": {
+    "Resource-URL": "http://github.com/jonschlinkert/preserve",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pretty-bytes@4.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/pretty-bytes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pretty-hrtime@1.0.3": {
+    "Resource-URL": "http://github.com/robrich/pretty-hrtime",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "private@0.1.7": {
+    "Resource-URL": "http://github.com/benjamn/private",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "process@0.5.2": {
+    "Resource-URL": "(none)"
+  },
+  "process@0.11.10": {
+    "Resource-URL": "http://github.com/shtylman/node-process",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "process-nextick-args@1.0.7": {
+    "Resource-URL": "https://github.com/calvinmetcalf/process-nextick-args",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "progress@1.1.8": {
+    "Resource-URL": "http://github.com/visionmedia/node-progress"
+  },
+  "promise@7.1.1": {
+    "Resource-URL": "https://github.com/then/promise",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "promise-each@2.2.0": {
+    "Resource-URL": "https://github.com/yoshuawuyts/promise-each",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pseudomap@1.0.2": {
+    "Resource-URL": "https://github.com/isaacs/pseudomap",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "public-encrypt@4.0.0": {
+    "Resource-URL": "https://github.com/crypto-browserify/publicEncrypt",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug@2.0.0-rc.2": {
+    "Resource-URL": "http://github.com/pugjs/pug",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-attrs@2.0.2": {
+    "Resource-URL": "https://github.com/pugjs/pug-attrs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-code-gen@1.1.1": {
+    "Resource-URL": "https://github.com/pugjs/pug-code-gen",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-error@1.3.2": {
+    "Resource-URL": "https://github.com/pugjs/pug-error",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-filters@2.1.3": {
+    "Resource-URL": "https://github.com/pugjs/pug-filters",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-lexer@3.1.0": {
+    "Resource-URL": "https://github.com/pugjs/pug-lexer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-linker@3.0.1": {
+    "Resource-URL": "https://github.com/pugjs/pug-linker",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-load@2.0.7": {
+    "Resource-URL": "https://github.com/pugjs/pug-load",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-parser@3.0.0": {
+    "Resource-URL": "https://github.com/pugjs/pug-parser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-runtime@2.0.3": {
+    "Resource-URL": "https://github.com/pugjs/pug-runtime",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-strip-comments@1.0.2": {
+    "Resource-URL": "https://github.com/pugjs/pug-strip-comments",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "pug-walk@1.1.3": {
+    "Resource-URL": "https://github.com/pugjs/pug-walk",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "punycode@1.3.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "punycode@1.4.1": {
+    "Resource-URL": "https://github.com/bestiejs/punycode.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "q@1.5.0": {
+    "Resource-URL": "http://github.com/kriskowal/q",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "qs@0.4.2": {
+    "Resource-URL": "(none)"
+  },
+  "qs@6.0.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "qs@6.2.1": {
+    "Resource-URL": "https://github.com/ljharb/qs",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "qs@6.3.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "query-string@4.3.4": {
+    "Resource-URL": "https://github.com/sindresorhus/query-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "querystring@0.2.0": {
+    "Resource-URL": "http://github.com/Gozala/querystring",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "querystring-es3@0.2.1": {
+    "Resource-URL": "http://github.com/mike-spainhower/querystring",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "randomatic@1.1.6": {
+    "Resource-URL": "https://github.com/jonschlinkert/randomatic",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "randombytes@2.0.4": {
+    "Resource-URL": "ssh://git@github.com/crypto-browserify/randombytes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "range-parser@1.2.0": {
+    "Resource-URL": "https://github.com/jshttp/range-parser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "rc@1.1.7": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "(BSD-2-Clause OR MIT OR Apache-2.0)",
+      "url": "(none)"
+    }
+  },
+  "rc@1.2.1": {
+    "Resource-URL": "https://github.com/dominictarr/rc",
+    "License": {
+      "license": "(BSD-2-Clause OR MIT OR Apache-2.0)",
+      "url": "(none)"
+    }
+  },
+  "read-all-stream@3.1.0": {
+    "Resource-URL": "https://github.com/floatdrop/read-all-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "read-cache@1.0.0": {
+    "Resource-URL": "https://github.com/TrySound/read-cache",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "read-chunk@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/read-chunk",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "read-only-stream@2.0.0": {
+    "Resource-URL": "http://github.com/substack/read-only-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "read-pkg@1.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/read-pkg",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "read-pkg-up@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/read-pkg-up",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readable-stream@1.0.34": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readable-stream@1.1.14": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readable-stream@2.0.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readable-stream@2.1.5": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readable-stream@2.2.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readable-stream@2.2.10": {
+    "Resource-URL": "http://github.com/nodejs/readable-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readdirp@2.1.0": {
+    "Resource-URL": "http://github.com/thlorenz/readdirp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "readline2@1.0.1": {
+    "Resource-URL": "https://github.com/SBoudrias/readline2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "rechoir@0.6.2": {
+    "Resource-URL": "http://github.com/tkellen/node-rechoir",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "redent@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/redent",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "reduce-css-calc@1.3.0": {
+    "Resource-URL": "https://github.com/MoOx/reduce-css-calc",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "reduce-function-call@1.0.2": {
+    "Resource-URL": "https://github.com/MoOx/reduce-function-call",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "regenerate@1.3.2": {
+    "Resource-URL": "https://github.com/mathiasbynens/regenerate",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "regenerator-runtime@0.10.5": {
+    "Resource-URL": "https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "regenerator-transform@0.9.11": {
+    "Resource-URL": "https://github.com/facebook/regenerator/tree/master/packages/regenerator-transform",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "regex-cache@0.4.3": {
+    "Resource-URL": "https://github.com/jonschlinkert/regex-cache",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "regexpu-core@2.0.0": {
+    "Resource-URL": "https://github.com/mathiasbynens/regexpu-core",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "registry-auth-token@3.3.1": {
+    "Resource-URL": "ssh://git@github.com/rexxars/registry-auth-token",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "registry-url@3.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/registry-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "regjsgen@0.2.0": {
+    "Resource-URL": "https://github.com/d10/regjsgen",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "regjsparser@0.1.5": {
+    "Resource-URL": "ssh://git@github.com/jviereck/regjsparser",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "relateurl@0.2.7": {
+    "Resource-URL": "http://github.com/stevenvachon/relateurl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "remove-trailing-separator@1.0.1": {
+    "Resource-URL": "https://github.com/darsain/remove-trailing-separator",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "repeat-element@1.1.2": {
+    "Resource-URL": "http://github.com/jonschlinkert/repeat-element",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "repeat-string@1.6.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/repeat-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "repeating@2.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/repeating",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "replace-ext@0.0.1": {
+    "Resource-URL": "http://github.com/wearefractal/replace-ext",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "replace-ext@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "request@2.69.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "request@2.78.0": {
+    "Resource-URL": "https://github.com/request/request",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "request@2.79.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "request-progress@2.0.1": {
+    "Resource-URL": "http://github.com/IndigoUnited/node-request-progress",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "require-directory@2.1.1": {
+    "Resource-URL": "http://github.com/troygoode/node-require-directory",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "require-from-string@1.2.1": {
+    "Resource-URL": "https://github.com/floatdrop/require-from-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "require-main-filename@1.0.1": {
+    "Resource-URL": "ssh://git@github.com/yargs/require-main-filename",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "requires-port@1.0.0": {
+    "Resource-URL": "https://github.com/unshiftio/requires-port",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "resize-img@1.1.2": {
+    "Resource-URL": "https://github.com/kevva/resize-img",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "resolve@1.1.7": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "resolve@1.3.3": {
+    "Resource-URL": "http://github.com/substack/node-resolve",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "resolve-dir@0.1.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/resolve-dir",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "resolve-url@0.2.1": {
+    "Resource-URL": "https://github.com/lydell/resolve-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "resp-modifier@6.0.2": {
+    "Resource-URL": "https://github.com/shakyshane/resp-modifier",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "restore-cursor@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/restore-cursor",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "right-align@0.1.3": {
+    "Resource-URL": "http://github.com/jonschlinkert/right-align",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "rimraf@2.2.8": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "rimraf@2.5.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "rimraf@2.6.1": {
+    "Resource-URL": "http://github.com/isaacs/rimraf",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "ripemd160@2.0.1": {
+    "Resource-URL": "https://github.com/crypto-browserify/ripemd160",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "run-async@0.1.0": {
+    "Resource-URL": "http://github.com/SBoudrias/run-async",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "rx@4.1.0": {
+    "Resource-URL": "https://github.com/Reactive-Extensions/RxJS",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "rx-lite@3.1.2": {
+    "Resource-URL": "https://github.com/Reactive-Extensions/RxJS",
+    "License": {
+      "license": "Apache License, Version 2.0",
+      "url": "(none)"
+    }
+  },
+  "safe-buffer@5.1.0": {
+    "Resource-URL": "http://github.com/feross/safe-buffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "sax@1.2.2": {
+    "Resource-URL": "http://github.com/isaacs/sax-js",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "seek-bzip@1.0.5": {
+    "Resource-URL": "https://github.com/cscott/seek-bzip",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "semver@4.3.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "semver@5.3.0": {
+    "Resource-URL": "https://github.com/npm/node-semver",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "semver-diff@2.1.0": {
+    "Resource-URL": "https://github.com/sindresorhus/semver-diff",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "semver-regex@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/semver-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "semver-truncate@1.1.2": {
+    "Resource-URL": "https://github.com/sindresorhus/semver-truncate",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "send@0.15.2": {
+    "Resource-URL": "https://github.com/pillarjs/send",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "sequencify@0.0.7": {
+    "Resource-URL": "http://github.com/robrich/sequencify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "serve-index@1.8.0": {
+    "Resource-URL": "https://github.com/expressjs/serve-index",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "serve-static@1.12.2": {
+    "Resource-URL": "https://github.com/expressjs/serve-static",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "server-destroy@1.0.1": {
+    "Resource-URL": "http://github.com/isaacs/server-destroy",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "set-blocking@2.0.0": {
+    "Resource-URL": "https://github.com/yargs/set-blocking",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "set-immediate-shim@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/set-immediate-shim",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "setprototypeof@1.0.2": {
+    "Resource-URL": "https://github.com/wesleytodd/setprototypeof",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "setprototypeof@1.0.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "sha.js@2.4.8": {
+    "Resource-URL": "http://github.com/crypto-browserify/sha.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "shasum@1.0.2": {
+    "Resource-URL": "http://github.com/dominictarr/shasum",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "shell-quote@1.6.1": {
+    "Resource-URL": "ssh://git@github.com/substack/node-shell-quote",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "sigmund@1.0.1": {
+    "Resource-URL": "http://github.com/isaacs/sigmund",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "signal-exit@3.0.2": {
+    "Resource-URL": "https://github.com/tapjs/signal-exit",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "slash@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/slash",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "slide@1.1.6": {
+    "Resource-URL": "http://github.com/isaacs/slide-flow-control",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "sntp@1.0.9": {
+    "Resource-URL": "http://github.com/hueniverse/sntp",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "snyk-module@1.8.1": {
+    "Resource-URL": "https://github.com/Snyk/module",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "snyk-resolve@1.0.0": {
+    "Resource-URL": "https://github.com/Snyk/resolve-package",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "snyk-resolve-deps@1.8.0": {
+    "Resource-URL": "https://github.com/Snyk/resolve-deps",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "snyk-tree@1.0.0": {
+    "Resource-URL": "https://github.com/Snyk/tree",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "snyk-try-require@1.2.0": {
+    "Resource-URL": "https://github.com/Snyk/try-require",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "socket.io@1.6.0": {
+    "Resource-URL": "http://github.com/socketio/socket.io",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "socket.io-adapter@0.5.0": {
+    "Resource-URL": "http://github.com/Automattic/socket.io-adapter",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "socket.io-client@1.6.0": {
+    "Resource-URL": "https://github.com/Automattic/socket.io-client",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "socket.io-parser@2.3.1": {
+    "Resource-URL": "https://github.com/Automattic/socket.io-parser",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "sort-keys@1.1.2": {
+    "Resource-URL": "https://github.com/sindresorhus/sort-keys",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "source-map@0.1.43": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "source-map@0.4.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "source-map@0.5.6": {
+    "Resource-URL": "ssh://git@github.com/mozilla/source-map",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "source-map-resolve@0.3.1": {
+    "Resource-URL": "https://github.com/lydell/source-map-resolve",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "source-map-support@0.4.15": {
+    "Resource-URL": "https://github.com/evanw/node-source-map-support",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "source-map-url@0.3.0": {
+    "Resource-URL": "https://github.com/lydell/source-map-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "sparkles@1.0.0": {
+    "Resource-URL": "https://github.com/phated/sparkles",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "spdx-correct@1.0.2": {
+    "Resource-URL": "https://github.com/kemitchell/spdx-correct.js",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "spdx-expression-parse@1.0.4": {
+    "Resource-URL": "https://github.com/kemitchell/spdx-expression-parse.js",
+    "License": {
+      "license": "(MIT AND CC-BY-3.0)",
+      "url": "(none)"
+    }
+  },
+  "spdx-license-ids@1.2.2": {
+    "Resource-URL": "https://github.com/shinnn/spdx-license-ids",
+    "License": {
+      "license": "Unlicense",
+      "url": "(none)"
+    }
+  },
+  "split@0.2.10": {
+    "Resource-URL": "http://github.com/dominictarr/split"
+  },
+  "sprintf-js@1.0.3": {
+    "Resource-URL": "https://github.com/alexei/sprintf.js",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "squeak@1.3.0": {
+    "Resource-URL": "https://github.com/kevva/squeak",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "sshpk@1.13.0": {
+    "Resource-URL": "https://github.com/arekinath/node-sshpk",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stat-mode@0.2.2": {
+    "Resource-URL": "http://github.com/TooTallNate/stat-mode",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "statuses@1.3.1": {
+    "Resource-URL": "https://github.com/jshttp/statuses",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-browserify@2.0.1": {
+    "Resource-URL": "http://github.com/substack/stream-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-combiner@0.0.4": {
+    "Resource-URL": "http://github.com/dominictarr/stream-combiner",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-combiner2@1.1.1": {
+    "Resource-URL": "http://github.com/substack/stream-combiner2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-consume@0.1.0": {
+    "Resource-URL": "https://github.com/aroneous/stream-consume",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-http@2.7.1": {
+    "Resource-URL": "http://github.com/jhiesey/stream-http",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-shift@1.0.0": {
+    "Resource-URL": "https://github.com/mafintosh/stream-shift",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-splicer@2.0.0": {
+    "Resource-URL": "http://github.com/substack/stream-splicer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-throttle@0.1.3": {
+    "Resource-URL": "ssh://git@github.com/tjgq/node-stream-throttle",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "stream-to@0.2.2": {
+    "Resource-URL": "https://github.com/stream-utils/stream-to",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stream-to-buffer@0.1.0": {
+    "Resource-URL": "https://github.com/jonathanong/stream-to-buffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "streamfilter@1.0.5": {
+    "Resource-URL": "ssh://git@github.com/nfroidure/streamfilter",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strict-uri-encode@1.1.0": {
+    "Resource-URL": "https://github.com/kevva/strict-uri-encode",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "string-width@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/string-width",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "string_decoder@0.10.31": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "string_decoder@1.0.1": {
+    "Resource-URL": "http://github.com/rvagg/string_decoder",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "stringstream@0.0.5": {
+    "Resource-URL": "https://github.com/mhart/StringStream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-ansi@3.0.1": {
+    "Resource-URL": "https://github.com/chalk/strip-ansi",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-bom@1.0.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-bom@2.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/strip-bom",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-bom-stream@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/strip-bom-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-bom-string@1.0.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/strip-bom-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-dirs@1.1.1": {
+    "Resource-URL": "https://github.com/shinnn/node-strip-dirs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-eof@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/strip-eof",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-indent@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/strip-indent",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-json-comments@2.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/strip-json-comments",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "strip-outer@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/strip-outer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "subarg@1.0.0": {
+    "Resource-URL": "http://github.com/substack/subarg",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "sum-up@1.0.3": {
+    "Resource-URL": "https://github.com/shinnn/sum-up",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "supports-color@2.0.0": {
+    "Resource-URL": "https://github.com/chalk/supports-color",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "supports-color@3.2.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "svg2png@3.0.1": {
+    "Resource-URL": "https://github.com/domenic/svg2png",
+    "License": {
+      "license": "WTFPL",
+      "url": "(none)"
+    }
+  },
+  "svgo@0.7.2": {
+    "Resource-URL": "http://github.com/svg/svgo",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "syntax-error@1.3.0": {
+    "Resource-URL": "http://github.com/substack/node-syntax-error",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tar@2.2.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "tar-pack@3.3.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "tar-stream@1.5.4": {
+    "Resource-URL": "https://github.com/mafintosh/tar-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "temp@0.8.3": {
+    "Resource-URL": "http://github.com/bruce/node-temp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tempfile@1.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/tempfile",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ternary-stream@2.0.1": {
+    "Resource-URL": "http://github.com/robrich/ternary-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tfunk@3.1.0": {
+    "Resource-URL": "https://github.com/shakyShane/tfunk",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "then-fs@2.0.0": {
+    "Resource-URL": "http://github.com/then/fs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "throttleit@1.0.0": {
+    "Resource-URL": "http://github.com/component/throttle",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "through@2.3.8": {
+    "Resource-URL": "https://github.com/dominictarr/through",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "through2@0.6.5": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "through2@2.0.3": {
+    "Resource-URL": "https://github.com/rvagg/through2",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "through2-concurrent@1.1.1": {
+    "Resource-URL": "https://github.com/almost/through2-concurrent",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "through2-filter@2.0.0": {
+    "Resource-URL": "ssh://git@github.com/brycebaril/through2-filter",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tildify@1.2.0": {
+    "Resource-URL": "https://github.com/sindresorhus/tildify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "time-stamp@1.1.0": {
+    "Resource-URL": "https://github.com/jonschlinkert/time-stamp",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "timed-out@3.1.3": {
+    "Resource-URL": "https://github.com/floatdrop/timed-out",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "timers-browserify@1.4.2": {
+    "Resource-URL": "http://github.com/jryans/timers-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tinycolor2@1.4.1": {
+    "Resource-URL": "https://bgrinshub.com/TinyColor",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "to-absolute-glob@0.1.1": {
+    "Resource-URL": "https://github.com/jonschlinkert/to-absolute-glob",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "to-array@0.1.4": {
+    "Resource-URL": "http://github.com/Raynos/to-array",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "to-arraybuffer@1.0.1": {
+    "Resource-URL": "http://github.com/jhiesey/to-arraybuffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "to-fast-properties@1.0.3": {
+    "Resource-URL": "https://github.com/sindresorhus/to-fast-properties",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "to-ico@1.1.4": {
+    "Resource-URL": "https://github.com/kevva/to-ico",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "token-stream@0.0.1": {
+    "Resource-URL": "https://github.com/jadejs/token-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tough-cookie@2.2.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "tough-cookie@2.3.2": {
+    "Resource-URL": "http://github.com/salesforce/tough-cookie",
+    "License": {
+      "license": "BSD-3-Clause",
+      "url": "(none)"
+    }
+  },
+  "trim@0.0.1": {
+    "Resource-URL": "(none)"
+  },
+  "trim-newlines@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/trim-newlines",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "trim-repeated@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/trim-repeated",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "trim-right@1.0.1": {
+    "Resource-URL": "https://github.com/sindresorhus/trim-right",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tryit@1.0.3": {
+    "Resource-URL": "ssh://git@github.com/HenrikJoreteg/tryit",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tty-browserify@0.0.0": {
+    "Resource-URL": "http://github.com/substack/tty-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "tunnel-agent@0.4.3": {
+    "Resource-URL": "https://github.com/mikeal/tunnel-agent",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "tweetnacl@0.14.5": {
+    "Resource-URL": "https://github.com/dchest/tweetnacl-js",
+    "License": {
+      "license": "Unlicense",
+      "url": "(none)"
+    }
+  },
+  "typedarray@0.0.6": {
+    "Resource-URL": "http://github.com/substack/typedarray",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ua-parser-js@0.7.12": {
+    "Resource-URL": "https://github.com/faisalman/ua-parser-js",
+    "License": {
+      "license": "(GPL-2.0 OR MIT)",
+      "url": "(none)"
+    }
+  },
+  "uglify-js@2.8.28": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "uglify-js@3.0.15": {
+    "Resource-URL": "https://github.com/mishoo/UglifyJS2",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "uglify-to-browserify@1.0.2": {
+    "Resource-URL": "https://github.com/ForbesLindesay/uglify-to-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "uid-number@0.0.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "ultron@1.0.2": {
+    "Resource-URL": "https://github.com/unshiftio/ultron",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "umd@3.0.1": {
+    "Resource-URL": "https://github.com/ForbesLindesay/umd",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "unc-path-regex@0.1.2": {
+    "Resource-URL": "https://github.com/regexhq/unc-path-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "uncss@0.14.1": {
+    "Resource-URL": "https://github.com/giakki/uncss",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "underscore@1.7.0": {
+    "Resource-URL": "http://github.com/jashkenas/underscore",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "underscore@1.8.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "uniq@1.0.1": {
+    "Resource-URL": "http://github.com/mikolalysenko/uniq",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "uniqid@4.1.1": {
+    "Resource-URL": "https://github.com/adamhalasz/uniqid",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "uniqs@2.0.0": {
+    "Resource-URL": "http://github.com/fgnass/uniqs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "unique-stream@1.0.0": {
+    "Resource-URL": "https://github.com/eugeneware/unique-stream",
+    "License": {
+      "license": "BSD",
+      "url": "(none)"
+    }
+  },
+  "unique-stream@2.2.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "universalify@0.1.0": {
+    "Resource-URL": "https://github.com/RyanZim/universalify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "unpipe@1.0.0": {
+    "Resource-URL": "https://github.com/stream-utils/unpipe",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "unzip-response@1.0.2": {
+    "Resource-URL": "https://github.com/sindresorhus/unzip-response",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "update-notifier@0.6.3": {
+    "Resource-URL": "https://github.com/yeoman/update-notifier",
+    "License": {
+      "license": "BSD-2-Clause",
+      "url": "(none)"
+    }
+  },
+  "upper-case@1.1.3": {
+    "Resource-URL": "http://github.com/blakeembrey/upper-case",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "urix@0.1.0": {
+    "Resource-URL": "https://github.com/lydell/urix",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "url@0.11.0": {
+    "Resource-URL": "https://github.com/defunctzombie/node-url",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "url-parse-lax@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/url-parse-lax",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "url-regex@3.2.0": {
+    "Resource-URL": "https://github.com/kevva/url-regex",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "user-home@1.1.1": {
+    "Resource-URL": "https://github.com/sindresorhus/user-home",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "util@0.10.3": {
+    "Resource-URL": "http://github.com/defunctzombie/node-util",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "util-deprecate@1.0.2": {
+    "Resource-URL": "http://github.com/TooTallNate/util-deprecate",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "utils-merge@1.0.0": {
+    "Resource-URL": "http://github.com/jaredhanson/utils-merge",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "uuid@2.0.3": {
+    "Resource-URL": "https://github.com/defunctzombie/node-uuid",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "uuid@3.0.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "v8flags@2.1.1": {
+    "Resource-URL": "http://github.com/tkellen/node-v8flags",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vali-date@1.0.0": {
+    "Resource-URL": "https://github.com/SamVerschueren/vali-date",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "validate-npm-package-license@3.0.1": {
+    "Resource-URL": "https://github.com/kemitchell/validate-npm-package-license.js",
+    "License": {
+      "license": "Apache-2.0",
+      "url": "(none)"
+    }
+  },
+  "vendors@1.0.1": {
+    "Resource-URL": "https://github.com/wooorm/vendors",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "verror@1.3.6": {
+    "Resource-URL": "http://github.com/davepacheco/node-verror"
+  },
+  "vinyl@0.4.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl@0.5.3": {
+    "Resource-URL": "http://github.com/wearefractal/vinyl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl@1.2.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl@2.0.2": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl-assign@1.2.1": {
+    "Resource-URL": "https://github.com/kevva/vinyl-assign",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl-buffer@1.0.0": {
+    "Resource-URL": "http://github.com/hughsk/vinyl-buffer",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl-fs@0.3.14": {
+    "Resource-URL": "http://github.com/wearefractal/vinyl-fs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl-fs@2.4.4": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl-source-stream@1.1.0": {
+    "Resource-URL": "http://github.com/hughsk/vinyl-source-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vinyl-sourcemaps-apply@0.2.1": {
+    "Resource-URL": "http://github.com/floridoo/vinyl-sourcemaps-apply",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "vlq@0.2.2": {
+    "Resource-URL": "https://github.com/Rich-Harris/vlq",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "vm-browserify@0.0.4": {
+    "Resource-URL": "ssh://git@github.com/substack/vm-browserify",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "void-elements@2.0.1": {
+    "Resource-URL": "https://github.com/hemanth/void-elements",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "ware@1.3.0": {
+    "Resource-URL": "http://github.com/segmentio/ware",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "weinre@2.0.0-pre-I0Z7U9OV": {
+    "Resource-URL": "https://git-wip-us.apache.org/repos/asf/cordova-weinre",
+    "License": {
+      "license": "Apache 2.0",
+      "url": "(none)"
+    }
+  },
+  "whet.extend@0.9.9": {
+    "Resource-URL": "https://github.com/Meettya/whet.extend",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "which@1.2.14": {
+    "Resource-URL": "http://github.com/isaacs/node-which",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "which-module@1.0.0": {
+    "Resource-URL": "https://github.com/nexdrew/which-module",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "wide-align@1.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "widest-line@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/widest-line",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "window-size@0.1.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "window-size@0.1.4": {
+    "Resource-URL": "https://github.com/jonschlinkert/window-size",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "window-size@0.2.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "with@5.1.1": {
+    "Resource-URL": "https://github.com/pugjs/with",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "wordwrap@0.0.2": {
+    "Resource-URL": "http://github.com/substack/node-wordwrap",
+    "License": {
+      "license": "MIT/X11",
+      "url": "(none)"
+    }
+  },
+  "wrap-ansi@2.1.0": {
+    "Resource-URL": "https://github.com/chalk/wrap-ansi",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "wrap-fn@0.1.5": {
+    "Resource-URL": "https://github.com/MatthewMueller/wrap-fn",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "wrappy@1.0.2": {
+    "Resource-URL": "https://github.com/npm/wrappy",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "write-file-atomic@1.3.4": {
+    "Resource-URL": "ssh://git@github.com/iarna/write-file-atomic",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "ws@1.1.1": {
+    "Resource-URL": "http://github.com/websockets/ws",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "wtf-8@1.0.0": {
+    "Resource-URL": "https://github.com/mathiasbynens/wtf-8.js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xdg-basedir@2.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/xdg-basedir",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xhr@2.4.0": {
+    "Resource-URL": "http://github.com/naugtur/xhr",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xml-char-classes@1.0.0": {
+    "Resource-URL": "https://github.com/sindresorhus/xml-char-classes",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xml-parse-from-string@1.0.1": {
+    "Resource-URL": "http://github.com/Jam3/xml-parse-from-string",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xml2js@0.4.17": {
+    "Resource-URL": "https://github.com/Leonidas-from-XIV/node-xml2js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xmlbuilder@4.2.1": {
+    "Resource-URL": "http://github.com/oozcitak/xmlbuilder-js",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xmlhttprequest-ssl@1.5.3": {
+    "Resource-URL": "http://github.com/mjwwit/node-XMLHttpRequest",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "xtend@4.0.1": {
+    "Resource-URL": "http://github.com/Raynos/xtend",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "y18n@3.2.1": {
+    "Resource-URL": "ssh://git@github.com/yargs/y18n",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "yallist@2.1.2": {
+    "Resource-URL": "https://github.com/isaacs/yallist",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "yargs@1.2.6": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT/X11",
+      "url": "(none)"
+    }
+  },
+  "yargs@3.10.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "yargs@3.29.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "yargs@3.32.0": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "yargs@4.8.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "yargs@6.4.0": {
+    "Resource-URL": "ssh://git@github.com/yargs/yargs",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "yargs-parser@2.4.1": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "yargs-parser@4.2.1": {
+    "Resource-URL": "ssh://git@github.com/yargs/yargs-parser",
+    "License": {
+      "license": "ISC",
+      "url": "(none)"
+    }
+  },
+  "yauzl@2.4.1": {
+    "Resource-URL": "https://github.com/thejoshwolfe/yauzl",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
+  "yeast@0.1.2": {
+    "Resource-URL": "https://github.com/unshiftio/yeast",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  }
+}

@@ -42,7 +42,7 @@ const paths = {
   base: {
     root : '.',
     src  : 'src',
-    build: 'build',
+    build: 'design',
     tmp  : 'tmp'
   }
 };
@@ -63,7 +63,7 @@ paths.build = {
   fonts   : `${paths.base.build}/assets/fonts`,
   css     : `${paths.base.build}/assets/css`,
   images  : `${paths.base.build}/assets/img`,
-  favicons: `${paths.base.build}`
+  favicons: `${paths.base.build}/assets/favicons`
 };
 
 /////////////////////////////////////////////////////////////////////

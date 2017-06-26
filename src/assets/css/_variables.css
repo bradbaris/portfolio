@@ -12,7 +12,9 @@ $red             : rgba(214, 40, 40, 1);    /* #D62828 */
 $orange          : rgba(247, 127, 0, 1);    /* #F77F00 */
 $yellow          : rgba(252, 191, 73, 1);   /* #FCBF49 */
 $beige           : rgba(234, 226, 183, 1);  /* #EAE2B7 */
+$darkgrey        : #353131;
 $cham-blue       : #003399;
+
 
 .text-black      { color: $black;    }
 .text-white      { color: $white;    }
@@ -22,6 +24,7 @@ $cham-blue       : #003399;
 .text-orange     { color: $orange;   }
 .text-yellow     { color: $yellow;   }
 .text-beige      { color: $beige;    }
+.text-darkgrey   { color: $darkgrey; }
 .text-cham-blue  { color: $cham-blue;}
 .text-uniform    { font-family: $uniform-sans;}
 .text-uniformcnd { font-family: $uniform-condsans;}
