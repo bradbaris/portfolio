@@ -195,10 +195,9 @@
 
 .project--images img {
   filter: drop-shadow(2px 4px 3px #333);
-  width: 100%;
-  position: relative;
-  top: 10%;
-  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content {
