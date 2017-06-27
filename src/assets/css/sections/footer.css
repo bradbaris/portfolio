@@ -4,7 +4,8 @@ footer {
   color: #000;
   font-weight: 800;
   font-style: normal;
-  padding: 40px 40px 200px;
+  margin: 0;
+  padding: 40px;
   background-image: url('../img/asanoha-400px.jpg');
 }
 
@@ -17,22 +18,24 @@ footer div {
 }
 
 .footer__social-media {
-  lost-align: top-right;
+  text-align: right;
 }
 
 .footer__copyright {
   height: 60px;
-  lost-column: 1;
-  lost-align: left;
+  width: 100%;
+  text-align: left;
   font-size: 10px;
   color: #bbb;
 }
 
 ul.social-media__list li.social-media__item {
   display: inline-block;
-  margin-right: 5vw;
-  width: 30px;
-  height: 30px;
+  text-align: center;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  width: calc(20px + 3.5vw);
+  height: calc(20px + 3.5vw);
 }
 
 ul.social-media__list li.social-media__item svg:hover {
@@ -43,28 +46,29 @@ ul.social-media__list li.social-media__item:last-of-type {
   margin-right: 0;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
 
   .footer__contact {
-    height: 200px;
-    lost-center: 600px;
-    lost-column: 1;
-    lost-align: center;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 40px;
     text-align: center;
   }
 
   .footer__social-media {
-    height: 100px;
-    lost-center: 600px;
-    lost-column: 1;
-    lost-align: center;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 40px;
     text-align: center;
   }
 
   .footer__copyright {
-    lost-center: 600px;
-    lost-column: 1;
-    lost-align: center;
+    diplay: block;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 40px;
     text-align: center;
   }
 }

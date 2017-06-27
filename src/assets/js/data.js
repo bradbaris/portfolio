@@ -2,7 +2,7 @@ module.exports =
 [
   {
     title: 'Brad Baris',
-    description: 'Designer by trade, developer by nature. Hailing from Honolulu, Hawai&lsquo;i.<br><br> Here is a collection of graphic design work I&rsquo;ve done for clients.<br><br><b><a class="text-uniformcnd" href="https://www.bradbaris.com/resume" target="_blank">View CV <img class="baseline-icon" src="assets/img/icons/external-link.svg"></a></b>',
+    description: 'Designer by trade, developer by nature. Hailing from Honolulu, Hawai&lsquo;i.<br><br> Here is a collection of graphic design and web work I&rsquo;ve done for clients.<br><br><b><a class="text-uniformcnd" href="https://www.bradbaris.com/resume" target="_blank">View CV <img class="baseline-icon" src="assets/img/icons/external-link.svg"></a></b>',
     // url: '#',
     tags: [],
     classname: 'headline white'
@@ -10,7 +10,7 @@ module.exports =
   {
     title: 'Emails for Chaminade',
     description: 'Cross-platform email designs done for inaugural constituent campaigns at Chaminade University',
-    tags: ['email', 'ui', 'data', 'html', 'photo'],
+    tags: ['email', 'ui', 'data', 'web', 'photo'],
     url: 'chaminade.html',
     classname: 'blue chaminade-email'
   },
@@ -24,7 +24,7 @@ module.exports =
   {
     title: 'TEDxHonolulu',
     description: 'Worked on an Angular event app for TEDxHonolulu, made possible by DevLeague.',
-    tags: ['angular', 'ui', 'javascript', 'html', 'css', 'event'],
+    tags: ['angular', 'ux', 'javascript', 'web', 'event'],
     url: 'tedx.html',
     classname: 'red tedx'
   },
@@ -39,19 +39,19 @@ module.exports =
     title: 'CNS Annual Reports',
     description: 'Assembled and designed annual reports for the Dean of the College of Natural Sciences.',
     url: 'natsci-reports.html',
-    tags: ['catalog', 'design', 'print'],
+    tags: ['production', 'design', 'print'],
     classname: 'beige natsci-report'
   },
   {
     title: 'Astronomy & Astrophysics',
-    description: 'Designed multipage mailers for the Institute for Astronomy, promoting space studies.',
+    description: 'Multipage mailers for the Institute for Astronomy, promoting newly-minted space program studies.',
     tags: ['design', 'print'],
     url: 'astronomy.html',
     classname: 'black astronomy'
   },
   {
     title: 'Navy Ombudsman',
-    description: 'Designed comprehensive collateral for the annual Navy Ombudsman appreciation event, including event signage and challenge coins.',
+    description: 'Branding and design for the annual Navy Ombudsman appreciation event, including event signage and challenge coins.',
     tags: ['design', 'print', 'branding', 'event'],
     url: 'ombudsman.html',
     classname: 'blue ombudsman'
@@ -59,13 +59,13 @@ module.exports =
   {
     title: 'アロハ ストリート Magazine',
     description: 'Helmed the migration and production of Aloha Street Magazine, overhauling their workflow.',
-    tags: ['production', 'design', 'catalog', 'print', 'photo', 'html'],
+    tags: ['production', 'design', 'print', 'photo', 'web'],
     url: 'aloha-street.html',
     classname: 'black aloha-street'
   },
   {
     title: 'Great Life Hawai&lsquo;i Magazine',
-    description: 'A curated set from the hundreds of multiformat ads created for Great Life Hawai&lsquo;i magazine.',
+    description: 'Selection from the hundreds of ads created for the Navy MWR at Joint Base Pearl Harbor-Hickam (JBPHH).',
     url: 'mwr.html',
     tags: ['production', 'design', 'print', 'photo', 'event'],
     classname: 'red mwr'
@@ -81,7 +81,7 @@ module.exports =
     title: 'Design for UH M&amacr;noa, Part 1',
     description: 'Miscellaneous design work done for the University of Hawai&lsquo;i at M&amacr;noa, at the College of Natural Sciences and the UH Honors Program.',
     url: 'honors.html',
-    tags: ['design', 'print', 'branding', 'photo', 'event', 'html', 'css'],
+    tags: ['design', 'print', 'photo', 'event', 'web'],
     classname: 'yellow honors'
   },
   {
@@ -94,7 +94,7 @@ module.exports =
   {
     title: 'Followgraphic',
     description: 'An ancient entry into 10K Apart, creating a web app in under 10kb. Followgraphic is a simple dataviz of Twitter followers as pixels.',
-    tags: ['html', 'css', 'javascript'],
+    tags: ['web', 'javascript'],
     url: 'followgraphic.html',
     classname: 'beige followgraphic'
   },
