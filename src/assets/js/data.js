@@ -2,7 +2,7 @@ module.exports =
 [
   {
     title: 'Brad Baris',
-    description: 'Designer by trade, developer by nature. Hailing from Honolulu, Hawai&lsquo;i.<br><br> Here is a collection of graphic design and web work I&rsquo;ve done for clients.<br><br><b><a class="text-uniformcnd" href="https://www.bradbaris.com/resume" target="_blank">View CV <img class="baseline-icon" src="assets/img/icons/external-link.svg"></a></b>',
+    description: 'Designer by trade, developer by nature. Hailing from Honolulu, Hawai&lsquo;i.<br><br> Here is a collection of graphic design and web work I&rsquo;ve done for clients.<br><br><b><a class="text-uniformcnd" href="https://bradbaris.com/resume" target="_blank" rel="noopener noreferrer">View CV <img class="baseline-icon" src="assets/img/icons/external-link.svg"></a></b>',
     // url: '#',
     tags: [],
     classname: 'headline white'
