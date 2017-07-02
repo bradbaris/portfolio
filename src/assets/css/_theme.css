@@ -26,6 +26,11 @@
 .gridfolio--block .gridfolio--block-content {
   background-size: cover;
   overflow: hidden;
+  
+  &:hover {
+    box-shadow: inset 0 0 0 calc(0.75rem + 0.05vw) #52D1DC;
+    transition: all 0.5s ease;
+  }
 }
 
 .gridfolio--block.black .gridfolio--block-content {
@@ -36,6 +41,11 @@
 .gridfolio--block.white .gridfolio--block-content {
   background-color: $white;
   color: $black;
+
+  &:hover {
+    box-shadow: none;
+    transition: none;
+  }
 
   & .gridfolio--block-title {
     color: $black;
@@ -204,21 +214,18 @@
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
-  margin-bottom: 20px;
+  margin-bottom: calc(1em + 0.5vw);
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title {
   color: $white;
-  font-size: 20px;
+  /*font-size: 2vw;*/
   font-family: $header-serif;
   font-weight: 900;
   font-style: normal;
   word-wrap: break-word;
   word-break: keep-all;
-}
-
-.gridfolio[data-theme="baris"] .gridfolio--block-title .condensed {
-  font-size: 16px;
+  margin-bottom: 0;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content:hover .gridfolio--block-title {
@@ -229,26 +236,24 @@
   color: inherit;
 }
 
-.gridfolio[data-theme="baris"] .gridfolio--block-description-wrapper {
-  font-size: 16px;
-}
-
 .gridfolio[data-theme="baris"] .gridfolio--block-description {
+  /*font-size: 16px;*/
   font-weight: 400;
   font-family: $description-sans;
   letter-spacing: .5px;
-  line-height: 1.5;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-tags-wrapper {
-  font-size: 7px;
+  /*font-size: 9px;*/
   letter-spacing: 0.2em;
-  text-align: right;
+  text-align: left;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-tags span {
   font-weight: 600;
   background-color: transparent;
+  margin: 0; padding: 0;
+  padding-right: 10px;
   /*border-bottom: 2px solid #fff;*/
 }
 
@@ -262,17 +267,17 @@ p.condensed {
   font-size: 75%;
 }
 
-@media (min-width: 500px) {
+/*@media (min-width: 500px) {
   .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
     font-size: 30px;
   }
-}
+}*/
 
-@media (min-width: 900px) {
+/*@media (min-width: 900px) {
   .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
     font-size: 28px;
   }
-}
+}*/
 
 @media (max-width: 1400px) {
   .project--content {

@@ -208,9 +208,8 @@ var Gridfolio = function () {
         var $description = block.$description;
         var $tags = block.$tags;
 
-
-        $title.style.fontSize = _this5.vw / _this5.breakpoint * 115 + '%';
-        $description.style.fontSize = _this5.vw / _this5.breakpoint * 100 + '%';
+        $title.style.fontSize = _this5.vw / _this5.breakpoint * 200 + '%';
+        $description.style.fontSize = _this5.vw / _this5.breakpoint * 125 + '%';
         $tags.style.fontSize = _this5.vw / _this5.breakpoint * 100 + '%';
       });
     }
