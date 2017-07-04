@@ -28,3 +28,4 @@ $cham-blue       : #003399;
 .text-cham-blue  { color: $cham-blue;}
 .text-uniform    { font-family: $uniform-sans;}
 .text-uniformcnd { font-family: $uniform-condsans;}
+.text-jpn-header { font-family: 'Mplus 1p'; font-weight: 900;}

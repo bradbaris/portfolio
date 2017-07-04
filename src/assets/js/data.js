@@ -57,7 +57,7 @@ module.exports =
     classname: 'blue ombudsman'
   },
   {
-    title: 'アロハ ストリート Magazine',
+    title: '<span class="text-jpn-header" style="font-size: 90%;">アロハストリート</span> Magazine',
     description: 'Helmed the migration and overhauled the production of Aloha Street magazine.',
     tags: ['production', 'design', 'print', 'photo', 'web'],
     url: 'aloha-street.html',

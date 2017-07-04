@@ -89,8 +89,9 @@
 
 
 /* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/33e615");
+@import url('//hello.myfonts.net/count/33e615');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:900');
+@import url('https://fonts.googleapis.com/earlyaccess/mplus1p.css');
 
 /*
 @font-face {font-family: 'UniformLight-Regular';src: url('../fonts/33E615_3_0.eot');src: url('../fonts/33E615_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_3_0.woff2') format('woff2'),url('../fonts/33E615_3_0.woff') format('woff'),url('../fonts/33E615_3_0.ttf') format('truetype');}
@@ -116,3 +117,4 @@
 @font-face {font-family: 'UniformExtraCondensedBlack-Regular';src: url('../fonts/33E615_C_0.eot');src: url('../fonts/33E615_C_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_C_0.woff2') format('woff2'),url('../fonts/33E615_C_0.woff') format('woff'),url('../fonts/33E615_C_0.ttf') format('truetype');}
 @font-face {font-family: 'UniformExtraCondensedUltra-Regular';src: url('../fonts/33E615_10_0.eot');src: url('../fonts/33E615_10_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_10_0.woff2') format('woff2'),url('../fonts/33E615_10_0.woff') format('woff'),url('../fonts/33E615_10_0.ttf') format('truetype');}
 */
+
