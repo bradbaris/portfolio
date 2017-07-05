@@ -1,17 +1,14 @@
 extends _template
 
 block pageSpecificVars
+  - var colour = "#F77F00"
   - var pageTitle = "Ambient"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2015"
+  - var copyText = "<p>While working at DTL, I was able to contribute to &lsquo;Ike Hawaii's Ambient brand, producing a style guide and business cards, as well as frontend development. I also did some work on &lsquo;Ike Hawaii's other companies, such as DataHouse, but that's another story.</p>"
+  - var toolsUsed = "InDesign, Illustrator, Photoshop, HTML, CSS, Javascript"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/ambient01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-orange Ambient
-      h3 2015
-      p While working at DTL, I was able to contribute to &lsquo;Ike Hawaii's Ambient brand, producing a style guide and business cards, as well as frontend development. I also did some work on &lsquo;Ike Hawaii's other companies, such as DataHouse, but that's another story.
-      
-      h6 Tools used: InDesign, Illustrator, Photoshop, HTML, CSS, Javascript
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/ambient01.png')
+  include _project.pug

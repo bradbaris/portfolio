@@ -1,5 +1,4 @@
 footer {
-  lost-utility: clearfix;
   font-family: $uniform-sans;
   color: #000;
   font-weight: 800;
@@ -9,16 +8,21 @@ footer {
   background-image: url('../img/asanoha-400px.jpg');
 }
 
-.footer__contact:hover {
+.footer__contact, .footer__social-media {
+  /*width: 50vw;*/
+  width: 100vw;
+  display: inline;
+  margin: 0; padding: 0;
+}
+
+
+.footer__contact h3 a:hover {
   color: $yellow;
 }
 
-footer div {
-  lost-column: 1/2;
-}
-
 .footer__social-media {
-  text-align: right;
+  /*text-align: right;*/
+  text-align: center;
 }
 
 .footer__copyright {
@@ -44,6 +48,12 @@ ul.social-media__list li.social-media__item svg:hover {
 
 ul.social-media__list li.social-media__item:last-of-type {
   margin-right: 0;
+}
+
+#solo {
+  margin: 0 auto;
+  width: 60px;
+  height: 60px;
 }
 
 @media (max-width: 800px) {

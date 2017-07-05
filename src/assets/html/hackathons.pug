@@ -1,0 +1,14 @@
+extends _template
+
+block pageSpecificVars
+  - var colour = "#003399"
+  - var pageTitle = "AT&T Hackathons"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2015, 2016, 2017"
+  - var copyText = "<p><b>UH AT&T Hackathon 2017</b> – <i>“Most Technically Challenging” Award</i>: I led a team of 3 to create a concept RFID check-in system for mass transit, combining TheBus, Honolulu Rail, and BikeShare (Biki).</p><p><b>UH AT&T Hackathon 2016</b> – <i>“Grand Prize” & “Harman Kardon” Awards</i>: On a team of 4 with my brother, we created an IoT-enabled task manager mobile app that synced with Bluetooth speakers for audible cues.</p><p><b>UH AT&T Hackathon 2015</b> – <i>“Best UI” Award</i>: On a team of 3, we created an interactive Esri map and dataviz that polled local RSS traffic data to improve commutes.</p>"
+  - var toolsUsed = "Arduino, MiFare Classic (RFID), Raspberry Pi, C++, Python, Slack API, TheBus API; React, Webpack, Objective-C, AT&T M2X API, Harman Kardon API; MongoDB, Express, Esri, Node.js"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/hackathons01.png"
+
+block content
+  include _project.pug

@@ -1,17 +1,14 @@
 extends _template
 
 block pageSpecificVars
+  - var colour = "#52D1DC"
   - var pageTitle = "Ilikai 50th Anniversary"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2014"
+  - var copyText = "<p>As the Ilikai celebrated its 50th year anniversary, I had the opportunity to design the event logo and collateral, from invitations to signage to stationery and retro concepts.</p>"
+  - var toolsUsed = "InDesign, Illustrator, Photoshop, LibreOffice"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/ilikai01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-turquoise Ilikai 50th Anniversary
-      h3 2014
-      p As the Ilikai celebrated its 50th year anniversary, I had the opportunity to design the event logo and collateral, from invitations to signage to stationery and retro concepts.
-      
-      h6 Tools used: InDesign, Illustrator, Photoshop
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/ilikai01.png')
+  include _project.pug

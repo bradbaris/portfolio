@@ -1,17 +1,14 @@
 extends _template
 
 block pageSpecificVars
+  - var colour = "#D62828"
   - var pageTitle = "Great Life Hawai&lsquo;i"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2012 - 2013"
+  - var copyText = "<p>At Joint Base Pearl Harbor Hickam, I worked at the Navy MWR on Great Life Hawai&lsquo;i magazine, designing ads for the many recreational activities on base. I also did a lot of photography work for editorials and events. In total, I worked on hundreds of ads and dozens of projects. Here are a few of the kinds of magazine ads I created.</p>"
+  - var toolsUsed = "InDesign, Illustrator, Photoshop, Lightroom, Canon&nbsp;DSLR, Canon imagePRESS C7000VP, Canon imagePROGRAF iPF8300S, ONYX RIP software"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/mwr01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-red Great Life Hawai&lsquo;i Magazine
-      h3 2012 – 2013
-      p At Joint Base Pearl Harbor Hickam, I worked at the Navy MWR on Great Life Hawai&lsquo;i magazine, designing ads for the many recreational activities on base. I also did a lot of photography work for editorials and events. In total, I worked on hundreds of ads and dozens of projects. Here are a few of the kinds of magazine ads I created.
-      
-      h6 Tools used: InDesign, Illustrator, Photoshop, Lightroom
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/mwr01.png')
+  include _project.pug

@@ -2,17 +2,31 @@ module.exports =
 [
   {
     title: 'Brad Baris',
-    description: 'Developer & Designer, Versatilist.<br>Hailing from Honolulu, Hawai&lsquo;i.<br><br> Here is a curated collection of <br>curios and collateral. <br><br><b><a class="text-uniformcnd" href="https://bradbaris.com/resume" target="_blank" rel="noopener noreferrer">View CV <img class="baseline-icon" src="assets/img/icons/external-link.svg"></a></b>',
+    description: 'Developer & Designer, Versatilist.<br>Hailing from Honolulu, Hawai&lsquo;i.<br><br> Here is a curated collection of <br>curios and collateral. <br><br><span class="copyright">&copy; 2017, Brad Baris, respective owners.</span></a></b>',
     // url: '#',
     tags: [],
     classname: 'headline white'
   },
   {
-    title: 'Emails for Chaminade',
+    title: 'Résumé',
+    description: 'If you are looking for a developer and/or designer, take a look at my résumé! I have diverse work experiences in the web industry and am knowledgeable in programming, design, and technology.',
+    tags: [''],
+    url: 'https://bradbaris.com/resume',
+    classname: 'yellow'
+  },
+  {
+    title: 'Chaminade University',
     description: 'Cross-platform email designs done for inaugural constituent campaigns at Chaminade University',
     tags: ['email', 'ui', 'data', 'web', 'photo'],
     url: 'chaminade.html',
     classname: 'blue chaminade-email'
+  },
+  {
+    title: 'AT&T Hackathons',
+    description: 'Won a few hackathons in recent years, and garnered recognition and honors in a few more.',
+    tags: ['hardware', 'code', 'javascript', 'web'],
+    url: 'hackathons.html',
+    classname: 'beige'
   },
   {
     title: 'Ambient',
@@ -29,20 +43,6 @@ module.exports =
     classname: 'red tedx'
   },
   {
-    title: 'Natural Science Posters',
-    description: 'Designed large subject posters for each of the Natural Science departments.',
-    tags: ['design', 'print'],
-    url: 'natsci-posters.html',
-    classname: 'yellow natsci-poster'
-  },
-  {
-    title: 'CNS Annual Reports',
-    description: 'Assembled and designed annual reports for the Dean of the College of Natural Sciences.',
-    url: 'natsci-reports.html',
-    tags: ['production', 'design', 'print'],
-    classname: 'beige natsci-report'
-  },
-  {
     title: 'Astronomy & Astrophysics',
     description: 'Multipage mailers for the Institute for Astronomy, promoting newly-minted space program studies.',
     tags: ['design', 'print'],
@@ -50,18 +50,33 @@ module.exports =
     classname: 'black astronomy'
   },
   {
-    title: 'Navy Ombudsman',
+    title: 'College of NatSci Annual Reports',
+    description: 'Assembled and designed annual reports for the Dean of the College of Natural Sciences.',
+    url: 'natsci-reports.html',
+    tags: ['production', 'design', 'print'],
+    classname: 'beige natsci-report'
+  },
+  {
+    title: '<span class="condensetext">アロハストリート</span> Magazine',
+    description: 'Helmed the migration and overhauled the production of Aloha Street magazine.',
+    tags: ['production', 'design', 'print', 'photo', 'web'],
+    url: 'aloha-street.html',
+    classname: 'black aloha-street'
+  },
+  {
+    title: 'Ombudsman Appreciation',
     description: 'Branding and design for the annual Navy Ombudsman appreciation event, including event signage and challenge coins.',
     tags: ['design', 'print', 'branding', 'event'],
     url: 'ombudsman.html',
     classname: 'blue ombudsman'
   },
+
   {
-    title: '<span class="text-jpn-header" style="font-size: 90%;">アロハストリート</span> Magazine',
-    description: 'Helmed the migration and overhauled the production of Aloha Street magazine.',
-    tags: ['production', 'design', 'print', 'photo', 'web'],
-    url: 'aloha-street.html',
-    classname: 'black aloha-street'
+    title: 'College of NatSci Posters',
+    description: 'Designed large subject posters for each of the Natural Science departments.',
+    tags: ['design', 'print'],
+    url: 'natsci-posters.html',
+    classname: 'yellow natsci-poster'
   },
   {
     title: 'Great Life Hawai&lsquo;i Magazine',
@@ -92,18 +107,18 @@ module.exports =
     classname: 'orange honors'
   },
   {
-    title: 'Followgraphic',
-    description: 'An ancient entry into 10K Apart, creating a web app in under 10kb. Followgraphic is a simple dataviz of Twitter followers as pixels.',
-    tags: ['web', 'javascript'],
-    url: 'followgraphic.html',
-    classname: 'beige followgraphic'
-  },
-  {
     title: 'Hawaii Business Magazine',
     description: 'As contract Associate Art Director, I worked on several issues of Hawaii Business magazine.',
     url: 'hawaiibiz.html',
     tags: ['production', 'design', 'print', 'photo'],
     classname: 'red hawaiibiz'
+  },
+  {
+    title: 'Followgraphic',
+    description: 'An ancient entry into 10K Apart, creating a web app in under 10kb. Followgraphic is a simple dataviz of Twitter followers as pixels.',
+    tags: ['web', 'javascript'],
+    url: 'followgraphic.html',
+    classname: 'beige followgraphic'
   },
   {
     title: 'Logos and &#x03BB;&#x03CC;&#x03B3;&#x03BF;&#x03C2;',

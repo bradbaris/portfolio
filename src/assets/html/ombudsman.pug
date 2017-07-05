@@ -1,17 +1,14 @@
 extends _template
 
 block pageSpecificVars
-  - var pageTitle = "Navy Ombudsman"
+  - var colour = "#003399"
+  - var pageTitle = "Navy Ombudsman Dinner"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2012"
+  - var copyText = "<p>The Navy holds an annual Ombudsman Appreciation Dinner, which includes the awarding of challenge coins. I had the opportunity to design the event motif, logo and challenge coins, as well as the event collateral, such as dinner tickets, program brochures and more.</p>"
+  - var toolsUsed = "InDesign, Illustrator, Photoshop"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/ombudsman01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-cham-blue Navy Ombudsman
-      h3 2012
-      p The Navy holds an annual Ombudsman Appreciation Dinner, which includes the awarding of challenge coins. I had the opportunity to design the event motif, logo and challenge coins, as well as the event collateral, such as dinner tickets, program brochures and more.
-      
-      h6 Tools used: InDesign, Illustrator, Photoshop
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/ombudsman01.png')
+  include _project.pug

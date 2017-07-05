@@ -1,18 +1,14 @@
 extends _template
 
 block pageSpecificVars
+  - var colour = "#FCBF49"
   - var pageTitle = "Followgraphic"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2011, updated 2013, now defunct."
+  - var copyText = "<p>Originally an entry into 10K Apart, where developers attempt to create an app in under 10kb. Now defunct, but included purely for nostalgic purposes, as consuming the Twitter API is fairly trivial nowadays. Built for Twitter API v1.0, and then redone for v1.1, where I ported it from JS into PHP because of OAuth requirements.</p><p>The followgraphic app gathered data from the top 20 noteworthies per media category, gleaned from Twitter's suggestions API endpoint. Then it converted the total number of followers into pixels, using 2πr² for accurate visualization.</p>"
+  - var toolsUsed = "Coda, Twitter API"
+  - var customBg = "#FDD23C"
+  - var shownWork = "assets/img/work/followgraphic01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-yellow Followgraphic
-      h3 2011, updated 2013, now defunct.
-      p Originally an entry into 10K Apart, where developers attempt to create an app in under 10kb. Now defunct, but included purely for nostalgic purposes, as consuming the Twitter API is fairly trivial nowadays. Built for Twitter API v1.0, and then redone for v1.1, where I ported it from JS into PHP because of OAuth requirements.
-      p The followgraphic app gathered data from the top 20 noteworthies per media category, gleaned from Twitter's suggestions API endpoint. Then it converted the total number of followers into pixels, using 2πr² for accurate visualization.
-      
-      h6 Tools used: Coda, Twitter API
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true" style="background-color:#FDD23C;")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/followgraphic01.png' style="filter:none;")
+  include _project.pug

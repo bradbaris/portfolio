@@ -1,6 +1,7 @@
 $header-serif     : 'Playfair Display', Georgia, Times, serif;
 $description-sans : UniformCondensedLight-Regular, Arial, sans-serif;
 $uniform-sans     : UniformMedium-Regular, Arial, sans-serif;
+$uniform-boldsans : UniformBold-Regular, Arial, sans-serif;
 $uniform-condsans : UniformCondensedMedium-Regular, Arial, sans-serif;
 $arial-sans       : Arial, sans-serif;
 
@@ -28,4 +29,3 @@ $cham-blue       : #003399;
 .text-cham-blue  { color: $cham-blue;}
 .text-uniform    { font-family: $uniform-sans;}
 .text-uniformcnd { font-family: $uniform-condsans;}
-.text-jpn-header { font-family: 'Mplus 1p'; font-weight: 900;}

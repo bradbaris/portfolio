@@ -1,17 +1,14 @@
 extends _template
 
 block pageSpecificVars
+  - var colour = "#D62828"
   - var pageTitle = "TEDxHonolulu"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2015"
+  - var copyText = "<p>During DevLeague, I had the opportunity to work on a team of eight, building a full-featured event app for TEDxHonolulu. The app featured a backend CMS to populate with event listings and information, and the frontend was a Single Page Application (SPA) created with Angular v1.3, utilizing the Ionic framework to become mobile-friendly, as the event patrons would likely be using the app on the move.</p>"
+  - var toolsUsed = "MEAN stack (MongoDB, AngularJS v1.3, ExpressJS, Node.js), Ionic, Gulp.js, Jade/Pug (HTML5), Sass (CSS3), Mongoose ORM, et al"
+  - var customBg = "#FFFFFF"
+  - var shownWork = "assets/img/work/tedx01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-red TEDxHonolulu
-      h3 2015
-      p During DevLeague, I had the opportunity to work on a team of eight, building a full-featured event app for TEDxHonolulu. The app featured a backend CMS to populate with event listings and information, and the frontend was a Single Page Application (SPA) created with Angular v1.3, utilizing the Ionic framework to become mobile-friendly, as the event patrons would likely be using the app on the move.
-      
-      h6 Tools used: MEAN stack (MongoDB, AngularJS v1.3, ExpressJS, Node.js), Ionic, Gulp.js, Jade/Pug (HTML5), Sass (CSS3), Mongoose ORM, et al.
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true" style="background-color:#FFFFFF;")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/tedx01.png' style="filter:none;")
+  include _project.pug

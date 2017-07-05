@@ -91,18 +91,17 @@
 /* @import must be at top of file, otherwise CSS will not work */
 @import url('//hello.myfonts.net/count/33e615');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:900');
-@import url('https://fonts.googleapis.com/earlyaccess/mplus1p.css');
 
 /*
 @font-face {font-family: 'UniformLight-Regular';src: url('../fonts/33E615_3_0.eot');src: url('../fonts/33E615_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_3_0.woff2') format('woff2'),url('../fonts/33E615_3_0.woff') format('woff'),url('../fonts/33E615_3_0.ttf') format('truetype');}
 */
 @font-face {font-family: 'UniformMedium-Regular';src: url('../fonts/33E615_4_0.eot');src: url('../fonts/33E615_4_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_4_0.woff2') format('woff2'),url('../fonts/33E615_4_0.woff') format('woff'),url('../fonts/33E615_4_0.ttf') format('truetype');}
-/*
-@font-face {font-family: 'UniformRegular-Regular';src: url('../fonts/33E615_11_0.eot');src: url('../fonts/33E615_11_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_11_0.woff2') format('woff2'),url('../fonts/33E615_11_0.woff') format('woff'),url('../fonts/33E615_11_0.ttf') format('truetype');}
+
+/*@font-face {font-family: 'UniformRegular-Regular';src: url('../fonts/33E615_11_0.eot');src: url('../fonts/33E615_11_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_11_0.woff2') format('woff2'),url('../fonts/33E615_11_0.woff') format('woff'),url('../fonts/33E615_11_0.ttf') format('truetype');}*/
 @font-face {font-family: 'UniformBold-Regular';src: url('../fonts/33E615_1_0.eot');src: url('../fonts/33E615_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_1_0.woff2') format('woff2'),url('../fonts/33E615_1_0.woff') format('woff'),url('../fonts/33E615_1_0.ttf') format('truetype');}
-@font-face {font-family: 'UniformBlack-Regular';src: url('../fonts/33E615_2_0.eot');src: url('../fonts/33E615_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_2_0.woff2') format('woff2'),url('../fonts/33E615_2_0.woff') format('woff'),url('../fonts/33E615_2_0.ttf') format('truetype');}
-@font-face {font-family: 'UniformUltra-Regular';src: url('../fonts/33E615_5_0.eot');src: url('../fonts/33E615_5_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_5_0.woff2') format('woff2'),url('../fonts/33E615_5_0.woff') format('woff'),url('../fonts/33E615_5_0.ttf') format('truetype');}
-*/
+/*@font-face {font-family: 'UniformBlack-Regular';src: url('../fonts/33E615_2_0.eot');src: url('../fonts/33E615_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_2_0.woff2') format('woff2'),url('../fonts/33E615_2_0.woff') format('woff'),url('../fonts/33E615_2_0.ttf') format('truetype');}*/
+/*@font-face {font-family: 'UniformUltra-Regular';src: url('../fonts/33E615_5_0.eot');src: url('../fonts/33E615_5_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_5_0.woff2') format('woff2'),url('../fonts/33E615_5_0.woff') format('woff'),url('../fonts/33E615_5_0.ttf') format('truetype');}*/
+
 @font-face {font-family: 'UniformCondensedLight-Regular';src: url('../fonts/33E615_8_0.eot');src: url('../fonts/33E615_8_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_8_0.woff2') format('woff2'),url('../fonts/33E615_8_0.woff') format('woff'),url('../fonts/33E615_8_0.ttf') format('truetype');}
 @font-face {font-family: 'UniformCondensedMedium-Regular';src: url('../fonts/33E615_9_0.eot');src: url('../fonts/33E615_9_0.eot?#iefix') format('embedded-opentype'),url('../fonts/33E615_9_0.woff2') format('woff2'),url('../fonts/33E615_9_0.woff') format('woff'),url('../fonts/33E615_9_0.ttf') format('truetype');}
 /*

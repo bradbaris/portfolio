@@ -1,17 +1,14 @@
 extends _template
 
 block pageSpecificVars
+  - var colour = "#FCBF49"
   - var pageTitle = "Astronomy & Astrophysics"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2014"
+  - var copyText = "<p>A multipage mailer for outreach, advertising the astronomy & astrophysics programs at the University of Hawai&lsquo;i at M&amacr;noa, in collaboration with the Institute for Astronomy.</p>"
+  - var toolsUsed = "InDesign, Illustrator, Photoshop"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/astronomy01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-yellow Astronomy & Astrophysics
-      h3 2014
-      p A multipage mailer for outreach, advertising the astronomy & astrophysics programs at the University of Hawai&lsquo;i at M&amacr;noa, in collaboration with the Institute for Astronomy. 
-      
-      h6 Tools used: InDesign, Illustrator, Photoshop
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/astronomy01.png')
+  include _project.pug

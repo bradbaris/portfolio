@@ -1,16 +1,14 @@
 extends _template
 
 block pageSpecificVars
-  - var pageTitle = "Chaminade Emails"
+  - var colour = "#003399"
+  - var pageTitle = "Chaminade University"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2017"
+  - var copyText = "<p>While at Chaminade University, I rolled out their inaugural email communications. After provisioning a Salesforce Marketing Cloud instance, I developed software to facilitate the email development process, as well as designed a myriad of email templates compatible with nearly all email clients. Aside from this, I spearheaded an effort to improve cross-departmental collaboration by championing Workplace by Facebook internally.</p>"
+  - var toolsUsed = "MJML, Handlebars, AMPscript, Node.js (incl Gulp.js, NodeMailer), Litmus API, Google Sheets API v4, Salesforce Marketing Cloud (ExactTarget), Ellucian Colleague (CRM), Raiser’s Edge (CRM), InDesign, Photoshop, Canon&nbsp;DSLR"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/chaminade01.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-cham-blue Chaminade Emails
-      h3 2017
-      p While at Chaminade University, I rolled out their inaugural email communications. After provisioning a Salesforce Marketing Cloud instance, I developed software to facilitate the email development process, as well as designed a myriad of email templates compatible with nearly all email clients. Aside from this, I spearheaded an effort to improve cross-departmental collaboration by championing Workplace by Facebook internally.
-      h6 Tools used: MJML, Handlebars, AMPscript, Node.js (incl Gulp.js, NodeMailer), Litmus API, Google Sheets API v4, Salesforce Marketing Cloud (ExactTarget), Ellucian Colleague (CRM), Raiser’s Edge (CRM), InDesign, Photoshop
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/chaminade01.png')
+  include _project.pug

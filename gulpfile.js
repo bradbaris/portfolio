@@ -7,6 +7,7 @@
 let   gulp_process,
       servertag;
 const fs                       = require('fs'),
+      path                     = require('path'),
       babelify                 = require('babelify'),
       browser_sync             = require('browser-sync').create(),
       browserify               = require('browserify'),
@@ -29,13 +30,12 @@ const fs                       = require('fs'),
       gulp_uglify              = require('gulp-uglify'),
       gulp_uncss               = require('gulp-uncss'),
       gulp_util                = require('gulp-util'),
-      lost                     = require('lost'),
       nlf                      = require('nlf'),
-      path                     = require('path'),
       argv                     = require('minimist')(process.argv),
       postcss_easy_import      = require('postcss-easy-import'),
       postcss_nested           = require('postcss-nested'),
       postcss_reporter         = require('postcss-reporter'),
+      postcss_resptype         = require('postcss-responsive-type'),
       postcss_simple_vars      = require('postcss-simple-vars'),
       vinyl_buffer             = require('vinyl-buffer'),
       vinyl_source             = require('vinyl-source-stream');
@@ -112,7 +112,7 @@ gulp.task('css', ['html'], () => {
         postcss_easy_import,
         postcss_simple_vars,
         postcss_nested,
-        lost,
+        postcss_resptype,
         postcss_reporter
         ];
 

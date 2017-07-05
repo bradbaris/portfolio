@@ -1,17 +1,14 @@
 extends _template
 
 block pageSpecificVars
-  - var pageTitle = "Design for UH Manoa, Part 2"
+  - var colour = "#F77F00"
+  - var pageTitle = "Design for UH M&amacr;noa, Pt. 2"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2006 - 2014"
+  - var copyText = "<p>As I've worked at the University of Hawai&lsquo;i at M&amacr;noa throughout my college career and afterward in multiple different instances, I've collected some of my work done there into a collection.</p>"
+  - var toolsUsed = "InDesign, Illustrator, Photoshop, MailChimp, Lightroom, Canon&nbsp;DSLR"
+  - var customBg = ""
+  - var shownWork = "assets/img/work/honors02.png"
 
 block content
-  article.project--content
-    section.project--writeup(data-aos="fade-right" data-aos-once="true")
-      h1.text-orange Design for UH M&amacr;noa, Pt. 2
-      h3 2006 - 2014
-      p As I've worked at the University of Hawai&lsquo;i at M&amacr;noa throughout my college career and afterward in multiple different instances, I've collected some of my work done there into a collection.
-      
-      h6 Tools used: InDesign, Illustrator, Photoshop, MailChimp
-      h2 #[a(href="javascript:history.back()") &larr; ]
-    section.project--images(data-aos="fade-left" data-aos-once="true")
-      div
-        img.b-lazy(src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' data-src='assets/img/work/honors02.png')
+  include _project.pug

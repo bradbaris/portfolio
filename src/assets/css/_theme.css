@@ -23,6 +23,16 @@
   Uniform Extra Condensed 800 (Ultra  )
 */
 
+html {
+  font-size: 16px;
+}
+
+a:hover,a:visited,a:link,a:visited {
+  font-family: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+
 .gridfolio {
   background-image: url(../img/asanoha-400px.jpg);
 }
@@ -144,24 +154,25 @@
 }
 
 .project--content {
-  display: flex;
-  height: 100vh;
+  display: block;
 }
 
 .project--writeup, .project--images {
-  display: flex;
-  flex-direction: column;
+  display: block;
 }
 
 .project--writeup {
-  padding: 60px;
+  width: 100vw;
+  height: auto;
+  padding: 20px;
   text-align: left;
-  width: calc(100% / 3 * 1);
-
+  
   & p {
     font-family: $arial-sans;
-    line-height: 1.5rem;
-    margin-top: 1.5rem;
+    line-height: responsive 1.5rem 2rem;
+    font-size: responsive 1rem 1.25rem;
+    font-range: 400px 1200px;
+    margin-top: 2rem;
     margin-bottom: 0;
   }
 
@@ -169,20 +180,20 @@
     word-break: keep-all;
     font-family: $header-serif;
     margin-top: 1.5rem;
-    margin-bottom: 0;
     line-height: 1.5rem;
     font-weight: 400;
   }
   & h1 {
-    font-size: calc(1rem + 3vw);
-    line-height: calc(1rem + 3vw);
-    margin-top: 3rem;
-    margin-bottom: 2rem;
+    font-size: responsive 3.75rem 4.5rem;
+    line-height: responsive 3.75rem 4.75rem;
+    font-range: 400px 1200px;
+    font-weight: 900;
+    margin: 1.5rem 0;
   }
   & h2 {
-    font-size: 2.828rem;
-    line-height: 3rem;
-    margin-top: 3rem;
+    font-size: responsive 2.828rem 3.5rem;
+    line-height: responsive 3rem 3.75rem;
+    margin-top: 0.25rem;
   }
   & h3 {
     font-size: 1.414rem;
@@ -194,25 +205,39 @@
     font-size: 0.6rem;
   }
   & h6 {
-    font-family: $uniform-sans;
-    font-size: 0.65rem;
-    margin-top: 1rem;
-    margin-bottom: 0;
-    line-height: 1.15rem;
+    font-size: 0.5rem;
+  }
+}
+
+p.tech {
+  font-family: $uniform-boldsans;
+  font-size: responsive 0.8rem 1rem;
+  line-height: responsive 1.4rem 1.8rem;
+  font-range: 400px 1200px;
+}
+
+a.back {
+  display: inline-block;
+  margin-top: 2rem;
+  & svg {
+    width: 40px;
+    height: 40px;
   }
 }
 
 .project--images {
+  display: block;
   overflow: hidden;
+  padding: 5px;
+  width: 100vw;
+  text-align: center;
   background-color: #eee;
-  width: calc(100% / 3 * 2);
 }
 
 .project--images img {
-  filter: drop-shadow(2px 4px 3px #333);
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover;
+  position: relative;
+  width: 90vw;
+  height: auto;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content {
@@ -225,7 +250,6 @@
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title {
   color: $white;
-  /*font-size: 2vw;*/
   font-family: $header-serif;
   font-weight: 900;
   font-style: normal;
@@ -244,15 +268,13 @@
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-description {
-  /*font-size: 16px;*/
   font-weight: 400;
   font-family: $description-sans;
-  letter-spacing: .5px;
+  letter-spacing: 0.5px;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-tags-wrapper {
-  /*font-size: 9px;*/
-  letter-spacing: 0.2em;
+  letter-spacing: 0.5px;
   text-align: left;
 }
 
@@ -261,52 +283,65 @@
   background-color: transparent;
   margin: 0; padding: 0;
   padding-right: 10px;
-  /*border-bottom: 2px solid #fff;*/
 }
 
 .baseline-icon {
   position: relative;
   top: 3px;
-  height: 1em;
+  height: 1rem;
 }
 
-p.condensed {
+.condensetext {
   font-size: 90%;
 }
 
-/*@media (min-width: 500px) {
-  .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
-    font-size: 30px;
-  }
-}*/
+.copyright {
+  color: #DDDDDD;
+}
 
-/*@media (min-width: 900px) {
-  .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
-    font-size: 28px;
+@media (min-width: 500px) {
+  .project--writeup {
+    padding: 60px;
   }
-}*/
+}
 
-@media (max-width: 1400px) {
+@media (min-width: 1200px) {
   .project--content {
-    display: block;
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+    align-items: stretch;
+  }
+  .project--writeup, .project--images {
+    display: flex;
+    flex-direction: column;
   }
   .project--writeup {
-    display: block;
-    width: 100vw;
+    width: 37.5vw;
   }
   .project--images {
-    display: block;
-    padding: 90px 20px;
-    width: 100vw;
-    text-align: center;
+    width: 62.5vw;
+    padding: 3vw;
   }
   .project--images img {
-    position: relative;
-    width: 70vw;
-    height: auto;
+    filter: drop-shadow(2px 4px 3px #333);
+    width: 100vw;
+    object-fit: cover;
   }
-  .project--writeup h1 {
-    font-size: calc(3rem + 2vw);
-    line-height: calc(3rem + 2vw);
+}
+
+@media (min-width: 2000px) {
+  .project--writeup h3 {
+    font-size: calc(1rem + 1vw);
+    line-height: calc(1rem + 2vw);
+  }
+  .project--writeup p {
+    font-size: calc(1rem + 0.5vw);
+    line-height: calc(1rem + 1vw);
+  }
+  .project--writeup h6 {
+    font-size: 1.1rem;
+    line-height: 2rem;
+    margin: 2vw 0;
   }
 }
