@@ -12,6 +12,7 @@ const fs                       = require('fs'),
       browserify               = require('browserify'),
       spawn                    = require('child_process').spawn,
       del                      = require('del'),
+      eventstream              = require('event-stream'),
       gulp                     = require('gulp'),
       gulp_concat              = require('gulp-concat'),
       gulp_cssnano             = require('gulp-cssnano'),
@@ -30,6 +31,7 @@ const fs                       = require('fs'),
       gulp_util                = require('gulp-util'),
       lost                     = require('lost'),
       nlf                      = require('nlf'),
+      path                     = require('path'),
       argv                     = require('minimist')(process.argv),
       postcss_easy_import      = require('postcss-easy-import'),
       postcss_nested           = require('postcss-nested'),
@@ -117,9 +119,10 @@ gulp.task('css', ['html'], () => {
   return gulp.src(`${paths.src.css}/main.css`)
     .pipe(gulp_sourcemaps.init())
     .pipe(gulp_postcss(processors))
-    .pipe(argv.production ? gulp_uncss({ 
-      html : [`${paths.build.html}/*.html`], // unCSS will crash if a path is empty
-      }) : gulp_util.noop())
+    // disabled until i decide how to include js-injected classes first
+    // .pipe(argv.production ? gulp_uncss({ 
+    //   html : [`${paths.build.html}/*.html`], // unCSS will crash if a path is empty
+    //   }) : gulp_util.noop())
     .pipe(gulp_concat('master.css'))
     .pipe(argv.production ? gulp_cssnano() : gulp_util.noop())
     .pipe(gulp_sourcemaps.write('.'))
@@ -135,16 +138,22 @@ gulp.task('js', () => {
 
   gulp.src(`${paths.src.js}/vendor/*.js`)
     .pipe(gulp.dest(paths.build.js+'/vendor'));
+  
+  const files = [`${paths.src.js}/grid.js`,`${paths.src.js}/main.js`];
+  let multibundle = files.map(function(entry) {
+    return browserify({ entries: [entry] })
+      .transform(babelify)
+      .bundle()
+      .pipe(vinyl_source(path.basename(entry)))
+      .pipe(vinyl_buffer())
+      .pipe(gulp_sourcemaps.init({ loadMaps: true }))
+      .pipe(gulp_uglify({ mangle: true }))
+      .pipe(gulp_sourcemaps.write('sourcemaps'))
+      .pipe(gulp.dest(paths.build.js));
+  });
 
-  return browserify(`${paths.src.js}/main.js`)
-    .transform(babelify)
-    .bundle()
-    .pipe(vinyl_source('main.js'))
-    .pipe(vinyl_buffer())
-    .pipe(gulp_sourcemaps.init({ loadMaps: true }))
-    .pipe(gulp_uglify({ mangle: true }))
-    .pipe(gulp_sourcemaps.write('sourcemaps'))
-    .pipe(gulp.dest(paths.build.js));
+  return eventstream.merge.apply(null, multibundle);
+
 });
 
 gulp.task('images', () => {

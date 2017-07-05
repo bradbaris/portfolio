@@ -11,3 +11,13 @@
     transform: none;
   }
 }
+
+.b-lazy {
+  opacity:0;
+  transition: opacity 1s ease-out;
+}
+
+.b-loaded {
+  opacity:1;
+  transform: none;
+}

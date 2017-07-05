@@ -1,0 +1,197 @@
+- var websiteTitle = 'Brad Baris - Design/Creative & Web Engineer'
+- var metadataURL = 'https://bradbaris.com/'
+- var metadataImage = 'https://bradbaris.com/design/assets/img/og_thumbnail.jpg'
+- var metadataDescription = 'Designer by trade and hobby, Developer by nature and lifelong interest. Now a tech generalist, spanning full-stack web development and software engineering.'
+- var twitterName = '@bradbaris'
+
+doctype
+html(lang='en')
+  head
+    title #{websiteTitle}
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible'   content='IE=Edge')
+    meta(name='author'                  content='Brad Baris')
+    meta(name='description'             content=metadataDescription)
+    meta(name='viewport'                content='width=device-width, initial-scale=1')
+    meta(itemprop='name'                content=websiteTitle)
+    meta(itemprop='description'         content=metadataDescription)
+    meta(property='og:title'            content=websiteTitle)
+    meta(property='og:site_name'        content=websiteTitle)
+    meta(property='og:type'             content='website')
+    meta(property='og:url'              content=metadataURL)
+    meta(property='og:description'      content=metadataDescription)
+    meta(property='og:image'            content=metadataImage)
+    meta(property='og:image:secure_url' content=metadataImage)
+    meta(property='og:image:width'      content='1200')
+    meta(property='og:image:height'     content='650')
+    meta(name='twitter:card'            content='summary_large_image')
+    meta(name='twitter:site'            content=twitterName)
+    meta(name='twitter:title'           content=websiteTitle)
+    meta(name='twitter:description'     content=metadataDescription)
+    meta(name='twitter:creator'         content=twitterName)
+    meta(name='twitter:image'           content=metadataImage)    
+  
+    link(rel="manifest" href="/design/assets/favicons/manifest.json")
+    meta(name="mobile-web-app-capable" content="yes")
+    meta(name="theme-color" content="transparent")
+    meta(name="application-name" content="Brad Baris")
+    link(rel="apple-touch-icon" sizes="57x57" href="/design/assets/favicons/apple-touch-icon-57x57.png")
+    link(rel="apple-touch-icon" sizes="60x60" href="/design/assets/favicons/apple-touch-icon-60x60.png")
+    link(rel="apple-touch-icon" sizes="72x72" href="/design/assets/favicons/apple-touch-icon-72x72.png")
+    link(rel="apple-touch-icon" sizes="76x76" href="/design/assets/favicons/apple-touch-icon-76x76.png")
+    link(rel="apple-touch-icon" sizes="114x114" href="/design/assets/favicons/apple-touch-icon-114x114.png")
+    link(rel="apple-touch-icon" sizes="120x120" href="/design/assets/favicons/apple-touch-icon-120x120.png")
+    link(rel="apple-touch-icon" sizes="144x144" href="/design/assets/favicons/apple-touch-icon-144x144.png")
+    link(rel="apple-touch-icon" sizes="152x152" href="/design/assets/favicons/apple-touch-icon-152x152.png")
+    link(rel="apple-touch-icon" sizes="180x180" href="/design/assets/favicons/apple-touch-icon-180x180.png")
+    meta(name="apple-mobile-web-app-capable" content="yes")
+    meta(name="apple-mobile-web-app-status-bar-style" content="black-translucent")
+    meta(name="apple-mobile-web-app-title" content="Brad Baris")
+    link(rel="icon" type="image/png" sizes="228x228" href="/design/assets/favicons/coast-228x228.png")
+    link(rel="yandex-tableau-widget" href="/design/assets/favicons/yandex-browser-manifest.json")
+    meta(name="msapplication-TileColor" content="transparent")
+    meta(name="msapplication-TileImage" content="/design/assets/favicons/mstile-144x144.png")
+    meta(name="msapplication-config" content="/design/assets/favicons/browserconfig.xml")
+    link(rel="icon" type="image/png" sizes="32x32" href="/design/assets/favicons/favicon-32x32.png")
+    link(rel="icon" type="image/png" sizes="16x16" href="/design/assets/favicons/favicon-16x16.png")
+    link(rel="shortcut icon" href="/design/assets/favicons/favicon.ico")
+    link(rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/design/assets/favicons/apple-touch-startup-image-320x460.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/design/assets/favicons/apple-touch-startup-image-640x920.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/design/assets/favicons/apple-touch-startup-image-640x1096.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/design/assets/favicons/apple-touch-startup-image-750x1294.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/design/assets/favicons/apple-touch-startup-image-1182x2208.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/design/assets/favicons/apple-touch-startup-image-1242x2148.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/design/assets/favicons/apple-touch-startup-image-748x1024.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/design/assets/favicons/apple-touch-startup-image-768x1004.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/design/assets/favicons/apple-touch-startup-image-1496x2048.png")
+    link(rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/design/assets/favicons/apple-touch-startup-image-1536x2008.png")
+
+    link(rel='canonical' href=metadataURL)
+  
+    style(type="text/css"). 
+      /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+      html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}audio,video{display:inline-block}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{display:inline-block;vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details,menu{display:block}summary{display:list-item}canvas{display:inline-block}template{display:none}[hidden]{display:none}
+      /*# sourceMappingURL=normalize.min.css.map */
+      
+      body,
+      html {
+        min-height: 100%;
+        min-width: 100%;
+        height: 100%;
+        width: 100%;
+      }
+      
+      body {
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        background: #e2e2e2 url("/design/assets/img/asanoha-400px.jpg") repeat;
+        text-align: center;
+        text-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+        box-shadow: inset 0 0 33vw rgba(0, 0, 0, .8);
+        font-family: Arial, sans-serif;
+        display: flex;
+      }
+
+      .content {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+      }
+
+      footer {
+        position: fixed;
+        width: 100%;
+        height: 40px;
+        left: 0;
+        bottom: 0;
+        color: #000;
+        font-size: 16px;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      ul {
+        display: block;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        animation: 1s ease-out 0s normal forwards 1 intro;
+      }
+
+      ul li {
+        display: inline-block;
+        margin: 3vw;
+        padding: 0;
+      }
+
+      ul li svg {
+        display: block;
+        margin: 0 auto;
+        padding: 20px;
+        text-align: center;
+        fill: #000;
+        filter: drop-shadow( 0px 0px 4px rgba(0,0,0,0.25));
+        width: calc(40px + 5vw);
+        height: calc(40px + 5vw);
+        transition: all 0.5s ease-out;
+      }
+
+      ul li a svg:hover {
+        fill: #FCBF49;  
+        filter: none;
+        transform: none;
+      }
+
+      @media (max-width: 500px) {
+        .content {
+          height: 70%;
+          margin: auto;
+        }
+
+        ul li {
+          display: block;
+          width: 100%;
+          margin: 30px 0px;
+          padding: 0;
+        }
+      }
+
+  body
+    section.content
+      ul
+        li(title="Website")
+          a(href="https://bradbaris.com/design" target="_blank" rel="noopener noreferrer")
+            include ../img/icons/www.svg
+        li(title="GitHub")
+          a(href="https://github.com/bradbaris" target="_blank" rel="noopener noreferrer")
+            include ../img/icons/github.svg
+        li(title="Twitter")
+          a(href="https://twitter.com/bradbaris" target="_blank" rel="noopener noreferrer")
+            include ../img/icons/twitter.svg
+        li(title="LinkedIn")
+          a(href="https://linkedin.com/in/bradbaris" target="_blank" rel="noopener noreferrer")
+            include ../img/icons/linkedin.svg
+        li(title="Resume")
+          a(href="https://bradbaris.com/resume" target="_blank" rel="noopener noreferrer")
+            include ../img/icons/cv.svg
+        li(title="Email")
+          a(href="mailto:brad@nomadspaceship.com?subject=Hello Brad!")
+            include ../img/icons/email.svg
+
+    script.
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-24679984-1', 'auto');
+      ga('send', 'pageview');
