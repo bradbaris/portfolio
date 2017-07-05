@@ -22,11 +22,11 @@ module.exports =
     classname: 'blue chaminade-email'
   },
   {
-    title: 'AT&T Hackathons',
-    description: 'Won a few hackathons in recent years, and garnered recognition and honors in a few more.',
+    title: 'AT<span style="font-family:Georgia,serif;">&amp;</span>T Hackathons',
+    description: 'Grand Prize in 2016. Awarded prizes in three consecutive years, garnering recognition and accolades.',
     tags: ['hardware', 'code', 'javascript', 'web'],
     url: 'hackathons.html',
-    classname: 'beige'
+    classname: 'beige hackathons'
   },
   {
     title: 'Ambient',
@@ -43,7 +43,7 @@ module.exports =
     classname: 'red tedx'
   },
   {
-    title: 'Astronomy & Astrophysics',
+    title: 'Astronomy <span style="font-family:Georgia,serif;">&amp;</span> Astrophysics',
     description: 'Multipage mailers for the Institute for Astronomy, promoting newly-minted space program studies.',
     tags: ['design', 'print'],
     url: 'astronomy.html',

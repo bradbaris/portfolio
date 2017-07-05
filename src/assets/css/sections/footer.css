@@ -42,8 +42,13 @@ ul.social-media__list li.social-media__item {
   height: calc(20px + 3.5vw);
 }
 
+ul.social-media__list li.social-media__item svg {
+  transition: fill 0.5s ease-out;
+}
+
 ul.social-media__list li.social-media__item svg:hover {
   fill: $yellow;
+  transform: none;
 }
 
 ul.social-media__list li.social-media__item:last-of-type {

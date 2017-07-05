@@ -124,6 +124,10 @@ a:hover,a:visited,a:link,a:visited {
   background-image: url("../img/work/hawaiibiz.png");
 }
 
+.gridfolio--block.hackathons .gridfolio--block-content {
+  background-image: url("../img/work/hackathons.png");
+}
+
 .gridfolio--block.blue .gridfolio--block-content {
   background-color: $blue;
   color: $turquoise;
@@ -186,7 +190,7 @@ a:hover,a:visited,a:link,a:visited {
   & h1 {
     font-size: responsive 3.75rem 4.5rem;
     line-height: responsive 3.75rem 4.75rem;
-    font-range: 400px 1200px;
+    font-range: 400px 1600px;
     font-weight: 900;
     margin: 1.5rem 0;
   }
@@ -285,18 +289,12 @@ a.back {
   padding-right: 10px;
 }
 
-.baseline-icon {
-  position: relative;
-  top: 3px;
-  height: 1rem;
-}
-
 .condensetext {
   font-size: 90%;
 }
 
 .copyright {
-  color: #DDDDDD;
+  color: #cdcdcd;
 }
 
 @media (min-width: 500px) {
@@ -328,6 +326,9 @@ a.back {
     width: 100vw;
     object-fit: cover;
   }
+  a.back {
+    margin-bottom: 5rem;
+  }
 }
 
 @media (min-width: 2000px) {
@@ -339,9 +340,8 @@ a.back {
     font-size: calc(1rem + 0.5vw);
     line-height: calc(1rem + 1vw);
   }
-  .project--writeup h6 {
+  .project--writeup p.tech {
     font-size: 1.1rem;
     line-height: 2rem;
-    margin: 2vw 0;
   }
 }
