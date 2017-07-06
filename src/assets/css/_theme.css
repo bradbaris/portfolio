@@ -25,6 +25,7 @@
 
 html {
   font-size: 16px;
+  text-rendering: geometricPrecision;
 }
 
 a:hover,a:visited,a:link,a:visited {
@@ -172,7 +173,7 @@ a:hover,a:visited,a:link,a:visited {
   text-align: left;
   
   & p {
-    font-family: $arial-sans;
+    font-family: $source-serif;
     line-height: responsive 1.5rem 2rem;
     font-size: responsive 1rem 1.25rem;
     font-range: 400px 1200px;
@@ -182,7 +183,7 @@ a:hover,a:visited,a:link,a:visited {
 
   & h1,h2,h3,h4,h5 {
     word-break: keep-all;
-    font-family: $header-serif;
+    font-family: $playfair-serif;
     margin-top: 1.5rem;
     line-height: 1.5rem;
     font-weight: 400;
@@ -254,7 +255,7 @@ a.back {
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title {
   color: $white;
-  font-family: $header-serif;
+  font-family: $playfair-serif;
   font-weight: 900;
   font-style: normal;
   word-wrap: break-word;
@@ -273,17 +274,18 @@ a.back {
 
 .gridfolio[data-theme="baris"] .gridfolio--block-description {
   font-weight: 400;
-  font-family: $description-sans;
-  letter-spacing: 0.5px;
+  font-family: $source-sans;
+  letter-spacing: 0.1px;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-tags-wrapper {
-  letter-spacing: 0.5px;
   text-align: left;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-tags span {
-  font-weight: 600;
+  letter-spacing: 1px;
+  font-family: Arial, sans-serif;
+  font-weight: 400;
   background-color: transparent;
   margin: 0; padding: 0;
   padding-right: 10px;

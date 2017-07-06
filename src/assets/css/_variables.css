@@ -1,9 +1,7 @@
-$header-serif     : 'Playfair Display', Georgia, Times, serif;
-$description-sans : UniformCondensedLight-Regular, Arial, sans-serif;
-$uniform-sans     : UniformMedium-Regular, Arial, sans-serif;
+$playfair-serif   : 'Playfair Display', Georgia, Times, serif;
+$source-serif     : 'Source Serif Pro', Georgia, serif;
+$source-sans      : 'Source Sans Pro', Arial, sans-serif;
 $uniform-boldsans : UniformBold-Regular, Arial, sans-serif;
-$uniform-condsans : UniformCondensedMedium-Regular, Arial, sans-serif;
-$arial-sans       : Arial, sans-serif;
 
 /* https://coolors.co/003049-d62828-f77f00-fcbf49-eae2b7 */
 $black           : #000000;
@@ -27,5 +25,3 @@ $cham-blue       : #003399;
 .text-beige      { color: $beige;    }
 .text-darkgrey   { color: $darkgrey; }
 .text-cham-blue  { color: $cham-blue;}
-.text-uniform    { font-family: $uniform-sans;}
-.text-uniformcnd { font-family: $uniform-condsans;}

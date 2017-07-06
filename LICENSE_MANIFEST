@@ -837,6 +837,13 @@
       "url": "(none)"
     }
   },
+  "blazy@1.8.2": {
+    "Resource-URL": "http://github.com/dinbror/blazy",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
+  },
   "blob@0.0.4": {
     "Resource-URL": "ssh://git@github.com/rase-/blob"
   },
@@ -2168,8 +2175,12 @@
       "url": "(none)"
     }
   },
-  "event-stream@3.0.20": {
-    "Resource-URL": "http://github.com/dominictarr/event-stream"
+  "event-stream@3.3.4": {
+    "Resource-URL": "http://github.com/dominictarr/event-stream",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
   },
   "eventemitter3@1.2.0": {
     "Resource-URL": "http://github.com/primus/eventemitter3",
@@ -4576,13 +4587,6 @@
       "url": "(none)"
     }
   },
-  "lost@8.0.0": {
-    "Resource-URL": "https://github.com/peterramsing/lost",
-    "License": {
-      "license": "MIT",
-      "url": "(none)"
-    }
-  },
   "loud-rejection@1.6.0": {
     "Resource-URL": "https://github.com/sindresorhus/loud-rejection",
     "License": {
@@ -4674,12 +4678,8 @@
       "url": "(none)"
     }
   },
-  "map-stream@0.0.7": {
-    "Resource-URL": "http://github.com/dominictarr/map-stream",
-    "License": {
-      "license": "MIT",
-      "url": "(none)"
-    }
+  "map-stream@0.1.0": {
+    "Resource-URL": "(none)"
   },
   "math-expression-evaluator@1.2.17": {
     "Resource-URL": "https://github.com/redhivesoftware/math-expression-evaluator#readme",
@@ -6781,8 +6781,12 @@
       "url": "(none)"
     }
   },
-  "split@0.2.10": {
-    "Resource-URL": "http://github.com/dominictarr/split"
+  "split@0.3.3": {
+    "Resource-URL": "(none)",
+    "License": {
+      "license": "MIT",
+      "url": "(none)"
+    }
   },
   "sprintf-js@1.0.3": {
     "Resource-URL": "https://github.com/alexei/sprintf.js",

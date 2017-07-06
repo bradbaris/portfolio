@@ -121,7 +121,7 @@ module.exports =
     classname: 'beige followgraphic'
   },
   {
-    title: 'Logos and &#x03BB;&#x03CC;&#x03B3;&#x03BF;&#x03C2;',
+    title: 'Logos <span style="font-family:Georgia,serif;">&amp;</span> &#x03BB;&#x03CC;&#x03B3;&#x03BF;&#x03C2;',
     description: 'Curated logo work from branding projects, including concepts and delivered ideas.',
     tags: ['design', 'branding', 'misc'],
     url: 'logos.html',
