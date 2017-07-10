@@ -8,6 +8,7 @@ let   gulp_process,
       servertag;
 const fs                       = require('fs'),
       path                     = require('path'),
+      autoprefixer             = require('autoprefixer'),
       babelify                 = require('babelify'),
       browser_sync             = require('browser-sync').create(),
       browserify               = require('browserify'),
@@ -113,7 +114,8 @@ gulp.task('css', ['html'], () => {
         postcss_simple_vars,
         postcss_nested,
         postcss_resptype,
-        postcss_reporter
+        postcss_reporter,
+        autoprefixer()
         ];
 
   return gulp.src(`${paths.src.css}/main.css`)

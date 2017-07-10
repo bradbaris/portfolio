@@ -9,7 +9,7 @@ module.exports =
   },
   {
     title: 'Résumé',
-    description: 'If you are looking for a developer and/or designer, take a look at my résumé! I have diverse work experiences in the web industry and am knowledgeable in programming, design, and technology.',
+    description: 'If you are looking for a developer and/or designer, let&rsquo;s talk! I have diverse work experiences in the web industry and am knowledgeable in programming, design, and technology.',
     tags: [''],
     url: 'https://bradbaris.com/resume',
     classname: 'yellow'

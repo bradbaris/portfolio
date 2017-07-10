@@ -149,13 +149,6 @@
       "url": "(none)"
     }
   },
-  "aos@2.1.1": {
-    "Resource-URL": "https://github.com/michalsnik/aos",
-    "License": {
-      "license": "MIT",
-      "url": "(none)"
-    }
-  },
   "aproba@1.1.1": {
     "Resource-URL": "(none)",
     "License": {
@@ -1246,13 +1239,6 @@
     "Resource-URL": "https://github.com/lahmatiy/clap",
     "License": {
       "license": "MIT",
-      "url": "(none)"
-    }
-  },
-  "classlist-polyfill@1.2.0": {
-    "Resource-URL": "https://github.com/yola/classlist-polyfill",
-    "License": {
-      "license": "Unlicense",
       "url": "(none)"
     }
   },
@@ -4328,13 +4314,6 @@
       "url": "(none)"
     }
   },
-  "lodash.debounce@4.0.8": {
-    "Resource-URL": "https://github.com/lodash/lodash",
-    "License": {
-      "license": "MIT",
-      "url": "(none)"
-    }
-  },
   "lodash.defaults@4.2.0": {
     "Resource-URL": "https://github.com/lodash/lodash",
     "License": {
@@ -4539,13 +4518,6 @@
     }
   },
   "lodash.templatesettings@3.1.1": {
-    "Resource-URL": "https://github.com/lodash/lodash",
-    "License": {
-      "license": "MIT",
-      "url": "(none)"
-    }
-  },
-  "lodash.throttle@4.1.1": {
     "Resource-URL": "https://github.com/lodash/lodash",
     "License": {
       "license": "MIT",

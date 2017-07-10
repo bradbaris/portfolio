@@ -246,7 +246,7 @@ a.back {
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-content {
-  padding: 30px;
+  padding: 10%;
 }
 
 .gridfolio[data-theme="baris"] .gridfolio--block-title-wrapper {
@@ -297,6 +297,7 @@ a.back {
 
 .copyright {
   color: #cdcdcd;
+  font-size: 90%;
 }
 
 @media (min-width: 500px) {
