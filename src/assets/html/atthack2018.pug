@@ -1,0 +1,14 @@
+extends _template
+
+block pageSpecificVars
+  - var colour = "#003399"
+  - var pageTitle = "AT<span style='font-family:Georgia,serif;'>&amp;</span>T Hackathon 2018"
+  - var pageHeader = pageTitle
+  - var timeFrame = "2018"
+  - var copyText = "<p><b>AT&T Hackathon 2018</b> – <i>“Best UI/UX/Design” Award</i>: I created an app named ART&FACT (Artifact) to explore and promote public artworks and the 'art & facts' behind each piece. The app revolves around geocached 'tour guide' stories for public artworks, unlocked by user proximity. To see each artwork's hidden stories, one must actually visit the artwork and be within 50 meters to read it. I did the concept and branding, assembled the datasets from State of Hawaii resources, and built the app in React Native. By the time of presenting, 24 hours after the start, it was a fully-functional app!"
+  - var toolsUsed = "React Native, Expo, CLI tools, Excel, Sketch"
+  - var customBg = "#EEEEEE"
+  - var shownWork = "assets/img/work/atthack2018_01.png"
+
+block content
+  include _project.pug
