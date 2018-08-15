@@ -129,6 +129,10 @@ a:hover,a:visited,a:link,a:visited {
   background-image: url("../img/work/hackathons.png");
 }
 
+.gridfolio--block.hackathons-alt .gridfolio--block-content {
+  background-image: url("../img/work/hackathons_alt.png");
+}
+
 .gridfolio--block.blue .gridfolio--block-content {
   background-color: $blue;
   color: $turquoise;

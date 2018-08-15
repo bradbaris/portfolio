@@ -82,27 +82,29 @@ html(lang='en')
       }
       
       body {
+        display: flex;
         color: #fff;
         margin: 0;
         padding: 0;
-        background: #e2e2e2 url("/design/assets/img/asanoha-400px.jpg") repeat;
+        //background: #e2e2e2 url("/design/assets/img/asanoha-400px.jpg") repeat;
         text-align: center;
         /* text-shadow: 0 2px 4px rgba(0, 0, 0, .5); */
-        box-shadow: inset 0 0 33vw rgba(0, 0, 0, .8);
+        /* box-shadow: inset 0 0 33vw rgba(0, 0, 0, .8); */
         font-family: Arial, sans-serif;
         display: flex;
       }
 
       .content {
-        width: 100vw;
-        height: 100vh;
         display: flex;
+        width: 40vw;
+        height: auto;
+        margin: auto;
+        border-radius: 6px;
         flex-direction: column;
         flex-wrap: wrap;
         justify-content: center;
         align-content: center;
         align-items: center;
-        box-shadow: none;
       }
 
       footer {
@@ -135,7 +137,7 @@ html(lang='en')
 
       ul li {
         display: inline-block;
-        margin: 3vw;
+        margin: 2vw;
         padding: 0;
       }
 
@@ -146,8 +148,8 @@ html(lang='en')
         text-align: center;
         fill: #000;
         filter: drop-shadow( 0px 0px 4px rgba(0,0,0,0.25));
-        width: calc(40px + 5vw);
-        height: calc(40px + 5vw);
+        width: calc(20px + 5vw);
+        height: calc(20px + 5vw);
         transition: all 0.5s ease-out;
       }
 
@@ -157,17 +159,16 @@ html(lang='en')
         /* transform: none; */
       }
 
-      @media (max-width: 500px) {
+      @media (max-width: 600px) {
         .content {
-          height: 70%;
-          margin: auto;
+          height: 70vh;
+          width: 40vw;
         }
 
-        ul li {
-          display: block;
-          width: 100vw;
-          margin: 30px 0px;
-          padding: 0;
+        ul li svg {
+          padding: 10px;
+          width: 16vw;
+          height: 16vw;
         }
       }
 

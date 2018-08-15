@@ -15,6 +15,13 @@ module.exports =
     classname: 'yellow'
   },
   {
+    title: '2018 AT<span style="font-family:Georgia,serif;">&amp;</span>T Hackathon',
+    description: 'Created app called ART&WORKS, for artifacts and the "art & facts" behind each artwork.',
+    tags: ['hardware', 'javascript', 'web', 'code', 'design'],
+    url: 'atthack2018.html',
+    classname: 'red hackathons-alt'
+  },
+  {
     title: 'Chaminade University',
     description: 'Cross-platform email designs done for inaugural constituent campaigns at Chaminade University',
     tags: ['email', 'ui', 'data', 'web', 'photo'],
